@@ -1,0 +1,37 @@
+{
+  "San Antonio Spurs": {
+    "team_id": 135242,
+    "matched_name": "San Antonio Spurs",
+    "score": 100.0
+  },
+  "Melbourne United": {
+    "team_id": 1635,
+    "matched_name": "Melbourne United",
+    "score": 100.0
+  },
+  "Los Angeles Lakers": {
+    "team_id": 124179,
+    "matched_name": "Los Angeles Lakers",
+    "score": 100.0
+  },
+  "Real Madrid": {
+    "team_id": 1990422,
+    "matched_name": "Real Madrid",
+    "score": 100.0
+  },
+  "Bahcesehir Koleji": {
+    "team_id": 1076448,
+    "matched_name": "Bahcesehir Kol.",
+    "score": 87.5
+  },
+  "Nanterre": {
+    "team_id": 18655,
+    "matched_name": "Nanterre 92",
+    "score": 84.21052631578947
+  },
+  "Monaco": {
+    "team_id": 14400,
+    "matched_name": "Monaco",
+    "score": 100.0
+  }
+}
