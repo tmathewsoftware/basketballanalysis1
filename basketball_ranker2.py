@@ -16,7 +16,6 @@ def get_tomorrow_date():
 
 
 def fetch_match_details(match_id):
-    """Fetch home team, away team and league for a single match."""
     url = f"{BASE_URL}/matches/{match_id}"
     response = requests.get(url, headers=HEADERS)
     data = response.json()
@@ -26,6 +25,7 @@ def fetch_match_details(match_id):
             "home": match.get("homeTeam", {}).get("name", "Unknown"),
             "away": match.get("awayTeam", {}).get("name", "Unknown"),
             "league": match.get("league", {}).get("name", "Unknown League"),
+            "date": match.get("date", "")
         }
     return None
 
@@ -138,16 +138,46 @@ def build_ranked_list(odds):
 
 def fetch_upcoming_games():
     melbourne_tz = zoneinfo.ZoneInfo("Australia/Melbourne")
-    today = datetime.now(melbourne_tz).date()
+    now = datetime.now(melbourne_tz)
+    cutoff = now + timedelta(hours=48)
+
+    print(f"\nFetching upcoming games...")
+
+    # Fetch today and tomorrow to cover all timezone cases
+    today = now.date()
     tomorrow = today + timedelta(days=1)
-    
-    print(f"\nFetching games for {today} and {tomorrow}...")
-    
+
     odds_today = fetch_all_odds(str(today))
     odds_tomorrow = fetch_all_odds(str(tomorrow))
     odds = {**odds_today, **odds_tomorrow}
-    
-    ranked = build_ranked_list(odds)
+
+    # Filter to only games within next 48 hours
+    games = []
+    for match_id, odds_data in odds.items():
+        match = fetch_match_details(match_id)
+        if not match:
+            continue
+        match_time = match.get("date", "")
+        if match_time:
+            try:
+                match_dt = datetime.fromisoformat(match_time.replace("Z", "+00:00"))
+                match_dt_melb = match_dt.astimezone(melbourne_tz)
+                if now <= match_dt_melb <= cutoff:
+                    games.append({
+                        "event_id": match_id,
+                        "home": match["home"],
+                        "away": match["away"],
+                        "league": match["league"],
+                        "spread": odds_data["spread"],
+                        "total": odds_data["total"]
+                    })
+            except:
+                pass
+
+    ranked = sorted(games, key=lambda x: (x["spread"], x["total"]))
+    for i, game in enumerate(ranked, 1):
+        game["rank"] = i
+
     print(f"\n{len(ranked)} games ranked\n")
     return ranked
 
