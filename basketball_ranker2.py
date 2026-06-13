@@ -135,44 +135,31 @@ def build_ranked_list(odds):
 
     return ranked
 
-
 def fetch_upcoming_games():
-    melbourne_tz = zoneinfo.ZoneInfo("Australia/Melbourne")
-    now = datetime.now(melbourne_tz)
-    cutoff = now + timedelta(hours=48)
+    from datetime import timezone
+    now_utc = datetime.now(timezone.utc)
+    today_utc = now_utc.date()
+    tomorrow_utc = today_utc + timedelta(days=1)
 
     print(f"\nFetching upcoming games...")
 
-    # Fetch today and tomorrow to cover all timezone cases
-    today = now.date()
-    tomorrow = today + timedelta(days=1)
-
-    odds_today = fetch_all_odds(str(today))
-    odds_tomorrow = fetch_all_odds(str(tomorrow))
+    odds_today = fetch_all_odds(str(today_utc))
+    odds_tomorrow = fetch_all_odds(str(tomorrow_utc))
     odds = {**odds_today, **odds_tomorrow}
 
-    # Filter to only games within next 48 hours
     games = []
     for match_id, odds_data in odds.items():
         match = fetch_match_details(match_id)
         if not match:
             continue
-        match_time = match.get("date", "")
-        if match_time:
-            try:
-                match_dt = datetime.fromisoformat(match_time.replace("Z", "+00:00"))
-                match_dt_melb = match_dt.astimezone(melbourne_tz)
-                if now <= match_dt_melb <= cutoff:
-                    games.append({
-                        "event_id": match_id,
-                        "home": match["home"],
-                        "away": match["away"],
-                        "league": match["league"],
-                        "spread": odds_data["spread"],
-                        "total": odds_data["total"]
-                    })
-            except:
-                pass
+        games.append({
+            "event_id": match_id,
+            "home": match["home"],
+            "away": match["away"],
+            "league": match["league"],
+            "spread": odds_data["spread"],
+            "total": odds_data["total"]
+        })
 
     ranked = sorted(games, key=lambda x: (x["spread"], x["total"]))
     for i, game in enumerate(ranked, 1):
