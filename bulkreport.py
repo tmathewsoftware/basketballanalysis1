@@ -22,8 +22,7 @@ def generate_all_reports(ranked_games, progress_callback=None):
     """
     Generate H2H and Recent Games reports for all ranked games.
     Returns a zip file as bytes.
-
-    progress_callback: optional function(idx, total, game_name) for progress updates
+    Subfolders are named by league, with numbering if repeated.
     """
     melbourne_tz = zoneinfo.ZoneInfo("Australia/Melbourne")
     date_str = datetime.now(melbourne_tz).strftime("%d %b %Y")
@@ -32,11 +31,24 @@ def generate_all_reports(ranked_games, progress_callback=None):
     total = len(ranked_games)
     errors = []
 
+    # Track how many times each league appears
+    league_counts = {}
+
     with zipfile.ZipFile(zip_buffer, "w", zipfile.ZIP_DEFLATED) as zf:
         for idx, game in enumerate(ranked_games):
             home = game['home']
             away = game['away']
-            folder = f"Analysed Games {date_str}/{home} vs {away}"
+            league = game['league']
+
+            # Build unique folder name per league
+            if league not in league_counts:
+                league_counts[league] = 1
+                folder_name = league
+            else:
+                league_counts[league] += 1
+                folder_name = f"{league} {league_counts[league]}"
+
+            folder = f"Analysed Games {date_str}/{folder_name}"
 
             if progress_callback:
                 progress_callback(idx, total, f"{home} vs {away}")
