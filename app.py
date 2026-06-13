@@ -3,6 +3,7 @@ from basketball_ranker2 import fetch_upcoming_games
 from datetime import datetime
 import zoneinfo
 import os
+from bulkreport import generate_all_reports
 
 st.set_page_config(page_title="Basketball Ranker", layout="wide")
 
@@ -99,6 +100,36 @@ def load_games():
 
 with st.spinner("Fetching games and odds..."):
     ranked_games = load_games()
+
+# ── Bulk Report Button ────────────────────────────────────────────────────────
+if ranked_games:
+    col_left, col_right = st.columns([3, 1])
+    with col_right:
+        bulkreport = st.button("📦 Analyse All Games", key="analyse_all")
+else:
+    bulkreport = False
+
+# When the button is clicked:
+if bulkreport:
+    progress = st.progress(0, text="Starting...")
+    
+    def update_progress(idx, total, name):
+        progress.progress(idx / total, text=f"Generating {name}...")
+    
+    zip_buffer, date_str, errors = generate_all_reports(ranked_games, update_progress)
+    
+    progress.progress(1.0, text="Done!")
+    
+    for err in errors:
+        st.warning(err)
+    
+    st.download_button(
+        label="📥 Download All Reports",
+        data=zip_buffer,
+        file_name=f"Analysed Games {date_str}.zip",
+        mime="application/zip",
+        key="download_all"
+    )
 
 # ── Game buttons ──────────────────────────────────────────────────────────────
 if not ranked_games:
