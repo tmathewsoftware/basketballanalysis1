@@ -6,7 +6,7 @@ HIGHLIGHTLY_API_KEY = "5a5ad2b7-dc79-4187-af30-418b7bd28cae"
 BASE_URL = "https://basketball.highlightly.net"
 HEADERS = {"x-rapidapi-key": HIGHLIGHTLY_API_KEY}
 
-BET365_ID = 2
+
 
 
 def get_tomorrow_date():
@@ -58,7 +58,7 @@ def fetch_all_odds(date):
     while True:
         response = requests.get(url, headers=HEADERS, params={
             "date": date,
-            "bookmakerId": BET365_ID,
+            
             
             "limit": limit,
             "offset": offset

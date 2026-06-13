@@ -33,5 +33,95 @@
     "team_id": 14400,
     "matched_name": "Monaco",
     "score": 100.0
+  },
+  "Atlanta Dream Women": {
+    "team_id": 138646,
+    "matched_name": "Atlanta Dream Women",
+    "score": 100.0
+  },
+  "New York Liberty Women": {
+    "team_id": 145454,
+    "matched_name": "New York Liberty Women",
+    "score": 100.0
+  },
+  "Zielona G\u00f3ra": {
+    "team_id": 782853,
+    "matched_name": "Zielona G\u00f3ra",
+    "score": 100.0
+  },
+  "Legia": {
+    "team_id": 775194,
+    "matched_name": "Legia",
+    "score": 100.0
+  },
+  "Phoenix Mercury Women": {
+    "team_id": 146305,
+    "matched_name": "Phoenix Mercury Women",
+    "score": 100.0
+  },
+  "Los Angeles Sparks Women": {
+    "team_id": 143752,
+    "matched_name": "Los Angeles Sparks Women",
+    "score": 100.0
+  },
+  "Gimnasia y Esgrima de Comodoro Rivadavia": {
+    "team_id": 244170,
+    "matched_name": "Gimnasia y Esgrima de Comodoro Rivadavia",
+    "score": 100.0
+  },
+  "Quimsa": {
+    "team_id": 251829,
+    "matched_name": "Quimsa",
+    "score": 100.0
+  },
+  "Las Vegas Aces Women": {
+    "team_id": 142901,
+    "matched_name": "Las Vegas Aces Women",
+    "score": 100.0
+  },
+  "Minnesota Lynx Women": {
+    "team_id": 144603,
+    "matched_name": "Minnesota Lynx Women",
+    "score": 100.0
+  },
+  "Hapoel Galil Elyon": {
+    "team_id": 2319759,
+    "matched_name": "Hapoel Galil Elyon",
+    "score": 100.0
+  },
+  "Maccabi Raanana": {
+    "team_id": 2327418,
+    "matched_name": "Maccabi Raanana",
+    "score": 100.0
+  },
+  "Paris Basketball": {
+    "team_id": 92692,
+    "matched_name": "Paris Basketball",
+    "score": 100.0
+  },
+  "New York Knicks": {
+    "team_id": 129285,
+    "matched_name": "New York Knicks",
+    "score": 100.0
+  },
+  "Seattle Storm Women": {
+    "team_id": 147156,
+    "matched_name": "Seattle Storm Women",
+    "score": 100.0
+  },
+  "Golden State Valkyries Women": {
+    "team_id": 6235210,
+    "matched_name": "Golden State Valkyries Women",
+    "score": 100.0
+  },
+  "Connecticut Sun Women": {
+    "team_id": 140348,
+    "matched_name": "Connecticut Sun Women",
+    "score": 100.0
+  },
+  "Indiana Fever Women": {
+    "team_id": 142050,
+    "matched_name": "Indiana Fever Women",
+    "score": 100.0
   }
 }
