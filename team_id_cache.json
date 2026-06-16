@@ -123,5 +123,25 @@
     "team_id": 142050,
     "matched_name": "Indiana Fever Women",
     "score": 100.0
+  },
+  "Nelson Giants": {
+    "team_id": 729240,
+    "matched_name": "Nelson Giants",
+    "score": 100.0
+  },
+  "Manawatu Jets": {
+    "team_id": 728389,
+    "matched_name": "Manawatu Jets",
+    "score": 100.0
+  },
+  "Barangay Ginebra San Miguel": {
+    "team_id": 2355501,
+    "matched_name": "Barangay Ginebra San Miguel",
+    "score": 100.0
+  },
+  "TNT Tropang Giga": {
+    "team_id": 2363160,
+    "matched_name": "TNT Tropang Giga",
+    "score": 100.0
   }
 }

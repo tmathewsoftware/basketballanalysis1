@@ -1,5 +1,5 @@
 import streamlit as st
-from basketball_ranker2 import fetch_upcoming_games
+from basketball_ranker import fetch_upcoming_games, build_ranked_list
 from datetime import datetime
 import zoneinfo
 import os
@@ -95,7 +95,8 @@ def generate_excel_bytes(build_fn, *args):
 # ── Load games ────────────────────────────────────────────────────────────────
 @st.cache_data(show_spinner=False)
 def load_games():
-    return fetch_upcoming_games()
+    events = fetch_upcoming_games()
+    return build_ranked_list(events)
 
 
 with st.spinner("Fetching games and odds..."):
