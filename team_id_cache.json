@@ -353,5 +353,10 @@
     "team_id": 6235210,
     "matched_name": "Golden State Valkyries Women",
     "score": 100
+  },
+  "LV Aces": {
+    "team_id": 142901,
+    "matched_name": "Las Vegas Aces Women",
+    "score": 100
   }
 }
