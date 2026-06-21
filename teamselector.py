@@ -1,5 +1,6 @@
 import json
 import os
+import base64
 import requests
 from rapidfuzz import fuzz, process
 from league_mapping import get_league_info
@@ -13,6 +14,80 @@ HIGHLIGHTLY_API_KEY = "5a5ad2b7-dc79-4187-af30-418b7bd28cae"
 BASE_URL = "https://basketball.highlightly.net"
 HEADERS = {"x-rapidapi-key": HIGHLIGHTLY_API_KEY}
 
+GITHUB_API_BASE = "https://api.github.com"
+
+
+def _get_github_config():
+    """Read GitHub token and repo from Streamlit secrets, if available."""
+    try:
+        import streamlit as st
+        token = st.secrets.get("GITHUB_TOKEN")
+        repo = st.secrets.get("GITHUB_REPO")
+        if token and repo:
+            return token, repo
+    except Exception:
+        pass
+    return None, None
+
+
+def _github_headers(token):
+    return {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json"
+    }
+
+
+def github_load_cache():
+    """Load team_id_cache.json from GitHub repo. Returns dict or None if unavailable."""
+    token, repo = _get_github_config()
+    if not token or not repo:
+        return None
+
+    url = f"{GITHUB_API_BASE}/repos/{repo}/contents/{CACHE_FILE}"
+    try:
+        response = requests.get(url, headers=_github_headers(token))
+        if response.status_code != 200:
+            return None
+        data = response.json()
+        content = base64.b64decode(data["content"]).decode("utf-8")
+        return json.loads(content)
+    except Exception:
+        return None
+
+
+def github_save_cache(cache):
+    """Push updated team_id_cache.json to GitHub repo."""
+    token, repo = _get_github_config()
+    if not token or not repo:
+        return False
+
+    url = f"{GITHUB_API_BASE}/repos/{repo}/contents/{CACHE_FILE}"
+
+    # Get current file SHA (required for update)
+    sha = None
+    try:
+        get_resp = requests.get(url, headers=_github_headers(token))
+        if get_resp.status_code == 200:
+            sha = get_resp.json().get("sha")
+    except Exception:
+        pass
+
+    content_str = json.dumps(cache, indent=2)
+    content_b64 = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
+
+    payload = {
+        "message": "Update team_id_cache.json via app",
+        "content": content_b64,
+    }
+    if sha:
+        payload["sha"] = sha
+
+    try:
+        put_resp = requests.put(url, headers=_github_headers(token), json=payload)
+        return put_resp.status_code in (200, 201)
+    except Exception:
+        return False
+
 
 def load_teams_database():
     if not os.path.exists(DATABASE_FILE):
@@ -23,6 +98,14 @@ def load_teams_database():
 
 
 def load_cache():
+    """
+    Load cache, preferring GitHub (persistent) over local file (ephemeral on cloud).
+    Falls back to local file if GitHub isn't configured or fails.
+    """
+    github_cache = github_load_cache()
+    if github_cache is not None:
+        return github_cache
+
     if not os.path.exists(CACHE_FILE):
         return {}
     with open(CACHE_FILE) as f:
@@ -30,8 +113,14 @@ def load_cache():
 
 
 def save_cache(cache):
+    """
+    Save cache both locally and to GitHub (if configured) for persistence
+    across Streamlit Cloud restarts.
+    """
     with open(CACHE_FILE, "w") as f:
         json.dump(cache, f, indent=2)
+
+    github_save_cache(cache)
 
 
 def get_team_league(team_id):
