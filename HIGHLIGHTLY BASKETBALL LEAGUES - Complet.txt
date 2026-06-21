@@ -1,0 +1,575 @@
+HIGHLIGHTLY BASKETBALL LEAGUES - Complete List (343 total)
+==========================================================
+
+AUSTRALIA
+---------
+NBL (id: 1635)
+WNBL (id: 3337)
+NBL 1 (id: 4188)
+Australian NBL1 Women (id: 5039)
+ABL (id: 5890)
+
+AUSTRIA
+-------
+Zweite Liga (id: 6741)
+Austrian Cup (id: 103755)
+Super Cup (id: 162474)
+Superliga (id: 185451)
+Superliga Women (id: 186302)
+
+ARGENTINA
+---------
+Liga A (id: 16102)
+Copa Súper 20 (id: 19506)
+Super Cup Argentina (id: 153964)
+Liga Femenina (id: 176090)
+
+BAHRAIN
+-------
+Premier League (id: 104606)
+
+BELARUS
+-------
+Premier League (id: 95245)
+Premier League Women (id: 96096)
+
+BELGIUM
+-------
+Belgian Cup (id: 20357)
+BNXT League (id: 21208)
+Top Division Women (id: 22059)
+BNXT Pro Basketball League (id: 319058)
+
+BOLIVIA
+-------
+Libobasquet (id: 323313)
+
+BOSNIA AND HERZEGOVINA
+----------------------
+Bosnian Championship (id: 105457)
+Bosnia and Herzegovina Championship Women (id: 187153)
+
+BRAZIL
+------
+NBB (id: 22910)
+LBF Women (id: 23761)
+Copa Super 8 (id: 188004)
+CBB (id: 362459)
+
+BULGARIA
+--------
+NBL (id: 96947)
+Bulgarian Cup (id: 106308)
+Super Cup (id: 188855)
+
+CANADA
+------
+NBL (id: 24612)
+U SPORTS (id: 25463)
+CEBL (id: 189706)
+Super League (id: 345439)
+
+CHILE
+-----
+LNB (id: 97798)
+Copa LNB Chile (id: 190557)
+LNB Segunda División (id: 191408)
+Copa Chile (id: 332674)
+Supercopa de Chile (id: 346290)
+
+CHINA
+-----
+CBA (id: 27165)
+CN WCBA Women (id: 107159)
+CBA Club Cup (id: 365012)
+
+COLOMBIA
+--------
+LBP (id: 192259)
+
+CROATIA
+-------
+Premijer liga (id: 26314)
+Croatian Cup (id: 108010)
+Premijer Liga Women (id: 193110)
+Prva Liga (id: 193961)
+
+CYPRUS
+------
+Division A (id: 98649)
+
+CZECH REPUBLIC
+--------------
+NBL (id: 28016)
+ZBL Women (id: 28867)
+Czech Cup (id: 108861)
+Czech Cup Women (id: 109712)
+1. Liga (id: 194812)
+
+DENMARK
+-------
+Basketligaen (id: 29718)
+Dameligaen Women (id: 30569)
+Danish Cup (id: 110563)
+Danish Cup Women (id: 111414)
+
+DOMINICAN REPUBLIC
+------------------
+LNB (id: 324164)
+
+ESTONIA
+-------
+Korvpalli Meistriliiga (id: 31420)
+
+FINLAND
+-------
+Korisliiga (id: 32271)
+Korisliiga Women (id: 33122)
+I Divisioona A (id: 195663)
+I Divisioona Women (id: 196514)
+Suomen Cup (id: 333525)
+Suomen Cup Women (id: 334376)
+
+FRANCE
+------
+LNB (id: 2486)
+Pro B (id: 7592)
+Coupe de France (id: 8443)
+French League Women (id: 9294)
+Leaders Cup (id: 10145)
+All Stars (id: 113116)
+LNB Super Cup (id: 113967)
+Coupe de France Women (id: 197365)
+Ligue 2 Women (id: 198216)
+LNB Espoirs U21 (id: 199067)
+LFB Super Cup Women (id: 335227)
+
+GEORGIA
+-------
+Georgian Superliga (id: 33973)
+Georgian Cup (id: 336078)
+
+GERMANY
+-------
+BBL (id: 34824)
+1. DBBL Women (id: 35675)
+Pro A (id: 36526)
+Pro B (id: 37377)
+German Cup (id: 114818)
+
+GREECE
+------
+Greek A2 (id: 38228)
+Basket League (id: 39079)
+A1 Women (id: 199918)
+Super Cup (id: 200769)
+A2 Women (id: 201620)
+Greek Cup (id: 116520)
+Greek Cup Women (id: 336929)
+
+HUNGARY
+-------
+NB I A (id: 39930)
+NB I/A Women (id: 40781)
+Hungarian Cup Women (id: 117371)
+Magyar Kupa (id: 118222)
+
+ICELAND
+-------
+Premier league (id: 41632)
+Premier League Women (id: 42483)
+Icelandic Cup (id: 202471)
+
+INDONESIA
+---------
+IBL (id: 119073)
+
+IRAN
+----
+Super League (id: 203322)
+
+IRELAND
+-------
+Super League (id: 43334)
+
+ISRAEL
+------
+Super League (id: 44185)
+Israel State Cup (id: 119924)
+League Cup (id: 120775)
+Liga Leumit (id: 204173)
+Ligat Ha'Al Women (id: 205024)
+
+ITALY
+-----
+Lega A (id: 45036)
+Serie A1 Women (id: 45887)
+Lega A - Super Cup (id: 121626)
+Coppa Italia (id: 122477)
+Serie A2 (id: 206726)
+Serie A2 Women - North (id: 207577)
+Serie A2 Women South (id: 208428)
+Supercoppa Italiana Women (id: 209279)
+Coppa Italia Women (id: 205875)
+
+JAPAN
+-----
+B League (id: 48440)
+W League Women (id: 210130)
+B2 League (id: 347141)
+
+KAZAKHSTAN
+----------
+National League (id: 49291)
+Kazakhstan Premier League (id: 50142)
+Championship Women (id: 210981)
+Higher League (id: 337780)
+National League Women (id: 338631)
+
+KOSOVO
+------
+Superliga (id: 50993)
+Superleague Women (id: 339482)
+
+LATVIA
+------
+LBL (id: 125030)
+Latvian Cup (id: 347992)
+
+LEBANON
+-------
+Division 1 (id: 348843)
+
+LITHUANIA
+---------
+LKL (id: 51844)
+NKL (id: 52695)
+Moteru Lyga Women (id: 53546)
+King Mindaugas Cup (id: 211832)
+
+LUXEMBOURG
+----------
+Total League (id: 212683)
+Total League Women (id: 213534)
+
+MACEDONIA
+---------
+Macedonian Superleague (id: 57801)
+Macedonian Cup (id: 128434)
+Prva Liga Women (id: 219491)
+Prva Liga (id: 271402)
+
+MEXICO
+------
+LNBP (id: 54397)
+CIBACOPA (id: 214385)
+LMBPF Women (id: 215236)
+
+MONTENEGRO
+----------
+Prva A Liga (id: 55248)
+Montenegrin Cup (id: 216087)
+
+NETHERLANDS
+-----------
+DBL (id: 56099)
+Dutch Basketball Cup (id: 216938)
+WBL Women (id: 217789)
+Supercup (id: 126732)
+
+NEW ZEALAND
+-----------
+NBL (id: 56950)
+NBL Women (id: 218640)
+Tauihi Women (id: 319909)
+
+NORWAY
+------
+BLNO (id: 58652)
+Kvinneligaen Women (id: 59503)
+
+PARAGUAY
+--------
+LNB (id: 220342)
+
+PHILIPPINES
+-----------
+Philippine Cup (id: 129285)
+PBA Governors Cup (id: 130136)
+PBA Commissioner's Cup (id: 130987)
+MPBL (id: 363310)
+
+POLAND
+------
+Polish Cup Women (id: 60354)
+1 Liga (id: 61205)
+Energa Basket Liga (id: 62056)
+Energa Basket Liga Women (id: 62907)
+Polish Cup (id: 131838)
+Polish Super Cup (id: 132689)
+Super Cup Women (id: 221193)
+
+PORTUGAL
+--------
+LPB (id: 63758)
+Taca de Portugal (id: 64609)
+Super Cup (id: 134391)
+LFB Women (id: 222044)
+Proliga (id: 222895)
+Taça da Liga (id: 223746)
+Super Cup Women (id: 340333)
+Taça de Portugal Women (id: 341184)
+
+PUERTO RICO
+-----------
+BSN (id: 65460)
+
+QATAR
+-----
+QBL (id: 66311)
+
+ROMANIA
+-------
+Divizia A (id: 67162)
+Liga National Women (id: 68013)
+Romanian Cup (id: 135242)
+Romanian Cup Women (id: 224597)
+Romanian Super Cup (id: 342035)
+
+RUSSIA
+------
+Russian Cup Women (id: 68864)
+Russian Super League (id: 69715)
+VTB United League (id: 70566)
+Premier League Women (id: 71417)
+Russian Cup (id: 136093)
+VTB Super Cup (id: 225448)
+
+SAUDI ARABIA
+------------
+Saudi Premier League (id: 72268)
+
+SERBIA
+------
+First League (id: 73119)
+Super League (id: 73970)
+Korac cup (id: 136944)
+1. ZLS Women (id: 226299)
+
+SINGAPORE
+---------
+Singapore NBL (id: 349694)
+
+SLOVAKIA
+--------
+Extraliga (id: 74821)
+Extraliga Women (id: 75672)
+Slovakia Cup (id: 137795)
+
+SLOVENIA
+--------
+Liga Nova KBM (id: 76523)
+1. SKL Women (id: 77374)
+Slovenian Cup (id: 139497)
+
+SOUTH KOREA
+-----------
+KBL (id: 78225)
+WKBL Women (id: 79076)
+
+SPAIN
+-----
+ACB (id: 100351)
+Supercopa ACB (id: 101202)
+Copa del Rey (id: 102053)
+Liga Femenina Women (id: 80778)
+LEB Oro (id: 81629)
+LEB Plata (id: 82480)
+Supercopa Women (id: 140348)
+Spanish Cup Women (id: 141199)
+
+SWEDEN
+------
+Basketligan (id: 79927)
+Basketligan Women (id: 83331)
+Basketettan Women (id: 84182)
+Superettan (id: 85033)
+
+SWITZERLAND
+-----------
+SB League (id: 85884)
+SB League Women (id: 86735)
+
+TAJIKISTAN
+----------
+National League (id: 326717)
+Northern Cup (id: 327568)
+
+THAILAND
+--------
+TBL (id: 229703)
+
+TURKEY
+------
+TBL (id: 87586)
+TB2L (id: 88437)
+Super Ligi (id: 89288)
+KBSL Women (id: 90139)
+Turkish Cup (id: 142050)
+Super Cup (id: 142901)
+Turkish Cup Women (id: 143752)
+Super Cup Women (id: 144603)
+Turkish Federation Cup (id: 145454)
+TKBL Women (id: 230554)
+Turkish Federation Cup Women (id: 231405)
+
+TURKMENISTAN
+------------
+NBLT (id: 328419)
+
+UKRAINE
+-------
+FBU Superleague (id: 90990)
+SuperLeague Women (id: 91841)
+Ukrainian Cup (id: 146305)
+Super Cup (id: 232256)
+
+UNITED KINGDOM
+--------------
+BBL (id: 92692)
+WBBL Women (id: 93543)
+BBL Trophy (id: 148007)
+BBL Cup (id: 148858)
+Betty Codona Trophy (id: 350545)
+WBBL Cup (id: 233958)
+
+URUGUAY
+-------
+Liga Uruguaya (id: 94394)
+
+USA
+---
+NBA (id: 10996)
+NBA Women / WNBA (id: 11847)
+NIT (id: 12698)
+CBI (id: 13549)
+CIT (id: 14400)
+NBA Summer League Las Vegas (id: 15251)
+NBA G League (id: 17804)
+NBA Summer League Sacramento (id: 18655)
+NCAA (id: 99500)
+BIG3 (id: 152262)
+NBA Summer League Salt Lake City (id: 233958)
+NBA In-Season Tournament (id: 344588)
+NBA Cup (id: 359906)
+NCAA Women (id: 360757)
+California Classic (id: 320760)
+
+VENEZUELA
+---------
+Superliga (id: 234809)
+
+VIETNAM
+-------
+VBA (id: 235660)
+
+EUROPE (Multi-country)
+----------------------
+Euroleague (id: 102904)
+EuroCup Basketball (id: 165878)
+BIBL (id: 166729)
+EuroBasket (id: 168431)
+ABA League (id: 169282)
+Alpe Adria Cup (id: 170984)
+FIBA Europe Cup (id: 171835)
+Champions League (id: 172686)
+ABA League 2 (id: 173537)
+Latvia-Estonian League (id: 174388)
+EuroLeague Women (id: 306293)
+EuroCup Women (id: 307144)
+SuperCup Women (id: 307995)
+CEWL Women (id: 308846)
+WABA League Women (id: 309697)
+WBBL Women (id: 310548)
+ABA Supercup (id: 311399)
+EWBL Women (id: 312250)
+Liga Unike (id: 313101)
+BNXT League (id: 313952)
+ENBL (id: 314803)
+Federal Cup Women (id: 315654)
+Federal Cup (id: 330121)
+Czech-Slovak Cup (id: 357353)
+Liga Unike Women (id: 358204)
+DBB Supercup (id: 299485)
+Gomelsky Cup (id: 305442)
+EuroBasket Women (id: 282465)
+FIBA U20 EuroBasket (id: 280763)
+European Championship U20 Women (id: 284167)
+European Small Countries Championship (id: 291826)
+Games of the Small States of Europe (id: 297783)
+Games of the Small States of Europe Women (id: 298634)
+
+WORLD (International)
+---------------------
+Olympic Games (id: 164176)
+Olympic Games Women (id: 165027)
+Friendly International (id: 175239)
+Friendly International Women (id: 247574)
+World Championship U19 (id: 237362)
+FIBA U19 Women's Basketball World Cup (id: 238213)
+Intercontinental Cup (id: 239064)
+World Cup (id: 239915)
+FIBA AmeriCup (id: 240766)
+FIBA Women's AmeriCup (id: 241617)
+FIBA World Cup Women (id: 242468)
+Pan American Games (id: 244170)
+World Championship U17 (id: 245021)
+FIBA U17 Women's Basketball World Cup (id: 250127)
+Pan American Games Women (id: 250978)
+FIBA U16 Americas Championship Women (id: 251829)
+FIBA U16 Americas Championship (id: 252680)
+BCL Americas (id: 255233)
+Asia Championship U18 (id: 256084)
+FIBA Asia Cup (id: 256935)
+Asian Games Women (id: 257786)
+Asian Games (id: 258637)
+Southeast Asian Games (id: 259488)
+Southeast Asian Games Women (id: 260339)
+FIBA Asia Cup Women (id: 264594)
+FIBA U16 Asia Championship Women (id: 265445)
+FIBA U16 Asian Championship B Women (id: 266296)
+Asia Championship U16 (id: 267147)
+FIBA U18 Asia Championship Women (id: 268849)
+African Championship U18 (id: 272253)
+African Championship U16 (id: 273955)
+FIBA U16 African Championship Women (id: 274806)
+FIBA U18 African Championship Women (id: 275657)
+AfroBasket (id: 276508)
+AfroBasket Women (id: 277359)
+BAL (id: 279912)
+World Championship U17 Women (id: 245021)
+FISU Universiade (id: 248425)
+Universiade Women (id: 249276)
+FIBA AfroCan (id: 351396)
+Liga Sudamericana (id: 353098)
+FIBA South American Championship Women (id: 353949)
+South American U18 Championship (id: 356502)
+Americas Championship U18 (id: 321611)
+FIBA U18 Americas Championship Women (id: 322462)
+WBLA Women (id: 359055)
+Asian Champions League (id: 361608)
+EASL (id: 329270)
+WASL (id: 331823)
+SBL (id: 228001)
+WSBL Women (id: 228852)
+T1 League (id: 342886)
+P. LEAGUE+ (id: 343737)
+TPBL (id: 364161)
+
+ALBANIA
+-------
+Superliga (id: 330972)
+
+INDONESIA
+---------
+IBL (id: 119073)

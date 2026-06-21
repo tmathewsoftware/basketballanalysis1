@@ -143,5 +143,190 @@
     "team_id": 2363160,
     "matched_name": "TNT Tropang Giga",
     "score": 100.0
+  },
+  "Aguada Santeros": {
+    "team_id": 809234,
+    "matched_name": "Aguada Santeros",
+    "score": 100.0
+  },
+  "Maccabi Tel Aviv": {
+    "team_id": 585421,
+    "matched_name": "Maccabi Tel Aviv",
+    "score": 100.0
+  },
+  "Hapoel Tel Aviv": {
+    "team_id": 581166,
+    "matched_name": "Hapoel Tel Aviv",
+    "score": 100.0
+  },
+  "Portugal U20": {
+    "team_id": 3929851,
+    "matched_name": "Portugal U20",
+    "score": 100.0
+  },
+  "Sweden U20": {
+    "team_id": 3887301,
+    "matched_name": "Sweden U20",
+    "score": 100.0
+  },
+  "Venezia": {
+    "team_id": 622865,
+    "matched_name": "Venezia",
+    "score": 100.0
+  },
+  "Criollos de Caguas": {
+    "team_id": 5391018,
+    "matched_name": "Criollos de Caguas",
+    "score": 100.0
+  },
+  "Gigantes Carolina": {
+    "team_id": 1326642,
+    "matched_name": "Gigantes de Carolina",
+    "score": 91.89189189189189
+  },
+  "Metros de Santiago": {
+    "team_id": 3531583,
+    "matched_name": "Metros de Santiago",
+    "score": 100.0
+  },
+  "Real Esteli": {
+    "team_id": 3525626,
+    "matched_name": "Real Esteli",
+    "score": 100.0
+  },
+  "Gigantes de Carolina": {
+    "team_id": 1326642,
+    "matched_name": "Gigantes de Carolina",
+    "score": 100.0
+  },
+  "NU Bulldogs": {
+    "team_id": 5688017,
+    "matched_name": "Union Bulldogs",
+    "score": 80.0
+  },
+  "Taoyuan Pilots": {
+    "team_id": 5128910,
+    "matched_name": "Taoyuan Pauian Pilots",
+    "score": 80.0
+  },
+  "Fubon Braves": {
+    "team_id": 62907,
+    "matched_name": "Fubon Braves",
+    "score": 100.0
+  },
+  "Bayern Munich": {
+    "team_id": 445006,
+    "matched_name": "Bayern Munich",
+    "score": 100.0
+  },
+  "Ho Chi Minh City Wings": {
+    "team_id": 3400529,
+    "matched_name": "Ho Chi Minh City Wings",
+    "score": 100.0
+  },
+  "Nha Trang Dolphins": {
+    "team_id": 3401380,
+    "matched_name": "Nhatrang Dolphins",
+    "score": 91.42857142857143
+  },
+  "Trouville": {
+    "team_id": 2552933,
+    "matched_name": "Trouville",
+    "score": 100.0
+  },
+  "Ironi Nes Ziona": {
+    "team_id": 586272,
+    "matched_name": "Ironi Ness Ziona",
+    "score": 96.7741935483871
+  },
+  "CSB Blazers": {
+    "team_id": 188855,
+    "matched_name": "UAB Blazers",
+    "score": 81.81818181818181
+  },
+  "Fenerbahce": {
+    "team_id": 1081554,
+    "matched_name": "Fenerbahce",
+    "score": 100.0
+  },
+  "Reales de La Vega": {
+    "team_id": 4239615,
+    "matched_name": "Reales de la Vega",
+    "score": 82.35294117647058
+  },
+  "Zielona Gora": {
+    "team_id": 782853,
+    "matched_name": "Zielona G\u00f3ra",
+    "score": 91.66666666666666
+  },
+  "Olivol Mundial": {
+    "team_id": 2735047,
+    "matched_name": "Olivol Mundial",
+    "score": 100.0
+  },
+  "Maccabi Kiryat Motzkin": {
+    "team_id": 2326567,
+    "matched_name": "Maccabi Kiryat Motzkin",
+    "score": 100.0
+  },
+  "Southland Sharks": {
+    "team_id": 730942,
+    "matched_name": "Southland Sharks",
+    "score": 100.0
+  },
+  "Taranaki Airs": {
+    "team_id": 732644,
+    "matched_name": "Taranaki Airs",
+    "score": 100.0
+  },
+  "Korea University": {
+    "team_id": 2117221,
+    "matched_name": "Lee University",
+    "score": 80.0
+  },
+  "LA Riot": {
+    "team_id": 6327118,
+    "matched_name": "LA Riot",
+    "score": 100.0
+  },
+  "Miami 305": {
+    "team_id": 6327969,
+    "matched_name": "Miami 305",
+    "score": 100.0
+  },
+  "IND Fever": {
+    "team_id": 142050,
+    "matched_name": "Indiana Fever Women",
+    "score": 100
+  },
+  "ATL Dream": {
+    "team_id": 138646,
+    "matched_name": "Atlanta Dream Women",
+    "score": 100
+  },
+  "Virtus Roma 1960": {
+    "team_id": 624567,
+    "matched_name": "Virtus Roma",
+    "score": 81.4814814814815
+  },
+  "Sao Jose (W)": {
+    "team_id": 290975,
+    "matched_name": "Sao Jose",
+    "score": 80.0
+  },
+  "AS Sale": {
+    "team_id": 3822625,
+    "matched_name": "AS Sal\u00e9",
+    "score": 85.71428571428572
+  },
+  "Shoot it Dragons": {
+    "team_id": 3369893,
+    "matched_name": "Shoot it Dragon",
+    "score": 96.7741935483871
+  },
+  "Nairobi City Thunder": {
+    "team_id": 6314353,
+    "matched_name": "Nairobi City Thunder",
+    "score": 100.0
   }
 }
