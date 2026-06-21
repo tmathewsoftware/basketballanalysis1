@@ -328,5 +328,25 @@
     "team_id": 6314353,
     "matched_name": "Nairobi City Thunder",
     "score": 100.0
+  },
+  "Caneros del Este": {
+    "team_id": 4237062,
+    "matched_name": "Caneros",
+    "score": 100
+  },
+  "Titanes Del Distrito Nacional": {
+    "team_id": 4240466,
+    "matched_name": "Titanes Del Licey",
+    "score": 100
+  },
+  "Caneros": {
+    "team_id": 4237062,
+    "matched_name": "Caneros",
+    "score": 100.0
+  },
+  "Titanes Del Licey": {
+    "team_id": 4240466,
+    "matched_name": "Titanes Del Licey",
+    "score": 100.0
   }
 }

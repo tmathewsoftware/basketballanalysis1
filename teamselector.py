@@ -58,6 +58,7 @@ def github_load_cache():
 def github_save_cache(cache):
     """Push updated team_id_cache.json to GitHub repo."""
     token, repo = _get_github_config()
+    print(f"DEBUG: token={'set' if token else 'NOT SET'}, repo={repo}")  # add this
     if not token or not repo:
         return False
 
