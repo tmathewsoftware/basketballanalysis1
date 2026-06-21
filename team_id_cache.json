@@ -358,5 +358,10 @@
     "team_id": 142901,
     "matched_name": "Las Vegas Aces Women",
     "score": 100
+  },
+  "Barcelona": {
+    "team_id": 969222,
+    "matched_name": "Barcelona B",
+    "score": 90.0
   }
 }
