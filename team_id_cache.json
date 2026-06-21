@@ -378,5 +378,10 @@
     "team_id": 3319684,
     "matched_name": "Dep. San Jose",
     "score": 100
+  },
+  "PHX Mercury": {
+    "team_id": 146305,
+    "matched_name": "Phoenix Mercury Women",
+    "score": 100
   }
 }
