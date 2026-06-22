@@ -58,7 +58,6 @@ def github_load_cache():
 def github_save_cache(cache):
     """Push updated team_id_cache.json to GitHub repo."""
     token, repo = _get_github_config()
-    print(f"DEBUG: token={'set' if token else 'NOT SET'}, repo={repo}")  # add this
     if not token or not repo:
         return False
 
@@ -182,20 +181,36 @@ def get_league_teams(league_name):
     except:
         return None
 
-    standings = data if isinstance(data, list) else data.get("data", [])
-
     candidates = []
-    for entry in standings:
-        # Standings structure may vary - try common patterns
-        team = entry.get("team", entry)
-        team_id = team.get("id")
-        team_name = team.get("name")
-        if team_id and team_name:
-            candidates.append({
-                "name": team_name,
-                "id": team_id,
-                "score": None  # No fuzzy score since this is league-based
-            })
+
+    # Structure: {"groups": [{"name": ..., "standings": [{"team": {...}}, ...]}]}
+    groups = data.get("groups", []) if isinstance(data, dict) else []
+
+    if groups:
+        for group in groups:
+            for entry in group.get("standings", []):
+                team = entry.get("team", {})
+                team_id = team.get("id")
+                team_name = team.get("name")
+                if team_id and team_name:
+                    candidates.append({
+                        "name": team_name,
+                        "id": team_id,
+                        "score": None
+                    })
+    else:
+        # Fallback: try flat list structures in case other leagues differ
+        standings = data if isinstance(data, list) else data.get("data", [])
+        for entry in standings:
+            team = entry.get("team", entry)
+            team_id = team.get("id")
+            team_name = team.get("name")
+            if team_id and team_name:
+                candidates.append({
+                    "name": team_name,
+                    "id": team_id,
+                    "score": None
+                })
 
     return candidates if candidates else None
 

@@ -140,7 +140,7 @@ else:
             for game, side, team_name, candidates in unresolved:
                 cache_key = f"precheck_{side}_{game['event_id']}"
                 st.markdown(f"**{team_name}** ({game['league']}) — {game['home']} vs {game['away']}")
-                for candidate in candidates:
+                for i, candidate in enumerate(candidates):
                     from teamselector import get_team_league
                     cand_league = get_team_league(candidate["id"])
                     cand_label = candidate['name']
@@ -148,7 +148,7 @@ else:
                         cand_label += f"  —  {cand_league}"
                     if candidate.get('score') is not None:
                         cand_label += f"  (score: {candidate['score']:.0f})"
-                    if st.button(cand_label, key=f"precheck_candidate_{cache_key}_{candidate['id']}"):
+                    if st.button(cand_label, key=f"precheck_candidate_{cache_key}_{i}_{candidate['id']}"):
                         confirm_team_selection(team_name, candidate["name"], candidate["id"])
                         st.session_state[cache_key] = {"id": candidate["id"], "name": candidate["name"]}
                         st.rerun()
@@ -225,7 +225,7 @@ else:
             # ── Show selectors if needed ──────────────────────────────────────
             if home_state["id"] is None:
                 st.warning(f"Could not auto-match **{home}** — please select the correct team:")
-                for candidate in home_state["candidates"]:
+                for i, candidate in enumerate(home_state["candidates"]):
                     from teamselector import get_team_league
                     cand_league = get_team_league(candidate["id"])
                     cand_label = candidate['name']
@@ -233,14 +233,14 @@ else:
                         cand_label += f"  —  {cand_league}"
                     if candidate.get('score') is not None:
                         cand_label += f"  (score: {candidate['score']:.0f})"
-                    if st.button(cand_label, key=f"home_candidate_{game['event_id']}_{candidate['id']}"):
+                    if st.button(cand_label, key=f"home_candidate_{game['event_id']}_{i}_{candidate['id']}"):
                         confirm_team_selection(home, candidate["name"], candidate["id"])
                         st.session_state[key_home] = {"id": candidate["id"], "name": candidate["name"]}
                         st.rerun()
 
             if away_state["id"] is None:
                 st.warning(f"Could not auto-match **{away}** — please select the correct team:")
-                for candidate in away_state["candidates"]:
+                for i, candidate in enumerate(away_state["candidates"]):
                     from teamselector import get_team_league
                     cand_league = get_team_league(candidate["id"])
                     cand_label = candidate['name']
@@ -248,7 +248,7 @@ else:
                         cand_label += f"  —  {cand_league}"
                     if candidate.get('score') is not None:
                         cand_label += f"  (score: {candidate['score']:.0f})"
-                    if st.button(cand_label, key=f"away_candidate_{game['event_id']}_{candidate['id']}"):
+                    if st.button(cand_label, key=f"away_candidate_{game['event_id']}_{i}_{candidate['id']}"):
                         confirm_team_selection(away, candidate["name"], candidate["id"])
                         st.session_state[key_away] = {"id": candidate["id"], "name": candidate["name"]}
                         st.rerun()
@@ -297,4 +297,3 @@ else:
                                 mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                                 key=f"rg_{game['event_id']}"
                             )
-                    

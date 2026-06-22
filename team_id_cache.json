@@ -383,5 +383,25 @@
     "team_id": 146305,
     "matched_name": "Phoenix Mercury Women",
     "score": 100
+  },
+  "CHI Sky": {
+    "team_id": 139497,
+    "matched_name": "Chicago Sky W",
+    "score": 100
+  },
+  "CON Sun": {
+    "team_id": 140348,
+    "matched_name": "Connecticut Sun W",
+    "score": 100
+  },
+  "Chicago Sky W": {
+    "team_id": 139497,
+    "matched_name": "Chicago Sky Women",
+    "score": 86.66666666666667
+  },
+  "Connecticut Sun W": {
+    "team_id": 140348,
+    "matched_name": "Connecticut Sun Women",
+    "score": 89.47368421052632
   }
 }
