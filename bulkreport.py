@@ -7,6 +7,7 @@ from datetime import datetime
 import zoneinfo
 from h2hgames import build_h2h_excel
 from recentgames import build_recent_games_excel
+from teamselector import resolve_team
 
 SKIPPED_LOG_FILE = "skipped_games_log.txt"
 GITHUB_API_BASE = "https://api.github.com"
@@ -154,13 +155,33 @@ def generate_all_reports(ranked_games, progress_callback=None):
             if progress_callback:
                 progress_callback(idx, total, f"{home} vs {away}")
 
+            # Resolve team names using teamselector's cache (populated by precheck)
+            # This ensures WNBA abbreviations and other manually-confirmed mappings are used
+            home_id, home_result, home_status = resolve_team(home, league)
+            away_id, away_result, away_status = resolve_team(away, league)
+
+            if home_status != "auto" or away_status != "auto":
+                # Team not resolved (not yet confirmed via precheck) — skip and log
+                unresolved_names = []
+                if home_status != "auto":
+                    unresolved_names.append(home)
+                if away_status != "auto":
+                    unresolved_names.append(away)
+                timestamp = datetime.now(melbourne_tz).strftime("%d %b %Y %H:%M")
+                reason = f"Unresolved team(s): {', '.join(unresolved_names)} — run 'Check All Teams' first"
+                skipped_lines.append(f"[{timestamp}] {home} vs {away} ({league}) — {reason}\n")
+                continue
+
+            home_matched = home_result
+            away_matched = away_result
+
             h2h_failed = False
             rg_failed = False
             last_error = ""
 
             # H2H report
             try:
-                h2h_bytes = generate_excel_bytes(build_h2h_excel, home, away)
+                h2h_bytes = generate_excel_bytes(build_h2h_excel, home_matched, away_matched)
                 zf.writestr(f"{folder}/H2H — {home} vs {away} — {date_str}.xlsx", h2h_bytes)
             except Exception as e:
                 h2h_failed = True
@@ -169,7 +190,7 @@ def generate_all_reports(ranked_games, progress_callback=None):
 
             # Recent Games report
             try:
-                rg_bytes = generate_excel_bytes(build_recent_games_excel, home, away)
+                rg_bytes = generate_excel_bytes(build_recent_games_excel, home_matched, away_matched)
                 zf.writestr(f"{folder}/Recent Games — {home} vs {away} — {date_str}.xlsx", rg_bytes)
             except Exception as e:
                 rg_failed = True
