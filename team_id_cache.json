@@ -403,5 +403,15 @@
     "team_id": 140348,
     "matched_name": "Connecticut Sun Women",
     "score": 89.47368421052632
+  },
+  "Santo Andre (W)": {
+    "team_id": 4748513,
+    "matched_name": "Santo Andre",
+    "score": 84.61538461538461
+  },
+  "NY Liberty": {
+    "team_id": 145454,
+    "matched_name": "New York Liberty W",
+    "score": 100
   }
 }
