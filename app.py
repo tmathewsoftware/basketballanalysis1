@@ -64,8 +64,7 @@ st.markdown("""
 st.markdown('<div class="title">🏀 Basketball Ranker</div>', unsafe_allow_html=True)
 
 melbourne_tz = zoneinfo.ZoneInfo("Australia/Melbourne")
-tomorrow_str = (datetime.now(melbourne_tz) + timedelta(days=1)).strftime("Tomorrow — %A, %d %b %Y")
-st.markdown(f'<div class="subtitle">Ranked games for {tomorrow_str}</div>', unsafe_allow_html=True)
+st.markdown(f'<div class="subtitle">All available ranked games — today, tomorrow & beyond</div>', unsafe_allow_html=True)
 
 
 # ── Excel generation helper ───────────────────────────────────────────────────
@@ -92,7 +91,7 @@ with st.spinner("Fetching games and odds..."):
 
 # ── Game buttons ──────────────────────────────────────────────────────────────
 if not ranked_games:
-    st.warning("No games found with spread and totals data for tomorrow.")
+    st.warning("No games found with spread and totals data.")
 else:
     date_str = datetime.now(melbourne_tz).strftime("%d %b %Y")
 
@@ -184,15 +183,36 @@ else:
     if "active_game" not in st.session_state:
         st.session_state["active_game"] = None
 
-    for game in ranked_games:
-        label = (
-            f"#{game['rank']}  ·  {game['home']} vs {game['away']}  "
-            f"·  Spread: {game['spread']}  ·  Total: {game['total']}  "
-            f"·  {game['league']}"
-        )
+    date_colors = {
+        "today": "#e74c3c",      # red
+        "tomorrow": "#3498db",   # blue
+        "later": "#888888"       # standard grey
+    }
 
-        if st.button(label, key=f"game_{game['event_id']}"):
-            st.session_state["active_game"] = game['event_id']
+    for game in ranked_games:
+        date_category = game.get("date_category", "later")
+        date_str = game.get("date_str", "")
+        time_str = game.get("time_str", "")
+        color = date_colors.get(date_category, "#888888")
+
+        col_badge, col_btn = st.columns([1, 9])
+        with col_badge:
+            st.markdown(
+                f'<div style="background-color:{color}; color:white; '
+                f'border-radius:4px; padding:4px 8px; text-align:center; '
+                f'font-size:0.75rem; font-weight:bold; margin-top:6px;">'
+                f'{date_category.upper()}<br>{date_str}<br>{time_str}</div>',
+                unsafe_allow_html=True
+            )
+        with col_btn:
+            label = (
+                f"#{game['rank']}  ·  {game['home']} vs {game['away']}  "
+                f"·  Spread: {game['spread']}  ·  Total: {game['total']}  "
+                f"·  {game['league']}"
+            )
+
+            if st.button(label, key=f"game_{game['event_id']}"):
+                st.session_state["active_game"] = game['event_id']
 
         # Render the team resolution / report section if this game is active
         if st.session_state["active_game"] == game['event_id']:
