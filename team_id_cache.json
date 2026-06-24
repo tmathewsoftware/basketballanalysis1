@@ -473,5 +473,10 @@
     "team_id": 2570804,
     "matched_name": "Italy",
     "score": 100.0
+  },
+  "Croatia": {
+    "team_id": 238213,
+    "matched_name": "Croatia",
+    "score": 100.0
   }
 }
