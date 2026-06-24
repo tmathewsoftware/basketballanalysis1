@@ -533,5 +533,10 @@
     "team_id": 5386763,
     "matched_name": "FUS Rabat",
     "score": 81.81818181818181
+  },
+  "Malta": {
+    "team_id": 4060054,
+    "matched_name": "Malta",
+    "score": 100.0
   }
 }
