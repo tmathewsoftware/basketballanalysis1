@@ -493,5 +493,10 @@
     "team_id": 367565,
     "matched_name": "Qingdao Eagles",
     "score": 90.32258064516128
+  },
+  "Hong Kong Eastern": {
+    "team_id": 5705037,
+    "matched_name": "Hong Kong Eastern",
+    "score": 100.0
   }
 }
