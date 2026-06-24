@@ -578,5 +578,10 @@
     "team_id": 3399678,
     "matched_name": "Hanoi Buffaloes",
     "score": 100.0
+  },
+  "Corinthians U22": {
+    "team_id": 2644841,
+    "matched_name": "Uniao Corinthians",
+    "score": 81.25
   }
 }
