@@ -553,5 +553,10 @@
     "team_id": 3051619,
     "matched_name": "CD Sportiva Italiana",
     "score": 87.8048780487805
+  },
+  "Flamengo U22": {
+    "team_id": 284167,
+    "matched_name": "Flamengo",
+    "score": 80.0
   }
 }
