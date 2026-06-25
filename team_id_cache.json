@@ -713,5 +713,10 @@
     "team_id": 2933330,
     "matched_name": "Gold Coast Rollers",
     "score": 100.0
+  },
+  "Hobart Chargers (W)": {
+    "team_id": 2516340,
+    "matched_name": "Hobart Chargers",
+    "score": 88.23529411764706
   }
 }
