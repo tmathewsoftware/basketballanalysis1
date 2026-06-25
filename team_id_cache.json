@@ -633,5 +633,10 @@
     "team_id": 3929851,
     "matched_name": "Portugal U20",
     "score": 80.0
+  },
+  "Switzerland": {
+    "team_id": 2684838,
+    "matched_name": "Switzerland",
+    "score": 100.0
   }
 }
