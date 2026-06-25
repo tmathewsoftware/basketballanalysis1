@@ -698,5 +698,10 @@
     "team_id": 3006516,
     "matched_name": "Willetton Tigers",
     "score": 88.88888888888889
+  },
+  "Hobart Chargers": {
+    "team_id": 2516340,
+    "matched_name": "Hobart Chargers",
+    "score": 100.0
   }
 }
