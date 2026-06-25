@@ -79,6 +79,56 @@ def generate_excel_bytes(build_fn, *args):
     return data
 
 
+# ── Manual search widget: country -> league -> team ──────────────────────────
+def manual_team_search(team_name, unique_key):
+    """
+    Renders a country -> league -> team search UI as a fallback.
+    Returns True if a team was just selected (caller should rerun).
+    """
+    from teamselector import get_all_countries, get_leagues_for_country, get_teams_for_league_id
+
+    with st.expander(f"🔎 Manually search for '{team_name}'"):
+        countries = get_all_countries()
+        selected_country = st.selectbox(
+            "Country", countries, key=f"country_{unique_key}", index=None,
+            placeholder="Select a country..."
+        )
+
+        if selected_country:
+            leagues = get_leagues_for_country(selected_country)
+            league_names = [l["name"] for l in leagues]
+            selected_league_name = st.selectbox(
+                "League", league_names, key=f"league_{unique_key}", index=None,
+                placeholder="Select a league..."
+            )
+
+            if selected_league_name:
+                league_id = next(l["id"] for l in leagues if l["name"] == selected_league_name)
+                teams = get_teams_for_league_id(league_id)
+
+                if teams:
+                    search_text = st.text_input(
+                        "Filter teams by name", key=f"filter_{unique_key}"
+                    )
+                    filtered = [t for t in teams if search_text.lower() in t["name"].lower()] if search_text else teams
+
+                    if filtered:
+                        team_options = {t["name"]: t["id"] for t in filtered}
+                        selected_team_name = st.selectbox(
+                            "Team", list(team_options.keys()), key=f"team_{unique_key}", index=None,
+                            placeholder="Select the correct team..."
+                        )
+                        if selected_team_name:
+                            if st.button("Confirm this team", key=f"confirm_{unique_key}"):
+                                confirm_team_selection(team_name, selected_team_name, team_options[selected_team_name])
+                                return True
+                    else:
+                        st.info("No teams match that filter.")
+                else:
+                    st.warning("Could not load teams for this league.")
+    return False
+
+
 # ── Load games ────────────────────────────────────────────────────────────────
 @st.cache_data(show_spinner=False)
 def load_games():
@@ -139,18 +189,10 @@ else:
             for game, side, team_name, candidates in unresolved:
                 cache_key = f"precheck_{side}_{game['event_id']}"
                 st.markdown(f"**{team_name}** ({game['league']}) — {game['home']} vs {game['away']}")
-                for i, candidate in enumerate(candidates):
-                    from teamselector import get_team_league
-                    cand_league = get_team_league(candidate["id"])
-                    cand_label = candidate['name']
-                    if cand_league:
-                        cand_label += f"  —  {cand_league}"
-                    if candidate.get('score') is not None:
-                        cand_label += f"  (score: {candidate['score']:.0f})"
-                    if st.button(cand_label, key=f"precheck_candidate_{cache_key}_{i}_{candidate['id']}"):
-                        confirm_team_selection(team_name, candidate["name"], candidate["id"])
-                        st.session_state[cache_key] = {"id": candidate["id"], "name": candidate["name"]}
-                        st.rerun()
+
+                if manual_team_search(team_name, f"precheck_{cache_key}"):
+                    st.rerun()
+
                 st.markdown("---")
         else:
             st.success("✅ All teams resolved! Ready to run Analyse All Games.")
@@ -245,33 +287,17 @@ else:
             # ── Show selectors if needed ──────────────────────────────────────
             if home_state["id"] is None:
                 st.warning(f"Could not auto-match **{home}** — please select the correct team:")
-                for i, candidate in enumerate(home_state["candidates"]):
-                    from teamselector import get_team_league
-                    cand_league = get_team_league(candidate["id"])
-                    cand_label = candidate['name']
-                    if cand_league:
-                        cand_label += f"  —  {cand_league}"
-                    if candidate.get('score') is not None:
-                        cand_label += f"  (score: {candidate['score']:.0f})"
-                    if st.button(cand_label, key=f"home_candidate_{game['event_id']}_{i}_{candidate['id']}"):
-                        confirm_team_selection(home, candidate["name"], candidate["id"])
-                        st.session_state[key_home] = {"id": candidate["id"], "name": candidate["name"]}
-                        st.rerun()
+
+                if manual_team_search(home, f"home_{game['event_id']}"):
+                    st.session_state.pop(key_home, None)
+                    st.rerun()
 
             if away_state["id"] is None:
                 st.warning(f"Could not auto-match **{away}** — please select the correct team:")
-                for i, candidate in enumerate(away_state["candidates"]):
-                    from teamselector import get_team_league
-                    cand_league = get_team_league(candidate["id"])
-                    cand_label = candidate['name']
-                    if cand_league:
-                        cand_label += f"  —  {cand_league}"
-                    if candidate.get('score') is not None:
-                        cand_label += f"  (score: {candidate['score']:.0f})"
-                    if st.button(cand_label, key=f"away_candidate_{game['event_id']}_{i}_{candidate['id']}"):
-                        confirm_team_selection(away, candidate["name"], candidate["id"])
-                        st.session_state[key_away] = {"id": candidate["id"], "name": candidate["name"]}
-                        st.rerun()
+
+                if manual_team_search(away, f"away_{game['event_id']}"):
+                    st.session_state.pop(key_away, None)
+                    st.rerun()
 
             # ── Generate reports once both teams confirmed ────────────────────
             if home_state["id"] and away_state["id"]:

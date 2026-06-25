@@ -1,0 +1,3491 @@
+{
+  "countries": [
+    {
+      "country": "AUSTRALIA",
+      "leagues": [
+        {
+          "name": "NBL",
+          "id": 1635
+        },
+        {
+          "name": "WNBL",
+          "id": 3337
+        },
+        {
+          "name": "NBL 1",
+          "id": 4188
+        },
+        {
+          "name": "Australian NBL1 Women",
+          "id": 5039
+        },
+        {
+          "name": "ABL",
+          "id": 5890
+        }
+      ]
+    },
+    {
+      "country": "AUSTRIA",
+      "leagues": [
+        {
+          "name": "Zweite Liga",
+          "id": 6741
+        },
+        {
+          "name": "Austrian Cup",
+          "id": 103755
+        },
+        {
+          "name": "Super Cup",
+          "id": 162474
+        },
+        {
+          "name": "Superliga",
+          "id": 185451
+        },
+        {
+          "name": "Superliga Women",
+          "id": 186302
+        }
+      ]
+    },
+    {
+      "country": "ARGENTINA",
+      "leagues": [
+        {
+          "name": "Liga A",
+          "id": 16102
+        },
+        {
+          "name": "Copa Súper 20",
+          "id": 19506
+        },
+        {
+          "name": "Super Cup Argentina",
+          "id": 153964
+        },
+        {
+          "name": "Liga Femenina",
+          "id": 176090
+        }
+      ]
+    },
+    {
+      "country": "BAHRAIN",
+      "leagues": [
+        {
+          "name": "Premier League",
+          "id": 104606
+        }
+      ]
+    },
+    {
+      "country": "BELARUS",
+      "leagues": [
+        {
+          "name": "Premier League",
+          "id": 95245
+        },
+        {
+          "name": "Premier League Women",
+          "id": 96096
+        }
+      ]
+    },
+    {
+      "country": "BELGIUM",
+      "leagues": [
+        {
+          "name": "Belgian Cup",
+          "id": 20357
+        },
+        {
+          "name": "BNXT League",
+          "id": 21208
+        },
+        {
+          "name": "Top Division Women",
+          "id": 22059
+        },
+        {
+          "name": "BNXT Pro Basketball League",
+          "id": 319058
+        }
+      ]
+    },
+    {
+      "country": "BOLIVIA",
+      "leagues": [
+        {
+          "name": "Libobasquet",
+          "id": 323313
+        }
+      ]
+    },
+    {
+      "country": "BOSNIA AND HERZEGOVINA",
+      "leagues": [
+        {
+          "name": "Bosnian Championship",
+          "id": 105457
+        },
+        {
+          "name": "Bosnia and Herzegovina Championship Women",
+          "id": 187153
+        }
+      ]
+    },
+    {
+      "country": "BRAZIL",
+      "leagues": [
+        {
+          "name": "NBB",
+          "id": 22910
+        },
+        {
+          "name": "LBF Women",
+          "id": 23761
+        },
+        {
+          "name": "Copa Super 8",
+          "id": 188004
+        },
+        {
+          "name": "CBB",
+          "id": 362459
+        }
+      ]
+    },
+    {
+      "country": "BULGARIA",
+      "leagues": [
+        {
+          "name": "NBL",
+          "id": 96947
+        },
+        {
+          "name": "Bulgarian Cup",
+          "id": 106308
+        },
+        {
+          "name": "Super Cup",
+          "id": 188855
+        }
+      ]
+    },
+    {
+      "country": "CANADA",
+      "leagues": [
+        {
+          "name": "NBL",
+          "id": 24612
+        },
+        {
+          "name": "U SPORTS",
+          "id": 25463
+        },
+        {
+          "name": "CEBL",
+          "id": 189706
+        },
+        {
+          "name": "Super League",
+          "id": 345439
+        }
+      ]
+    },
+    {
+      "country": "CHILE",
+      "leagues": [
+        {
+          "name": "LNB",
+          "id": 97798
+        },
+        {
+          "name": "Copa LNB Chile",
+          "id": 190557
+        },
+        {
+          "name": "LNB Segunda División",
+          "id": 191408
+        },
+        {
+          "name": "Copa Chile",
+          "id": 332674
+        },
+        {
+          "name": "Supercopa de Chile",
+          "id": 346290
+        }
+      ]
+    },
+    {
+      "country": "CHINA",
+      "leagues": [
+        {
+          "name": "CBA",
+          "id": 27165
+        },
+        {
+          "name": "CN WCBA Women",
+          "id": 107159
+        },
+        {
+          "name": "CBA Club Cup",
+          "id": 365012
+        }
+      ]
+    },
+    {
+      "country": "COLOMBIA",
+      "leagues": [
+        {
+          "name": "LBP",
+          "id": 192259
+        }
+      ]
+    },
+    {
+      "country": "CROATIA",
+      "leagues": [
+        {
+          "name": "Premijer liga",
+          "id": 26314
+        },
+        {
+          "name": "Croatian Cup",
+          "id": 108010
+        },
+        {
+          "name": "Premijer Liga Women",
+          "id": 193110
+        },
+        {
+          "name": "Prva Liga",
+          "id": 193961
+        }
+      ]
+    },
+    {
+      "country": "CYPRUS",
+      "leagues": [
+        {
+          "name": "Division A",
+          "id": 98649
+        }
+      ]
+    },
+    {
+      "country": "CZECH REPUBLIC",
+      "leagues": [
+        {
+          "name": "NBL",
+          "id": 28016
+        },
+        {
+          "name": "ZBL Women",
+          "id": 28867
+        },
+        {
+          "name": "Czech Cup",
+          "id": 108861
+        },
+        {
+          "name": "Czech Cup Women",
+          "id": 109712
+        },
+        {
+          "name": "1. Liga",
+          "id": 194812
+        }
+      ]
+    },
+    {
+      "country": "DENMARK",
+      "leagues": [
+        {
+          "name": "Basketligaen",
+          "id": 29718
+        },
+        {
+          "name": "Dameligaen Women",
+          "id": 30569
+        },
+        {
+          "name": "Danish Cup",
+          "id": 110563
+        },
+        {
+          "name": "Danish Cup Women",
+          "id": 111414
+        }
+      ]
+    },
+    {
+      "country": "DOMINICAN REPUBLIC",
+      "leagues": [
+        {
+          "name": "LNB",
+          "id": 324164
+        }
+      ]
+    },
+    {
+      "country": "ESTONIA",
+      "leagues": [
+        {
+          "name": "Korvpalli Meistriliiga",
+          "id": 31420
+        }
+      ]
+    },
+    {
+      "country": "FINLAND",
+      "leagues": [
+        {
+          "name": "Korisliiga",
+          "id": 32271
+        },
+        {
+          "name": "Korisliiga Women",
+          "id": 33122
+        },
+        {
+          "name": "I Divisioona A",
+          "id": 195663
+        },
+        {
+          "name": "I Divisioona Women",
+          "id": 196514
+        },
+        {
+          "name": "Suomen Cup",
+          "id": 333525
+        },
+        {
+          "name": "Suomen Cup Women",
+          "id": 334376
+        }
+      ]
+    },
+    {
+      "country": "FRANCE",
+      "leagues": [
+        {
+          "name": "LNB",
+          "id": 2486
+        },
+        {
+          "name": "Pro B",
+          "id": 7592
+        },
+        {
+          "name": "Coupe de France",
+          "id": 8443
+        },
+        {
+          "name": "French League Women",
+          "id": 9294
+        },
+        {
+          "name": "Leaders Cup",
+          "id": 10145
+        },
+        {
+          "name": "All Stars",
+          "id": 113116
+        },
+        {
+          "name": "LNB Super Cup",
+          "id": 113967
+        },
+        {
+          "name": "Coupe de France Women",
+          "id": 197365
+        },
+        {
+          "name": "Ligue 2 Women",
+          "id": 198216
+        },
+        {
+          "name": "LNB Espoirs U21",
+          "id": 199067
+        },
+        {
+          "name": "LFB Super Cup Women",
+          "id": 335227
+        }
+      ]
+    },
+    {
+      "country": "GEORGIA",
+      "leagues": [
+        {
+          "name": "Georgian Superliga",
+          "id": 33973
+        },
+        {
+          "name": "Georgian Cup",
+          "id": 336078
+        }
+      ]
+    },
+    {
+      "country": "GERMANY",
+      "leagues": [
+        {
+          "name": "BBL",
+          "id": 34824
+        },
+        {
+          "name": "1. DBBL Women",
+          "id": 35675
+        },
+        {
+          "name": "Pro A",
+          "id": 36526
+        },
+        {
+          "name": "Pro B",
+          "id": 37377
+        },
+        {
+          "name": "German Cup",
+          "id": 114818
+        }
+      ]
+    },
+    {
+      "country": "GREECE",
+      "leagues": [
+        {
+          "name": "Greek A2",
+          "id": 38228
+        },
+        {
+          "name": "Basket League",
+          "id": 39079
+        },
+        {
+          "name": "A1 Women",
+          "id": 199918
+        },
+        {
+          "name": "Super Cup",
+          "id": 200769
+        },
+        {
+          "name": "A2 Women",
+          "id": 201620
+        },
+        {
+          "name": "Greek Cup",
+          "id": 116520
+        },
+        {
+          "name": "Greek Cup Women",
+          "id": 336929
+        }
+      ]
+    },
+    {
+      "country": "HUNGARY",
+      "leagues": [
+        {
+          "name": "NB I A",
+          "id": 39930
+        },
+        {
+          "name": "NB I/A Women",
+          "id": 40781
+        },
+        {
+          "name": "Hungarian Cup Women",
+          "id": 117371
+        },
+        {
+          "name": "Magyar Kupa",
+          "id": 118222
+        }
+      ]
+    },
+    {
+      "country": "ICELAND",
+      "leagues": [
+        {
+          "name": "Premier league",
+          "id": 41632
+        },
+        {
+          "name": "Premier League Women",
+          "id": 42483
+        },
+        {
+          "name": "Icelandic Cup",
+          "id": 202471
+        }
+      ]
+    },
+    {
+      "country": "INDONESIA",
+      "leagues": [
+        {
+          "name": "IBL",
+          "id": 119073
+        }
+      ]
+    },
+    {
+      "country": "IRAN",
+      "leagues": [
+        {
+          "name": "Super League",
+          "id": 203322
+        }
+      ]
+    },
+    {
+      "country": "IRELAND",
+      "leagues": [
+        {
+          "name": "Super League",
+          "id": 43334
+        }
+      ]
+    },
+    {
+      "country": "ISRAEL",
+      "leagues": [
+        {
+          "name": "Super League",
+          "id": 44185
+        },
+        {
+          "name": "Israel State Cup",
+          "id": 119924
+        },
+        {
+          "name": "League Cup",
+          "id": 120775
+        },
+        {
+          "name": "Liga Leumit",
+          "id": 204173
+        },
+        {
+          "name": "Ligat Ha'Al Women",
+          "id": 205024
+        }
+      ]
+    },
+    {
+      "country": "ITALY",
+      "leagues": [
+        {
+          "name": "Lega A",
+          "id": 45036
+        },
+        {
+          "name": "Serie A1 Women",
+          "id": 45887
+        },
+        {
+          "name": "Lega A - Super Cup",
+          "id": 121626
+        },
+        {
+          "name": "Coppa Italia",
+          "id": 122477
+        },
+        {
+          "name": "Serie A2",
+          "id": 206726
+        },
+        {
+          "name": "Serie A2 Women - North",
+          "id": 207577
+        },
+        {
+          "name": "Serie A2 Women South",
+          "id": 208428
+        },
+        {
+          "name": "Supercoppa Italiana Women",
+          "id": 209279
+        },
+        {
+          "name": "Coppa Italia Women",
+          "id": 205875
+        }
+      ]
+    },
+    {
+      "country": "JAPAN",
+      "leagues": [
+        {
+          "name": "B League",
+          "id": 48440
+        },
+        {
+          "name": "W League Women",
+          "id": 210130
+        },
+        {
+          "name": "B2 League",
+          "id": 347141
+        }
+      ]
+    },
+    {
+      "country": "KAZAKHSTAN",
+      "leagues": [
+        {
+          "name": "National League",
+          "id": 49291
+        },
+        {
+          "name": "Kazakhstan Premier League",
+          "id": 50142
+        },
+        {
+          "name": "Championship Women",
+          "id": 210981
+        },
+        {
+          "name": "Higher League",
+          "id": 337780
+        },
+        {
+          "name": "National League Women",
+          "id": 338631
+        }
+      ]
+    },
+    {
+      "country": "KOSOVO",
+      "leagues": [
+        {
+          "name": "Superliga",
+          "id": 50993
+        },
+        {
+          "name": "Superleague Women",
+          "id": 339482
+        }
+      ]
+    },
+    {
+      "country": "LATVIA",
+      "leagues": [
+        {
+          "name": "LBL",
+          "id": 125030
+        },
+        {
+          "name": "Latvian Cup",
+          "id": 347992
+        }
+      ]
+    },
+    {
+      "country": "LEBANON",
+      "leagues": [
+        {
+          "name": "Division 1",
+          "id": 348843
+        }
+      ]
+    },
+    {
+      "country": "LITHUANIA",
+      "leagues": [
+        {
+          "name": "LKL",
+          "id": 51844
+        },
+        {
+          "name": "NKL",
+          "id": 52695
+        },
+        {
+          "name": "Moteru Lyga Women",
+          "id": 53546
+        },
+        {
+          "name": "King Mindaugas Cup",
+          "id": 211832
+        }
+      ]
+    },
+    {
+      "country": "LUXEMBOURG",
+      "leagues": [
+        {
+          "name": "Total League",
+          "id": 212683
+        },
+        {
+          "name": "Total League Women",
+          "id": 213534
+        }
+      ]
+    },
+    {
+      "country": "MACEDONIA",
+      "leagues": [
+        {
+          "name": "Macedonian Superleague",
+          "id": 57801
+        },
+        {
+          "name": "Macedonian Cup",
+          "id": 128434
+        },
+        {
+          "name": "Prva Liga Women",
+          "id": 219491
+        },
+        {
+          "name": "Prva Liga",
+          "id": 271402
+        }
+      ]
+    },
+    {
+      "country": "MEXICO",
+      "leagues": [
+        {
+          "name": "LNBP",
+          "id": 54397
+        },
+        {
+          "name": "CIBACOPA",
+          "id": 214385
+        },
+        {
+          "name": "LMBPF Women",
+          "id": 215236
+        }
+      ]
+    },
+    {
+      "country": "MONTENEGRO",
+      "leagues": [
+        {
+          "name": "Prva A Liga",
+          "id": 55248
+        },
+        {
+          "name": "Montenegrin Cup",
+          "id": 216087
+        }
+      ]
+    },
+    {
+      "country": "NETHERLANDS",
+      "leagues": [
+        {
+          "name": "DBL",
+          "id": 56099
+        },
+        {
+          "name": "Dutch Basketball Cup",
+          "id": 216938
+        },
+        {
+          "name": "WBL Women",
+          "id": 217789
+        },
+        {
+          "name": "Supercup",
+          "id": 126732
+        }
+      ]
+    },
+    {
+      "country": "NEW ZEALAND",
+      "leagues": [
+        {
+          "name": "NBL",
+          "id": 56950
+        },
+        {
+          "name": "NBL Women",
+          "id": 218640
+        },
+        {
+          "name": "Tauihi Women",
+          "id": 319909
+        }
+      ]
+    },
+    {
+      "country": "NORWAY",
+      "leagues": [
+        {
+          "name": "BLNO",
+          "id": 58652
+        },
+        {
+          "name": "Kvinneligaen Women",
+          "id": 59503
+        }
+      ]
+    },
+    {
+      "country": "PARAGUAY",
+      "leagues": [
+        {
+          "name": "LNB",
+          "id": 220342
+        }
+      ]
+    },
+    {
+      "country": "PHILIPPINES",
+      "leagues": [
+        {
+          "name": "Philippine Cup",
+          "id": 129285
+        },
+        {
+          "name": "PBA Governors Cup",
+          "id": 130136
+        },
+        {
+          "name": "PBA Commissioner's Cup",
+          "id": 130987
+        },
+        {
+          "name": "MPBL",
+          "id": 363310
+        }
+      ]
+    },
+    {
+      "country": "POLAND",
+      "leagues": [
+        {
+          "name": "Polish Cup Women",
+          "id": 60354
+        },
+        {
+          "name": "1 Liga",
+          "id": 61205
+        },
+        {
+          "name": "Energa Basket Liga",
+          "id": 62056
+        },
+        {
+          "name": "Energa Basket Liga Women",
+          "id": 62907
+        },
+        {
+          "name": "Polish Cup",
+          "id": 131838
+        },
+        {
+          "name": "Polish Super Cup",
+          "id": 132689
+        },
+        {
+          "name": "Super Cup Women",
+          "id": 221193
+        }
+      ]
+    },
+    {
+      "country": "PORTUGAL",
+      "leagues": [
+        {
+          "name": "LPB",
+          "id": 63758
+        },
+        {
+          "name": "Taca de Portugal",
+          "id": 64609
+        },
+        {
+          "name": "Super Cup",
+          "id": 134391
+        },
+        {
+          "name": "LFB Women",
+          "id": 222044
+        },
+        {
+          "name": "Proliga",
+          "id": 222895
+        },
+        {
+          "name": "Taça da Liga",
+          "id": 223746
+        },
+        {
+          "name": "Super Cup Women",
+          "id": 340333
+        },
+        {
+          "name": "Taça de Portugal Women",
+          "id": 341184
+        }
+      ]
+    },
+    {
+      "country": "PUERTO RICO",
+      "leagues": [
+        {
+          "name": "BSN",
+          "id": 65460
+        }
+      ]
+    },
+    {
+      "country": "QATAR",
+      "leagues": [
+        {
+          "name": "QBL",
+          "id": 66311
+        }
+      ]
+    },
+    {
+      "country": "ROMANIA",
+      "leagues": [
+        {
+          "name": "Divizia A",
+          "id": 67162
+        },
+        {
+          "name": "Liga National Women",
+          "id": 68013
+        },
+        {
+          "name": "Romanian Cup",
+          "id": 135242
+        },
+        {
+          "name": "Romanian Cup Women",
+          "id": 224597
+        },
+        {
+          "name": "Romanian Super Cup",
+          "id": 342035
+        }
+      ]
+    },
+    {
+      "country": "RUSSIA",
+      "leagues": [
+        {
+          "name": "Russian Cup Women",
+          "id": 68864
+        },
+        {
+          "name": "Russian Super League",
+          "id": 69715
+        },
+        {
+          "name": "VTB United League",
+          "id": 70566
+        },
+        {
+          "name": "Premier League Women",
+          "id": 71417
+        },
+        {
+          "name": "Russian Cup",
+          "id": 136093
+        },
+        {
+          "name": "VTB Super Cup",
+          "id": 225448
+        }
+      ]
+    },
+    {
+      "country": "SAUDI ARABIA",
+      "leagues": [
+        {
+          "name": "Saudi Premier League",
+          "id": 72268
+        }
+      ]
+    },
+    {
+      "country": "SERBIA",
+      "leagues": [
+        {
+          "name": "First League",
+          "id": 73119
+        },
+        {
+          "name": "Super League",
+          "id": 73970
+        },
+        {
+          "name": "Korac cup",
+          "id": 136944
+        },
+        {
+          "name": "1. ZLS Women",
+          "id": 226299
+        }
+      ]
+    },
+    {
+      "country": "SINGAPORE",
+      "leagues": [
+        {
+          "name": "Singapore NBL",
+          "id": 349694
+        }
+      ]
+    },
+    {
+      "country": "SLOVAKIA",
+      "leagues": [
+        {
+          "name": "Extraliga",
+          "id": 74821
+        },
+        {
+          "name": "Extraliga Women",
+          "id": 75672
+        },
+        {
+          "name": "Slovakia Cup",
+          "id": 137795
+        }
+      ]
+    },
+    {
+      "country": "SLOVENIA",
+      "leagues": [
+        {
+          "name": "Liga Nova KBM",
+          "id": 76523
+        },
+        {
+          "name": "1. SKL Women",
+          "id": 77374
+        },
+        {
+          "name": "Slovenian Cup",
+          "id": 139497
+        }
+      ]
+    },
+    {
+      "country": "SOUTH KOREA",
+      "leagues": [
+        {
+          "name": "KBL",
+          "id": 78225
+        },
+        {
+          "name": "WKBL Women",
+          "id": 79076
+        }
+      ]
+    },
+    {
+      "country": "SPAIN",
+      "leagues": [
+        {
+          "name": "ACB",
+          "id": 100351
+        },
+        {
+          "name": "Supercopa ACB",
+          "id": 101202
+        },
+        {
+          "name": "Copa del Rey",
+          "id": 102053
+        },
+        {
+          "name": "Liga Femenina Women",
+          "id": 80778
+        },
+        {
+          "name": "LEB Oro",
+          "id": 81629
+        },
+        {
+          "name": "LEB Plata",
+          "id": 82480
+        },
+        {
+          "name": "Supercopa Women",
+          "id": 140348
+        },
+        {
+          "name": "Spanish Cup Women",
+          "id": 141199
+        }
+      ]
+    },
+    {
+      "country": "SWEDEN",
+      "leagues": [
+        {
+          "name": "Basketligan",
+          "id": 79927
+        },
+        {
+          "name": "Basketligan Women",
+          "id": 83331
+        },
+        {
+          "name": "Basketettan Women",
+          "id": 84182
+        },
+        {
+          "name": "Superettan",
+          "id": 85033
+        }
+      ]
+    },
+    {
+      "country": "SWITZERLAND",
+      "leagues": [
+        {
+          "name": "SB League",
+          "id": 85884
+        },
+        {
+          "name": "SB League Women",
+          "id": 86735
+        }
+      ]
+    },
+    {
+      "country": "TAJIKISTAN",
+      "leagues": [
+        {
+          "name": "National League",
+          "id": 326717
+        },
+        {
+          "name": "Northern Cup",
+          "id": 327568
+        }
+      ]
+    },
+    {
+      "country": "THAILAND",
+      "leagues": [
+        {
+          "name": "TBL",
+          "id": 229703
+        }
+      ]
+    },
+    {
+      "country": "TURKEY",
+      "leagues": [
+        {
+          "name": "TBL",
+          "id": 87586
+        },
+        {
+          "name": "TB2L",
+          "id": 88437
+        },
+        {
+          "name": "Super Ligi",
+          "id": 89288
+        },
+        {
+          "name": "KBSL Women",
+          "id": 90139
+        },
+        {
+          "name": "Turkish Cup",
+          "id": 142050
+        },
+        {
+          "name": "Super Cup",
+          "id": 142901
+        },
+        {
+          "name": "Turkish Cup Women",
+          "id": 143752
+        },
+        {
+          "name": "Super Cup Women",
+          "id": 144603
+        },
+        {
+          "name": "Turkish Federation Cup",
+          "id": 145454
+        },
+        {
+          "name": "TKBL Women",
+          "id": 230554
+        },
+        {
+          "name": "Turkish Federation Cup Women",
+          "id": 231405
+        }
+      ]
+    },
+    {
+      "country": "TURKMENISTAN",
+      "leagues": [
+        {
+          "name": "NBLT",
+          "id": 328419
+        }
+      ]
+    },
+    {
+      "country": "UKRAINE",
+      "leagues": [
+        {
+          "name": "FBU Superleague",
+          "id": 90990
+        },
+        {
+          "name": "SuperLeague Women",
+          "id": 91841
+        },
+        {
+          "name": "Ukrainian Cup",
+          "id": 146305
+        },
+        {
+          "name": "Super Cup",
+          "id": 232256
+        }
+      ]
+    },
+    {
+      "country": "UNITED KINGDOM",
+      "leagues": [
+        {
+          "name": "BBL",
+          "id": 92692
+        },
+        {
+          "name": "WBBL Women",
+          "id": 93543
+        },
+        {
+          "name": "BBL Trophy",
+          "id": 148007
+        },
+        {
+          "name": "BBL Cup",
+          "id": 148858
+        },
+        {
+          "name": "Betty Codona Trophy",
+          "id": 350545
+        },
+        {
+          "name": "WBBL Cup",
+          "id": 233958
+        }
+      ]
+    },
+    {
+      "country": "URUGUAY",
+      "leagues": [
+        {
+          "name": "Liga Uruguaya",
+          "id": 94394
+        }
+      ]
+    },
+    {
+      "country": "USA",
+      "leagues": [
+        {
+          "name": "NBA",
+          "id": 10996
+        },
+        {
+          "name": "NBA Women / WNBA",
+          "id": 11847
+        },
+        {
+          "name": "NIT",
+          "id": 12698
+        },
+        {
+          "name": "CBI",
+          "id": 13549
+        },
+        {
+          "name": "CIT",
+          "id": 14400
+        },
+        {
+          "name": "NBA Summer League Las Vegas",
+          "id": 15251
+        },
+        {
+          "name": "NBA G League",
+          "id": 17804
+        },
+        {
+          "name": "NBA Summer League Sacramento",
+          "id": 18655
+        },
+        {
+          "name": "NCAA",
+          "id": 99500
+        },
+        {
+          "name": "BIG3",
+          "id": 152262
+        },
+        {
+          "name": "NBA Summer League Salt Lake City",
+          "id": 233958
+        },
+        {
+          "name": "NBA In-Season Tournament",
+          "id": 344588
+        },
+        {
+          "name": "NBA Cup",
+          "id": 359906
+        },
+        {
+          "name": "NCAA Women",
+          "id": 360757
+        },
+        {
+          "name": "California Classic",
+          "id": 320760
+        }
+      ]
+    },
+    {
+      "country": "VENEZUELA",
+      "leagues": [
+        {
+          "name": "Superliga",
+          "id": 234809
+        }
+      ]
+    },
+    {
+      "country": "VIETNAM",
+      "leagues": [
+        {
+          "name": "VBA",
+          "id": 235660
+        }
+      ]
+    },
+    {
+      "country": "EUROPE (Multi-country)",
+      "leagues": [
+        {
+          "name": "Euroleague",
+          "id": 102904
+        },
+        {
+          "name": "EuroCup Basketball",
+          "id": 165878
+        },
+        {
+          "name": "BIBL",
+          "id": 166729
+        },
+        {
+          "name": "EuroBasket",
+          "id": 168431
+        },
+        {
+          "name": "ABA League",
+          "id": 169282
+        },
+        {
+          "name": "Alpe Adria Cup",
+          "id": 170984
+        },
+        {
+          "name": "FIBA Europe Cup",
+          "id": 171835
+        },
+        {
+          "name": "Champions League",
+          "id": 172686
+        },
+        {
+          "name": "ABA League 2",
+          "id": 173537
+        },
+        {
+          "name": "Latvia-Estonian League",
+          "id": 174388
+        },
+        {
+          "name": "EuroLeague Women",
+          "id": 306293
+        },
+        {
+          "name": "EuroCup Women",
+          "id": 307144
+        },
+        {
+          "name": "SuperCup Women",
+          "id": 307995
+        },
+        {
+          "name": "CEWL Women",
+          "id": 308846
+        },
+        {
+          "name": "WABA League Women",
+          "id": 309697
+        },
+        {
+          "name": "WBBL Women",
+          "id": 310548
+        },
+        {
+          "name": "ABA Supercup",
+          "id": 311399
+        },
+        {
+          "name": "EWBL Women",
+          "id": 312250
+        },
+        {
+          "name": "Liga Unike",
+          "id": 313101
+        },
+        {
+          "name": "BNXT League",
+          "id": 313952
+        },
+        {
+          "name": "ENBL",
+          "id": 314803
+        },
+        {
+          "name": "Federal Cup Women",
+          "id": 315654
+        },
+        {
+          "name": "Federal Cup",
+          "id": 330121
+        },
+        {
+          "name": "Czech-Slovak Cup",
+          "id": 357353
+        },
+        {
+          "name": "Liga Unike Women",
+          "id": 358204
+        },
+        {
+          "name": "DBB Supercup",
+          "id": 299485
+        },
+        {
+          "name": "Gomelsky Cup",
+          "id": 305442
+        },
+        {
+          "name": "EuroBasket Women",
+          "id": 282465
+        },
+        {
+          "name": "FIBA U20 EuroBasket",
+          "id": 280763
+        },
+        {
+          "name": "European Championship U20 Women",
+          "id": 284167
+        },
+        {
+          "name": "European Small Countries Championship",
+          "id": 291826
+        },
+        {
+          "name": "Games of the Small States of Europe",
+          "id": 297783
+        },
+        {
+          "name": "Games of the Small States of Europe Women",
+          "id": 298634
+        }
+      ]
+    },
+    {
+      "country": "WORLD (International)",
+      "leagues": [
+        {
+          "name": "Olympic Games",
+          "id": 164176
+        },
+        {
+          "name": "Olympic Games Women",
+          "id": 165027
+        },
+        {
+          "name": "Friendly International",
+          "id": 175239
+        },
+        {
+          "name": "Friendly International Women",
+          "id": 247574
+        },
+        {
+          "name": "World Championship U19",
+          "id": 237362
+        },
+        {
+          "name": "FIBA U19 Women's Basketball World Cup",
+          "id": 238213
+        },
+        {
+          "name": "Intercontinental Cup",
+          "id": 239064
+        },
+        {
+          "name": "World Cup",
+          "id": 239915
+        },
+        {
+          "name": "FIBA AmeriCup",
+          "id": 240766
+        },
+        {
+          "name": "FIBA Women's AmeriCup",
+          "id": 241617
+        },
+        {
+          "name": "FIBA World Cup Women",
+          "id": 242468
+        },
+        {
+          "name": "Pan American Games",
+          "id": 244170
+        },
+        {
+          "name": "World Championship U17",
+          "id": 245021
+        },
+        {
+          "name": "FIBA U17 Women's Basketball World Cup",
+          "id": 250127
+        },
+        {
+          "name": "Pan American Games Women",
+          "id": 250978
+        },
+        {
+          "name": "FIBA U16 Americas Championship Women",
+          "id": 251829
+        },
+        {
+          "name": "FIBA U16 Americas Championship",
+          "id": 252680
+        },
+        {
+          "name": "BCL Americas",
+          "id": 255233
+        },
+        {
+          "name": "Asia Championship U18",
+          "id": 256084
+        },
+        {
+          "name": "FIBA Asia Cup",
+          "id": 256935
+        },
+        {
+          "name": "Asian Games Women",
+          "id": 257786
+        },
+        {
+          "name": "Asian Games",
+          "id": 258637
+        },
+        {
+          "name": "Southeast Asian Games",
+          "id": 259488
+        },
+        {
+          "name": "Southeast Asian Games Women",
+          "id": 260339
+        },
+        {
+          "name": "FIBA Asia Cup Women",
+          "id": 264594
+        },
+        {
+          "name": "FIBA U16 Asia Championship Women",
+          "id": 265445
+        },
+        {
+          "name": "FIBA U16 Asian Championship B Women",
+          "id": 266296
+        },
+        {
+          "name": "Asia Championship U16",
+          "id": 267147
+        },
+        {
+          "name": "FIBA U18 Asia Championship Women",
+          "id": 268849
+        },
+        {
+          "name": "African Championship U18",
+          "id": 272253
+        },
+        {
+          "name": "African Championship U16",
+          "id": 273955
+        },
+        {
+          "name": "FIBA U16 African Championship Women",
+          "id": 274806
+        },
+        {
+          "name": "FIBA U18 African Championship Women",
+          "id": 275657
+        },
+        {
+          "name": "AfroBasket",
+          "id": 276508
+        },
+        {
+          "name": "AfroBasket Women",
+          "id": 277359
+        },
+        {
+          "name": "BAL",
+          "id": 279912
+        },
+        {
+          "name": "World Championship U17 Women",
+          "id": 245021
+        },
+        {
+          "name": "FISU Universiade",
+          "id": 248425
+        },
+        {
+          "name": "Universiade Women",
+          "id": 249276
+        },
+        {
+          "name": "FIBA AfroCan",
+          "id": 351396
+        },
+        {
+          "name": "Liga Sudamericana",
+          "id": 353098
+        },
+        {
+          "name": "FIBA South American Championship Women",
+          "id": 353949
+        },
+        {
+          "name": "South American U18 Championship",
+          "id": 356502
+        },
+        {
+          "name": "Americas Championship U18",
+          "id": 321611
+        },
+        {
+          "name": "FIBA U18 Americas Championship Women",
+          "id": 322462
+        },
+        {
+          "name": "WBLA Women",
+          "id": 359055
+        },
+        {
+          "name": "Asian Champions League",
+          "id": 361608
+        },
+        {
+          "name": "EASL",
+          "id": 329270
+        },
+        {
+          "name": "WASL",
+          "id": 331823
+        },
+        {
+          "name": "SBL",
+          "id": 228001
+        },
+        {
+          "name": "WSBL Women",
+          "id": 228852
+        },
+        {
+          "name": "T1 League",
+          "id": 342886
+        },
+        {
+          "name": "P. LEAGUE+",
+          "id": 343737
+        },
+        {
+          "name": "TPBL",
+          "id": 364161
+        }
+      ]
+    },
+    {
+      "country": "ALBANIA",
+      "leagues": [
+        {
+          "name": "Superliga",
+          "id": 330972
+        }
+      ]
+    },
+    {
+      "country": "INDONESIA",
+      "leagues": [
+        {
+          "name": "IBL",
+          "id": 119073
+        }
+      ]
+    }
+  ],
+  "all_leagues": [
+    {
+      "id": 1635,
+      "name": "NBL",
+      "country": "AUSTRALIA"
+    },
+    {
+      "id": 3337,
+      "name": "WNBL",
+      "country": "AUSTRALIA"
+    },
+    {
+      "id": 4188,
+      "name": "NBL 1",
+      "country": "AUSTRALIA"
+    },
+    {
+      "id": 5039,
+      "name": "Australian NBL1 Women",
+      "country": "AUSTRALIA"
+    },
+    {
+      "id": 5890,
+      "name": "ABL",
+      "country": "AUSTRALIA"
+    },
+    {
+      "id": 6741,
+      "name": "Zweite Liga",
+      "country": "AUSTRIA"
+    },
+    {
+      "id": 103755,
+      "name": "Austrian Cup",
+      "country": "AUSTRIA"
+    },
+    {
+      "id": 162474,
+      "name": "Super Cup",
+      "country": "AUSTRIA"
+    },
+    {
+      "id": 185451,
+      "name": "Superliga",
+      "country": "AUSTRIA"
+    },
+    {
+      "id": 186302,
+      "name": "Superliga Women",
+      "country": "AUSTRIA"
+    },
+    {
+      "id": 16102,
+      "name": "Liga A",
+      "country": "ARGENTINA"
+    },
+    {
+      "id": 19506,
+      "name": "Copa Súper 20",
+      "country": "ARGENTINA"
+    },
+    {
+      "id": 153964,
+      "name": "Super Cup Argentina",
+      "country": "ARGENTINA"
+    },
+    {
+      "id": 176090,
+      "name": "Liga Femenina",
+      "country": "ARGENTINA"
+    },
+    {
+      "id": 104606,
+      "name": "Premier League",
+      "country": "BAHRAIN"
+    },
+    {
+      "id": 95245,
+      "name": "Premier League",
+      "country": "BELARUS"
+    },
+    {
+      "id": 96096,
+      "name": "Premier League Women",
+      "country": "BELARUS"
+    },
+    {
+      "id": 20357,
+      "name": "Belgian Cup",
+      "country": "BELGIUM"
+    },
+    {
+      "id": 21208,
+      "name": "BNXT League",
+      "country": "BELGIUM"
+    },
+    {
+      "id": 22059,
+      "name": "Top Division Women",
+      "country": "BELGIUM"
+    },
+    {
+      "id": 319058,
+      "name": "BNXT Pro Basketball League",
+      "country": "BELGIUM"
+    },
+    {
+      "id": 323313,
+      "name": "Libobasquet",
+      "country": "BOLIVIA"
+    },
+    {
+      "id": 105457,
+      "name": "Bosnian Championship",
+      "country": "BOSNIA AND HERZEGOVINA"
+    },
+    {
+      "id": 187153,
+      "name": "Bosnia and Herzegovina Championship Women",
+      "country": "BOSNIA AND HERZEGOVINA"
+    },
+    {
+      "id": 22910,
+      "name": "NBB",
+      "country": "BRAZIL"
+    },
+    {
+      "id": 23761,
+      "name": "LBF Women",
+      "country": "BRAZIL"
+    },
+    {
+      "id": 188004,
+      "name": "Copa Super 8",
+      "country": "BRAZIL"
+    },
+    {
+      "id": 362459,
+      "name": "CBB",
+      "country": "BRAZIL"
+    },
+    {
+      "id": 96947,
+      "name": "NBL",
+      "country": "BULGARIA"
+    },
+    {
+      "id": 106308,
+      "name": "Bulgarian Cup",
+      "country": "BULGARIA"
+    },
+    {
+      "id": 188855,
+      "name": "Super Cup",
+      "country": "BULGARIA"
+    },
+    {
+      "id": 24612,
+      "name": "NBL",
+      "country": "CANADA"
+    },
+    {
+      "id": 25463,
+      "name": "U SPORTS",
+      "country": "CANADA"
+    },
+    {
+      "id": 189706,
+      "name": "CEBL",
+      "country": "CANADA"
+    },
+    {
+      "id": 345439,
+      "name": "Super League",
+      "country": "CANADA"
+    },
+    {
+      "id": 97798,
+      "name": "LNB",
+      "country": "CHILE"
+    },
+    {
+      "id": 190557,
+      "name": "Copa LNB Chile",
+      "country": "CHILE"
+    },
+    {
+      "id": 191408,
+      "name": "LNB Segunda División",
+      "country": "CHILE"
+    },
+    {
+      "id": 332674,
+      "name": "Copa Chile",
+      "country": "CHILE"
+    },
+    {
+      "id": 346290,
+      "name": "Supercopa de Chile",
+      "country": "CHILE"
+    },
+    {
+      "id": 27165,
+      "name": "CBA",
+      "country": "CHINA"
+    },
+    {
+      "id": 107159,
+      "name": "CN WCBA Women",
+      "country": "CHINA"
+    },
+    {
+      "id": 365012,
+      "name": "CBA Club Cup",
+      "country": "CHINA"
+    },
+    {
+      "id": 192259,
+      "name": "LBP",
+      "country": "COLOMBIA"
+    },
+    {
+      "id": 26314,
+      "name": "Premijer liga",
+      "country": "CROATIA"
+    },
+    {
+      "id": 108010,
+      "name": "Croatian Cup",
+      "country": "CROATIA"
+    },
+    {
+      "id": 193110,
+      "name": "Premijer Liga Women",
+      "country": "CROATIA"
+    },
+    {
+      "id": 193961,
+      "name": "Prva Liga",
+      "country": "CROATIA"
+    },
+    {
+      "id": 98649,
+      "name": "Division A",
+      "country": "CYPRUS"
+    },
+    {
+      "id": 28016,
+      "name": "NBL",
+      "country": "CZECH REPUBLIC"
+    },
+    {
+      "id": 28867,
+      "name": "ZBL Women",
+      "country": "CZECH REPUBLIC"
+    },
+    {
+      "id": 108861,
+      "name": "Czech Cup",
+      "country": "CZECH REPUBLIC"
+    },
+    {
+      "id": 109712,
+      "name": "Czech Cup Women",
+      "country": "CZECH REPUBLIC"
+    },
+    {
+      "id": 194812,
+      "name": "1. Liga",
+      "country": "CZECH REPUBLIC"
+    },
+    {
+      "id": 29718,
+      "name": "Basketligaen",
+      "country": "DENMARK"
+    },
+    {
+      "id": 30569,
+      "name": "Dameligaen Women",
+      "country": "DENMARK"
+    },
+    {
+      "id": 110563,
+      "name": "Danish Cup",
+      "country": "DENMARK"
+    },
+    {
+      "id": 111414,
+      "name": "Danish Cup Women",
+      "country": "DENMARK"
+    },
+    {
+      "id": 324164,
+      "name": "LNB",
+      "country": "DOMINICAN REPUBLIC"
+    },
+    {
+      "id": 31420,
+      "name": "Korvpalli Meistriliiga",
+      "country": "ESTONIA"
+    },
+    {
+      "id": 32271,
+      "name": "Korisliiga",
+      "country": "FINLAND"
+    },
+    {
+      "id": 33122,
+      "name": "Korisliiga Women",
+      "country": "FINLAND"
+    },
+    {
+      "id": 195663,
+      "name": "I Divisioona A",
+      "country": "FINLAND"
+    },
+    {
+      "id": 196514,
+      "name": "I Divisioona Women",
+      "country": "FINLAND"
+    },
+    {
+      "id": 333525,
+      "name": "Suomen Cup",
+      "country": "FINLAND"
+    },
+    {
+      "id": 334376,
+      "name": "Suomen Cup Women",
+      "country": "FINLAND"
+    },
+    {
+      "id": 2486,
+      "name": "LNB",
+      "country": "FRANCE"
+    },
+    {
+      "id": 7592,
+      "name": "Pro B",
+      "country": "FRANCE"
+    },
+    {
+      "id": 8443,
+      "name": "Coupe de France",
+      "country": "FRANCE"
+    },
+    {
+      "id": 9294,
+      "name": "French League Women",
+      "country": "FRANCE"
+    },
+    {
+      "id": 10145,
+      "name": "Leaders Cup",
+      "country": "FRANCE"
+    },
+    {
+      "id": 113116,
+      "name": "All Stars",
+      "country": "FRANCE"
+    },
+    {
+      "id": 113967,
+      "name": "LNB Super Cup",
+      "country": "FRANCE"
+    },
+    {
+      "id": 197365,
+      "name": "Coupe de France Women",
+      "country": "FRANCE"
+    },
+    {
+      "id": 198216,
+      "name": "Ligue 2 Women",
+      "country": "FRANCE"
+    },
+    {
+      "id": 199067,
+      "name": "LNB Espoirs U21",
+      "country": "FRANCE"
+    },
+    {
+      "id": 335227,
+      "name": "LFB Super Cup Women",
+      "country": "FRANCE"
+    },
+    {
+      "id": 33973,
+      "name": "Georgian Superliga",
+      "country": "GEORGIA"
+    },
+    {
+      "id": 336078,
+      "name": "Georgian Cup",
+      "country": "GEORGIA"
+    },
+    {
+      "id": 34824,
+      "name": "BBL",
+      "country": "GERMANY"
+    },
+    {
+      "id": 35675,
+      "name": "1. DBBL Women",
+      "country": "GERMANY"
+    },
+    {
+      "id": 36526,
+      "name": "Pro A",
+      "country": "GERMANY"
+    },
+    {
+      "id": 37377,
+      "name": "Pro B",
+      "country": "GERMANY"
+    },
+    {
+      "id": 114818,
+      "name": "German Cup",
+      "country": "GERMANY"
+    },
+    {
+      "id": 38228,
+      "name": "Greek A2",
+      "country": "GREECE"
+    },
+    {
+      "id": 39079,
+      "name": "Basket League",
+      "country": "GREECE"
+    },
+    {
+      "id": 199918,
+      "name": "A1 Women",
+      "country": "GREECE"
+    },
+    {
+      "id": 200769,
+      "name": "Super Cup",
+      "country": "GREECE"
+    },
+    {
+      "id": 201620,
+      "name": "A2 Women",
+      "country": "GREECE"
+    },
+    {
+      "id": 116520,
+      "name": "Greek Cup",
+      "country": "GREECE"
+    },
+    {
+      "id": 336929,
+      "name": "Greek Cup Women",
+      "country": "GREECE"
+    },
+    {
+      "id": 39930,
+      "name": "NB I A",
+      "country": "HUNGARY"
+    },
+    {
+      "id": 40781,
+      "name": "NB I/A Women",
+      "country": "HUNGARY"
+    },
+    {
+      "id": 117371,
+      "name": "Hungarian Cup Women",
+      "country": "HUNGARY"
+    },
+    {
+      "id": 118222,
+      "name": "Magyar Kupa",
+      "country": "HUNGARY"
+    },
+    {
+      "id": 41632,
+      "name": "Premier league",
+      "country": "ICELAND"
+    },
+    {
+      "id": 42483,
+      "name": "Premier League Women",
+      "country": "ICELAND"
+    },
+    {
+      "id": 202471,
+      "name": "Icelandic Cup",
+      "country": "ICELAND"
+    },
+    {
+      "id": 119073,
+      "name": "IBL",
+      "country": "INDONESIA"
+    },
+    {
+      "id": 203322,
+      "name": "Super League",
+      "country": "IRAN"
+    },
+    {
+      "id": 43334,
+      "name": "Super League",
+      "country": "IRELAND"
+    },
+    {
+      "id": 44185,
+      "name": "Super League",
+      "country": "ISRAEL"
+    },
+    {
+      "id": 119924,
+      "name": "Israel State Cup",
+      "country": "ISRAEL"
+    },
+    {
+      "id": 120775,
+      "name": "League Cup",
+      "country": "ISRAEL"
+    },
+    {
+      "id": 204173,
+      "name": "Liga Leumit",
+      "country": "ISRAEL"
+    },
+    {
+      "id": 205024,
+      "name": "Ligat Ha'Al Women",
+      "country": "ISRAEL"
+    },
+    {
+      "id": 45036,
+      "name": "Lega A",
+      "country": "ITALY"
+    },
+    {
+      "id": 45887,
+      "name": "Serie A1 Women",
+      "country": "ITALY"
+    },
+    {
+      "id": 121626,
+      "name": "Lega A - Super Cup",
+      "country": "ITALY"
+    },
+    {
+      "id": 122477,
+      "name": "Coppa Italia",
+      "country": "ITALY"
+    },
+    {
+      "id": 206726,
+      "name": "Serie A2",
+      "country": "ITALY"
+    },
+    {
+      "id": 207577,
+      "name": "Serie A2 Women - North",
+      "country": "ITALY"
+    },
+    {
+      "id": 208428,
+      "name": "Serie A2 Women South",
+      "country": "ITALY"
+    },
+    {
+      "id": 209279,
+      "name": "Supercoppa Italiana Women",
+      "country": "ITALY"
+    },
+    {
+      "id": 205875,
+      "name": "Coppa Italia Women",
+      "country": "ITALY"
+    },
+    {
+      "id": 48440,
+      "name": "B League",
+      "country": "JAPAN"
+    },
+    {
+      "id": 210130,
+      "name": "W League Women",
+      "country": "JAPAN"
+    },
+    {
+      "id": 347141,
+      "name": "B2 League",
+      "country": "JAPAN"
+    },
+    {
+      "id": 49291,
+      "name": "National League",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "id": 50142,
+      "name": "Kazakhstan Premier League",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "id": 210981,
+      "name": "Championship Women",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "id": 337780,
+      "name": "Higher League",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "id": 338631,
+      "name": "National League Women",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "id": 50993,
+      "name": "Superliga",
+      "country": "KOSOVO"
+    },
+    {
+      "id": 339482,
+      "name": "Superleague Women",
+      "country": "KOSOVO"
+    },
+    {
+      "id": 125030,
+      "name": "LBL",
+      "country": "LATVIA"
+    },
+    {
+      "id": 347992,
+      "name": "Latvian Cup",
+      "country": "LATVIA"
+    },
+    {
+      "id": 348843,
+      "name": "Division 1",
+      "country": "LEBANON"
+    },
+    {
+      "id": 51844,
+      "name": "LKL",
+      "country": "LITHUANIA"
+    },
+    {
+      "id": 52695,
+      "name": "NKL",
+      "country": "LITHUANIA"
+    },
+    {
+      "id": 53546,
+      "name": "Moteru Lyga Women",
+      "country": "LITHUANIA"
+    },
+    {
+      "id": 211832,
+      "name": "King Mindaugas Cup",
+      "country": "LITHUANIA"
+    },
+    {
+      "id": 212683,
+      "name": "Total League",
+      "country": "LUXEMBOURG"
+    },
+    {
+      "id": 213534,
+      "name": "Total League Women",
+      "country": "LUXEMBOURG"
+    },
+    {
+      "id": 57801,
+      "name": "Macedonian Superleague",
+      "country": "MACEDONIA"
+    },
+    {
+      "id": 128434,
+      "name": "Macedonian Cup",
+      "country": "MACEDONIA"
+    },
+    {
+      "id": 219491,
+      "name": "Prva Liga Women",
+      "country": "MACEDONIA"
+    },
+    {
+      "id": 271402,
+      "name": "Prva Liga",
+      "country": "MACEDONIA"
+    },
+    {
+      "id": 54397,
+      "name": "LNBP",
+      "country": "MEXICO"
+    },
+    {
+      "id": 214385,
+      "name": "CIBACOPA",
+      "country": "MEXICO"
+    },
+    {
+      "id": 215236,
+      "name": "LMBPF Women",
+      "country": "MEXICO"
+    },
+    {
+      "id": 55248,
+      "name": "Prva A Liga",
+      "country": "MONTENEGRO"
+    },
+    {
+      "id": 216087,
+      "name": "Montenegrin Cup",
+      "country": "MONTENEGRO"
+    },
+    {
+      "id": 56099,
+      "name": "DBL",
+      "country": "NETHERLANDS"
+    },
+    {
+      "id": 216938,
+      "name": "Dutch Basketball Cup",
+      "country": "NETHERLANDS"
+    },
+    {
+      "id": 217789,
+      "name": "WBL Women",
+      "country": "NETHERLANDS"
+    },
+    {
+      "id": 126732,
+      "name": "Supercup",
+      "country": "NETHERLANDS"
+    },
+    {
+      "id": 56950,
+      "name": "NBL",
+      "country": "NEW ZEALAND"
+    },
+    {
+      "id": 218640,
+      "name": "NBL Women",
+      "country": "NEW ZEALAND"
+    },
+    {
+      "id": 319909,
+      "name": "Tauihi Women",
+      "country": "NEW ZEALAND"
+    },
+    {
+      "id": 58652,
+      "name": "BLNO",
+      "country": "NORWAY"
+    },
+    {
+      "id": 59503,
+      "name": "Kvinneligaen Women",
+      "country": "NORWAY"
+    },
+    {
+      "id": 220342,
+      "name": "LNB",
+      "country": "PARAGUAY"
+    },
+    {
+      "id": 129285,
+      "name": "Philippine Cup",
+      "country": "PHILIPPINES"
+    },
+    {
+      "id": 130136,
+      "name": "PBA Governors Cup",
+      "country": "PHILIPPINES"
+    },
+    {
+      "id": 130987,
+      "name": "PBA Commissioner's Cup",
+      "country": "PHILIPPINES"
+    },
+    {
+      "id": 363310,
+      "name": "MPBL",
+      "country": "PHILIPPINES"
+    },
+    {
+      "id": 60354,
+      "name": "Polish Cup Women",
+      "country": "POLAND"
+    },
+    {
+      "id": 61205,
+      "name": "1 Liga",
+      "country": "POLAND"
+    },
+    {
+      "id": 62056,
+      "name": "Energa Basket Liga",
+      "country": "POLAND"
+    },
+    {
+      "id": 62907,
+      "name": "Energa Basket Liga Women",
+      "country": "POLAND"
+    },
+    {
+      "id": 131838,
+      "name": "Polish Cup",
+      "country": "POLAND"
+    },
+    {
+      "id": 132689,
+      "name": "Polish Super Cup",
+      "country": "POLAND"
+    },
+    {
+      "id": 221193,
+      "name": "Super Cup Women",
+      "country": "POLAND"
+    },
+    {
+      "id": 63758,
+      "name": "LPB",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 64609,
+      "name": "Taca de Portugal",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 134391,
+      "name": "Super Cup",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 222044,
+      "name": "LFB Women",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 222895,
+      "name": "Proliga",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 223746,
+      "name": "Taça da Liga",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 340333,
+      "name": "Super Cup Women",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 341184,
+      "name": "Taça de Portugal Women",
+      "country": "PORTUGAL"
+    },
+    {
+      "id": 65460,
+      "name": "BSN",
+      "country": "PUERTO RICO"
+    },
+    {
+      "id": 66311,
+      "name": "QBL",
+      "country": "QATAR"
+    },
+    {
+      "id": 67162,
+      "name": "Divizia A",
+      "country": "ROMANIA"
+    },
+    {
+      "id": 68013,
+      "name": "Liga National Women",
+      "country": "ROMANIA"
+    },
+    {
+      "id": 135242,
+      "name": "Romanian Cup",
+      "country": "ROMANIA"
+    },
+    {
+      "id": 224597,
+      "name": "Romanian Cup Women",
+      "country": "ROMANIA"
+    },
+    {
+      "id": 342035,
+      "name": "Romanian Super Cup",
+      "country": "ROMANIA"
+    },
+    {
+      "id": 68864,
+      "name": "Russian Cup Women",
+      "country": "RUSSIA"
+    },
+    {
+      "id": 69715,
+      "name": "Russian Super League",
+      "country": "RUSSIA"
+    },
+    {
+      "id": 70566,
+      "name": "VTB United League",
+      "country": "RUSSIA"
+    },
+    {
+      "id": 71417,
+      "name": "Premier League Women",
+      "country": "RUSSIA"
+    },
+    {
+      "id": 136093,
+      "name": "Russian Cup",
+      "country": "RUSSIA"
+    },
+    {
+      "id": 225448,
+      "name": "VTB Super Cup",
+      "country": "RUSSIA"
+    },
+    {
+      "id": 72268,
+      "name": "Saudi Premier League",
+      "country": "SAUDI ARABIA"
+    },
+    {
+      "id": 73119,
+      "name": "First League",
+      "country": "SERBIA"
+    },
+    {
+      "id": 73970,
+      "name": "Super League",
+      "country": "SERBIA"
+    },
+    {
+      "id": 136944,
+      "name": "Korac cup",
+      "country": "SERBIA"
+    },
+    {
+      "id": 226299,
+      "name": "1. ZLS Women",
+      "country": "SERBIA"
+    },
+    {
+      "id": 349694,
+      "name": "Singapore NBL",
+      "country": "SINGAPORE"
+    },
+    {
+      "id": 74821,
+      "name": "Extraliga",
+      "country": "SLOVAKIA"
+    },
+    {
+      "id": 75672,
+      "name": "Extraliga Women",
+      "country": "SLOVAKIA"
+    },
+    {
+      "id": 137795,
+      "name": "Slovakia Cup",
+      "country": "SLOVAKIA"
+    },
+    {
+      "id": 76523,
+      "name": "Liga Nova KBM",
+      "country": "SLOVENIA"
+    },
+    {
+      "id": 77374,
+      "name": "1. SKL Women",
+      "country": "SLOVENIA"
+    },
+    {
+      "id": 139497,
+      "name": "Slovenian Cup",
+      "country": "SLOVENIA"
+    },
+    {
+      "id": 78225,
+      "name": "KBL",
+      "country": "SOUTH KOREA"
+    },
+    {
+      "id": 79076,
+      "name": "WKBL Women",
+      "country": "SOUTH KOREA"
+    },
+    {
+      "id": 100351,
+      "name": "ACB",
+      "country": "SPAIN"
+    },
+    {
+      "id": 101202,
+      "name": "Supercopa ACB",
+      "country": "SPAIN"
+    },
+    {
+      "id": 102053,
+      "name": "Copa del Rey",
+      "country": "SPAIN"
+    },
+    {
+      "id": 80778,
+      "name": "Liga Femenina Women",
+      "country": "SPAIN"
+    },
+    {
+      "id": 81629,
+      "name": "LEB Oro",
+      "country": "SPAIN"
+    },
+    {
+      "id": 82480,
+      "name": "LEB Plata",
+      "country": "SPAIN"
+    },
+    {
+      "id": 140348,
+      "name": "Supercopa Women",
+      "country": "SPAIN"
+    },
+    {
+      "id": 141199,
+      "name": "Spanish Cup Women",
+      "country": "SPAIN"
+    },
+    {
+      "id": 79927,
+      "name": "Basketligan",
+      "country": "SWEDEN"
+    },
+    {
+      "id": 83331,
+      "name": "Basketligan Women",
+      "country": "SWEDEN"
+    },
+    {
+      "id": 84182,
+      "name": "Basketettan Women",
+      "country": "SWEDEN"
+    },
+    {
+      "id": 85033,
+      "name": "Superettan",
+      "country": "SWEDEN"
+    },
+    {
+      "id": 85884,
+      "name": "SB League",
+      "country": "SWITZERLAND"
+    },
+    {
+      "id": 86735,
+      "name": "SB League Women",
+      "country": "SWITZERLAND"
+    },
+    {
+      "id": 326717,
+      "name": "National League",
+      "country": "TAJIKISTAN"
+    },
+    {
+      "id": 327568,
+      "name": "Northern Cup",
+      "country": "TAJIKISTAN"
+    },
+    {
+      "id": 229703,
+      "name": "TBL",
+      "country": "THAILAND"
+    },
+    {
+      "id": 87586,
+      "name": "TBL",
+      "country": "TURKEY"
+    },
+    {
+      "id": 88437,
+      "name": "TB2L",
+      "country": "TURKEY"
+    },
+    {
+      "id": 89288,
+      "name": "Super Ligi",
+      "country": "TURKEY"
+    },
+    {
+      "id": 90139,
+      "name": "KBSL Women",
+      "country": "TURKEY"
+    },
+    {
+      "id": 142050,
+      "name": "Turkish Cup",
+      "country": "TURKEY"
+    },
+    {
+      "id": 142901,
+      "name": "Super Cup",
+      "country": "TURKEY"
+    },
+    {
+      "id": 143752,
+      "name": "Turkish Cup Women",
+      "country": "TURKEY"
+    },
+    {
+      "id": 144603,
+      "name": "Super Cup Women",
+      "country": "TURKEY"
+    },
+    {
+      "id": 145454,
+      "name": "Turkish Federation Cup",
+      "country": "TURKEY"
+    },
+    {
+      "id": 230554,
+      "name": "TKBL Women",
+      "country": "TURKEY"
+    },
+    {
+      "id": 231405,
+      "name": "Turkish Federation Cup Women",
+      "country": "TURKEY"
+    },
+    {
+      "id": 328419,
+      "name": "NBLT",
+      "country": "TURKMENISTAN"
+    },
+    {
+      "id": 90990,
+      "name": "FBU Superleague",
+      "country": "UKRAINE"
+    },
+    {
+      "id": 91841,
+      "name": "SuperLeague Women",
+      "country": "UKRAINE"
+    },
+    {
+      "id": 146305,
+      "name": "Ukrainian Cup",
+      "country": "UKRAINE"
+    },
+    {
+      "id": 232256,
+      "name": "Super Cup",
+      "country": "UKRAINE"
+    },
+    {
+      "id": 92692,
+      "name": "BBL",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "id": 93543,
+      "name": "WBBL Women",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "id": 148007,
+      "name": "BBL Trophy",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "id": 148858,
+      "name": "BBL Cup",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "id": 350545,
+      "name": "Betty Codona Trophy",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "id": 233958,
+      "name": "WBBL Cup",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "id": 94394,
+      "name": "Liga Uruguaya",
+      "country": "URUGUAY"
+    },
+    {
+      "id": 10996,
+      "name": "NBA",
+      "country": "USA"
+    },
+    {
+      "id": 11847,
+      "name": "NBA Women / WNBA",
+      "country": "USA"
+    },
+    {
+      "id": 12698,
+      "name": "NIT",
+      "country": "USA"
+    },
+    {
+      "id": 13549,
+      "name": "CBI",
+      "country": "USA"
+    },
+    {
+      "id": 14400,
+      "name": "CIT",
+      "country": "USA"
+    },
+    {
+      "id": 15251,
+      "name": "NBA Summer League Las Vegas",
+      "country": "USA"
+    },
+    {
+      "id": 17804,
+      "name": "NBA G League",
+      "country": "USA"
+    },
+    {
+      "id": 18655,
+      "name": "NBA Summer League Sacramento",
+      "country": "USA"
+    },
+    {
+      "id": 99500,
+      "name": "NCAA",
+      "country": "USA"
+    },
+    {
+      "id": 152262,
+      "name": "BIG3",
+      "country": "USA"
+    },
+    {
+      "id": 233958,
+      "name": "NBA Summer League Salt Lake City",
+      "country": "USA"
+    },
+    {
+      "id": 344588,
+      "name": "NBA In-Season Tournament",
+      "country": "USA"
+    },
+    {
+      "id": 359906,
+      "name": "NBA Cup",
+      "country": "USA"
+    },
+    {
+      "id": 360757,
+      "name": "NCAA Women",
+      "country": "USA"
+    },
+    {
+      "id": 320760,
+      "name": "California Classic",
+      "country": "USA"
+    },
+    {
+      "id": 234809,
+      "name": "Superliga",
+      "country": "VENEZUELA"
+    },
+    {
+      "id": 235660,
+      "name": "VBA",
+      "country": "VIETNAM"
+    },
+    {
+      "id": 102904,
+      "name": "Euroleague",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 165878,
+      "name": "EuroCup Basketball",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 166729,
+      "name": "BIBL",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 168431,
+      "name": "EuroBasket",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 169282,
+      "name": "ABA League",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 170984,
+      "name": "Alpe Adria Cup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 171835,
+      "name": "FIBA Europe Cup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 172686,
+      "name": "Champions League",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 173537,
+      "name": "ABA League 2",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 174388,
+      "name": "Latvia-Estonian League",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 306293,
+      "name": "EuroLeague Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 307144,
+      "name": "EuroCup Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 307995,
+      "name": "SuperCup Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 308846,
+      "name": "CEWL Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 309697,
+      "name": "WABA League Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 310548,
+      "name": "WBBL Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 311399,
+      "name": "ABA Supercup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 312250,
+      "name": "EWBL Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 313101,
+      "name": "Liga Unike",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 313952,
+      "name": "BNXT League",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 314803,
+      "name": "ENBL",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 315654,
+      "name": "Federal Cup Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 330121,
+      "name": "Federal Cup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 357353,
+      "name": "Czech-Slovak Cup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 358204,
+      "name": "Liga Unike Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 299485,
+      "name": "DBB Supercup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 305442,
+      "name": "Gomelsky Cup",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 282465,
+      "name": "EuroBasket Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 280763,
+      "name": "FIBA U20 EuroBasket",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 284167,
+      "name": "European Championship U20 Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 291826,
+      "name": "European Small Countries Championship",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 297783,
+      "name": "Games of the Small States of Europe",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 298634,
+      "name": "Games of the Small States of Europe Women",
+      "country": "EUROPE (Multi-country)"
+    },
+    {
+      "id": 164176,
+      "name": "Olympic Games",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 165027,
+      "name": "Olympic Games Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 175239,
+      "name": "Friendly International",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 247574,
+      "name": "Friendly International Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 237362,
+      "name": "World Championship U19",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 238213,
+      "name": "FIBA U19 Women's Basketball World Cup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 239064,
+      "name": "Intercontinental Cup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 239915,
+      "name": "World Cup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 240766,
+      "name": "FIBA AmeriCup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 241617,
+      "name": "FIBA Women's AmeriCup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 242468,
+      "name": "FIBA World Cup Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 244170,
+      "name": "Pan American Games",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 245021,
+      "name": "World Championship U17",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 250127,
+      "name": "FIBA U17 Women's Basketball World Cup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 250978,
+      "name": "Pan American Games Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 251829,
+      "name": "FIBA U16 Americas Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 252680,
+      "name": "FIBA U16 Americas Championship",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 255233,
+      "name": "BCL Americas",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 256084,
+      "name": "Asia Championship U18",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 256935,
+      "name": "FIBA Asia Cup",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 257786,
+      "name": "Asian Games Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 258637,
+      "name": "Asian Games",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 259488,
+      "name": "Southeast Asian Games",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 260339,
+      "name": "Southeast Asian Games Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 264594,
+      "name": "FIBA Asia Cup Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 265445,
+      "name": "FIBA U16 Asia Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 266296,
+      "name": "FIBA U16 Asian Championship B Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 267147,
+      "name": "Asia Championship U16",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 268849,
+      "name": "FIBA U18 Asia Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 272253,
+      "name": "African Championship U18",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 273955,
+      "name": "African Championship U16",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 274806,
+      "name": "FIBA U16 African Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 275657,
+      "name": "FIBA U18 African Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 276508,
+      "name": "AfroBasket",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 277359,
+      "name": "AfroBasket Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 279912,
+      "name": "BAL",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 245021,
+      "name": "World Championship U17 Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 248425,
+      "name": "FISU Universiade",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 249276,
+      "name": "Universiade Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 351396,
+      "name": "FIBA AfroCan",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 353098,
+      "name": "Liga Sudamericana",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 353949,
+      "name": "FIBA South American Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 356502,
+      "name": "South American U18 Championship",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 321611,
+      "name": "Americas Championship U18",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 322462,
+      "name": "FIBA U18 Americas Championship Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 359055,
+      "name": "WBLA Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 361608,
+      "name": "Asian Champions League",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 329270,
+      "name": "EASL",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 331823,
+      "name": "WASL",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 228001,
+      "name": "SBL",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 228852,
+      "name": "WSBL Women",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 342886,
+      "name": "T1 League",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 343737,
+      "name": "P. LEAGUE+",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 364161,
+      "name": "TPBL",
+      "country": "WORLD (International)"
+    },
+    {
+      "id": 330972,
+      "name": "Superliga",
+      "country": "ALBANIA"
+    },
+    {
+      "id": 119073,
+      "name": "IBL",
+      "country": "INDONESIA"
+    }
+  ]
+}

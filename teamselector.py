@@ -7,6 +7,7 @@ from league_mapping import get_league_info
 
 DATABASE_FILE = "teams_database.json"
 CACHE_FILE = "team_id_cache.json"
+LEAGUES_FILE = "highlightly_leagues.json"
 MATCH_THRESHOLD = 80
 TOP_N = 5
 
@@ -271,3 +272,69 @@ def confirm_team_selection(team_name, selected_name, selected_id):
         "score": 100
     }
     save_cache(cache)
+
+
+# ─────────────────────────────────────────────
+# Manual search: country -> league -> team
+# ─────────────────────────────────────────────
+
+def load_leagues_data():
+    """Load the structured leagues JSON (countries -> leagues with ids)."""
+    if not os.path.exists(LEAGUES_FILE):
+        return {"countries": [], "all_leagues": []}
+    with open(LEAGUES_FILE, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def get_all_countries():
+    """Return a sorted list of country names available for manual search."""
+    data = load_leagues_data()
+    return sorted([c["country"] for c in data.get("countries", [])])
+
+
+def get_leagues_for_country(country):
+    """Return list of {name, id} leagues for a given country."""
+    data = load_leagues_data()
+    for c in data.get("countries", []):
+        if c["country"] == country:
+            return c["leagues"]
+    return []
+
+
+def get_teams_for_league_id(league_id, season=2025):
+    """
+    Fetch all teams for a specific league ID directly via the standings endpoint.
+    Used by the manual search UI (country -> league -> team).
+    Returns a list of {name, id} dicts, or empty list on failure.
+    """
+    url = f"{BASE_URL}/standings"
+    try:
+        response = requests.get(url, headers=HEADERS, params={
+            "leagueId": league_id,
+            "season": season
+        })
+        data = response.json()
+    except Exception:
+        return []
+
+    teams = []
+    groups = data.get("groups", []) if isinstance(data, dict) else []
+
+    if groups:
+        for group in groups:
+            for entry in group.get("standings", []):
+                team = entry.get("team", {})
+                team_id = team.get("id")
+                team_name = team.get("name")
+                if team_id and team_name:
+                    teams.append({"name": team_name, "id": team_id})
+    else:
+        standings = data if isinstance(data, list) else data.get("data", [])
+        for entry in standings:
+            team = entry.get("team", entry)
+            team_id = team.get("id")
+            team_name = team.get("name")
+            if team_id and team_name:
+                teams.append({"name": team_name, "id": team_id})
+
+    return teams
