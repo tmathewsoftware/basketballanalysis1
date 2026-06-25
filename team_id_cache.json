@@ -588,5 +588,10 @@
     "team_id": 284167,
     "matched_name": "Flamengo",
     "score": 80.0
+  },
+  "Mayaguez": {
+    "team_id": 812638,
+    "matched_name": "Indios de Mayaguez",
+    "score": 100
   }
 }
