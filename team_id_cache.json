@@ -753,5 +753,10 @@
     "team_id": 2935883,
     "matched_name": "Mackay Meteors",
     "score": 100.0
+  },
+  "WAS Mystics": {
+    "team_id": 149709,
+    "matched_name": "Washington Mystics W",
+    "score": 100
   }
 }
