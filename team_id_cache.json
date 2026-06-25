@@ -668,5 +668,10 @@
     "team_id": 2671222,
     "matched_name": "Estonia",
     "score": 100.0
+  },
+  "Latvia": {
+    "team_id": 2677179,
+    "matched_name": "Latvia",
+    "score": 100.0
   }
 }
