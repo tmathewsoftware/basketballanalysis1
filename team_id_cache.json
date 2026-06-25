@@ -413,5 +413,190 @@
     "team_id": 145454,
     "matched_name": "New York Liberty W",
     "score": 100
+  },
+  "San Marino": {
+    "team_id": 4060905,
+    "matched_name": "San Marino",
+    "score": 100.0
+  },
+  "Olimpia": {
+    "team_id": 249276,
+    "matched_name": "Olimpico",
+    "score": 80.0
+  },
+  "Barcelona": {
+    "team_id": 969222,
+    "matched_name": "Barcelona B",
+    "score": 90.0
+  },
+  "Stade Malien (W)": {
+    "team_id": 5066787,
+    "matched_name": "Stade Malien",
+    "score": 85.71428571428572
+  },
+  "Portugal U20 (W)": {
+    "team_id": 3929851,
+    "matched_name": "Portugal U20",
+    "score": 85.71428571428572
+  },
+  "Borneo Hornbills": {
+    "team_id": 6687091,
+    "matched_name": "Borneo Hornbills",
+    "score": 100.0
+  },
+  "Otago Nuggets": {
+    "team_id": 1921491,
+    "matched_name": "Otago Nuggets",
+    "score": 100.0
+  },
+  "Netherlands U20 (W)": {
+    "team_id": 3928149,
+    "matched_name": "Netherlands U20",
+    "score": 88.23529411764706
+  },
+  "Ireland U20 (W)": {
+    "team_id": 3925596,
+    "matched_name": "Ireland U20",
+    "score": 84.61538461538461
+  },
+  "Gibraltar": {
+    "team_id": 4058352,
+    "matched_name": "Gibraltar",
+    "score": 100.0
+  },
+  "Larre Borges": {
+    "team_id": 4273655,
+    "matched_name": "Larre Borges",
+    "score": 100.0
+  },
+  "Italy": {
+    "team_id": 2570804,
+    "matched_name": "Italy",
+    "score": 100.0
+  },
+  "Croatia": {
+    "team_id": 238213,
+    "matched_name": "Croatia",
+    "score": 100.0
+  },
+  "Frayles de Guasave": {
+    "team_id": 5366339,
+    "matched_name": "Frayles de Guasave",
+    "score": 100.0
+  },
+  "Marne": {
+    "team_id": 571805,
+    "matched_name": "Maree",
+    "score": 80.0
+  },
+  "Qingdao Eagles II": {
+    "team_id": 367565,
+    "matched_name": "Qingdao Eagles",
+    "score": 90.32258064516128
+  },
+  "Hong Kong Eastern": {
+    "team_id": 5705037,
+    "matched_name": "Hong Kong Eastern",
+    "score": 100.0
+  },
+  "Franca U22": {
+    "team_id": 3872834,
+    "matched_name": "France U20",
+    "score": 80.0
+  },
+  "Sao Jose U22": {
+    "team_id": 290975,
+    "matched_name": "Sao Jose",
+    "score": 80.0
+  },
+  "Pinheiros U22": {
+    "team_id": 289273,
+    "matched_name": "Pinheiros",
+    "score": 81.81818181818181
+  },
+  "Bulgaria U20 (W)": {
+    "team_id": 2686540,
+    "matched_name": "Bulgaria U20",
+    "score": 85.71428571428572
+  },
+  "Greece U20 (W)": {
+    "team_id": 3875387,
+    "matched_name": "Greece U20",
+    "score": 83.33333333333334
+  },
+  "Andorra": {
+    "team_id": 4057501,
+    "matched_name": "Andorra",
+    "score": 100.0
+  },
+  "FUS Rabat (W)": {
+    "team_id": 5386763,
+    "matched_name": "FUS Rabat",
+    "score": 81.81818181818181
+  },
+  "Malta": {
+    "team_id": 4060054,
+    "matched_name": "Malta",
+    "score": 100.0
+  },
+  "Croatia U20": {
+    "team_id": 3871983,
+    "matched_name": "Croatia U20",
+    "score": 100.0
+  },
+  "Universidad de Concepcion (W)": {
+    "team_id": 1181121,
+    "matched_name": "Universidad de Concepcion",
+    "score": 92.5925925925926
+  },
+  "Sportiva Italiana (W)": {
+    "team_id": 3051619,
+    "matched_name": "CD Sportiva Italiana",
+    "score": 87.8048780487805
+  },
+  "Uniao Corinthians LDB U22": {
+    "team_id": 2644841,
+    "matched_name": "Uniao Corinthians",
+    "score": 80.95238095238095
+  },
+  "Vaqueros de Bayamon": {
+    "team_id": 816042,
+    "matched_name": "Vaqueros de Bayam\u00f3n",
+    "score": 94.73684210526316
+  },
+  "FUS Rabat": {
+    "team_id": 5386763,
+    "matched_name": "FUS Rabat",
+    "score": 100.0
+  },
+  "Paulistano U22": {
+    "team_id": 288422,
+    "matched_name": "Paulistano",
+    "score": 83.33333333333334
+  },
+  "Hanoi Buffaloes": {
+    "team_id": 3399678,
+    "matched_name": "Hanoi Buffaloes",
+    "score": 100.0
+  },
+  "Corinthians U22": {
+    "team_id": 2644841,
+    "matched_name": "Uniao Corinthians",
+    "score": 81.25
+  },
+  "Flamengo U22": {
+    "team_id": 284167,
+    "matched_name": "Flamengo",
+    "score": 80.0
+  },
+  "Mayaguez": {
+    "team_id": 812638,
+    "matched_name": "Indios de Mayaguez",
+    "score": 100
+  },
+  "San German": {
+    "team_id": 815191,
+    "matched_name": "San German",
+    "score": 100
   }
 }
