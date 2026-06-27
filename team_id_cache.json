@@ -973,5 +973,10 @@
     "team_id": 3012473,
     "matched_name": "Newcastle Falcons",
     "score": 89.47368421052632
+  },
+  "Maitland Mustangs": {
+    "team_id": 3010771,
+    "matched_name": "Maitland Mustangs",
+    "score": 100.0
   }
 }
