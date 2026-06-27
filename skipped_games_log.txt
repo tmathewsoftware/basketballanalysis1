@@ -158,53 +158,293 @@
 [25 Jun 2026 05:04] Minas LDB U22 vs Osasco Basket LDB U22 (Brazil LDB U22) — Unresolved team(s): Minas LDB U22, Osasco Basket LDB U22 — run 'Check All Teams' first
 [25 Jun 2026 05:04] Fuerza Paraiso vs Thunder El Salvador (El Salvador LNB Segunda) — Unresolved team(s): Fuerza Paraiso, Thunder El Salvador — run 'Check All Teams' first
 [25 Jun 2026 05:04] Guangdong U21 (W) vs Jiangxi U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Jiangxi U21 (W) — run 'Check All Teams' first
-[27 Jun 2026 20:04] Osorno SAESA vs Lautaro SAESA (Chile Liga SAESA) — Unresolved team(s): Osorno SAESA, Lautaro SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:04] TAS Casablanca (W) vs AS Essaouira Women (Morocco 1DND Women) — Unresolved team(s): TAS Casablanca (W), AS Essaouira Women — run 'Check All Teams' first
-[27 Jun 2026 20:04] OKC Thunder (SCORCH) vs LA Lakers (OUTLAW) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): OKC Thunder (SCORCH), LA Lakers (OUTLAW) — run 'Check All Teams' first
-[27 Jun 2026 20:04] CLE Cavaliers (PULSE) vs PHX Suns (BOMBARDIER) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): CLE Cavaliers (PULSE), PHX Suns (BOMBARDIER) — run 'Check All Teams' first
-[27 Jun 2026 20:04] Puerto Varas SAESA vs Puerto Montt SAESA (Chile Liga SAESA) — Unresolved team(s): Puerto Varas SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:04] San German vs Arecibo (Puerto Rico Superior Nacional) — Unresolved team(s): Arecibo — run 'Check All Teams' first
-[27 Jun 2026 20:04] Egypt 3x3 (W) vs Ottawa 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Egypt 3x3 (W), Ottawa 3x3 (W) — run 'Check All Teams' first
-[27 Jun 2026 20:04] Antwerp 3x3 vs Elancourt 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Antwerp 3x3, Elancourt 3x3 — run 'Check All Teams' first
-[27 Jun 2026 20:04] Houston Rig Hands vs Boston Ball Hogs (BIG3) — Unresolved team(s): Boston Ball Hogs — run 'Check All Teams' first
-[27 Jun 2026 20:04] DMV Trilogy vs Chicago Triplets (BIG3) — Unresolved team(s): DMV Trilogy, Chicago Triplets — run 'Check All Teams' first
-[27 Jun 2026 20:04] Mayaguez vs Santurce (Puerto Rico Superior Nacional) — Unresolved team(s): Santurce — run 'Check All Teams' first
-[27 Jun 2026 20:04] France 3x3 (W) vs Amsterdam 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): France 3x3 (W), Amsterdam 3x3 (W) — run 'Check All Teams' first
-[27 Jun 2026 20:04] Miami 3x3 vs Bochum 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Miami 3x3, Bochum 3x3 — run 'Check All Teams' first
-[27 Jun 2026 20:04] MIN Lynx vs DAL Wings (WNBA) — Unresolved team(s): MIN Lynx, DAL Wings — run 'Check All Teams' first
-[27 Jun 2026 20:04] Ponce vs Vaqueros de Bayamon (Puerto Rico Superior Nacional) — Unresolved team(s): Ponce — run 'Check All Teams' first
-[27 Jun 2026 20:04] LA Riot vs Dallas Power (BIG3) — Unresolved team(s): Dallas Power — run 'Check All Teams' first
-[27 Jun 2026 20:04] Carahue SAESA vs Alemana Paillaco SAESA (Chile Liga SAESA) — Unresolved team(s): Carahue SAESA, Alemana Paillaco SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:04] Municipal Gorbea SAESA vs Ancud SAESA (Chile Liga SAESA) — Unresolved team(s): Municipal Gorbea SAESA, Ancud SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:04] Belize City Defenders vs Orange Walk Running Rebels (Belize Elite League) — Unresolved team(s): Belize City Defenders, Orange Walk Running Rebels — run 'Check All Teams' first
-[27 Jun 2026 20:04] Australia 3x3 (W) vs Beijing 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Australia 3x3 (W), Beijing 3x3 (W) — run 'Check All Teams' first
-[27 Jun 2026 20:04] Canada 3x3 (W) vs Paris Region IDF 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Canada 3x3 (W), Paris Region IDF 3x3 (W) — run 'Check All Teams' first
-[27 Jun 2026 20:04] Homenetmen (W) vs Al RIyadi (W) (Lebanon League Women) — Unresolved team(s): Homenetmen (W), Al RIyadi (W) — run 'Check All Teams' first
-[27 Jun 2026 20:04] IVV/CETAF LDB U22 vs Campo Mourao LDB U22 (Brazil LDB U22) — Unresolved team(s): IVV/CETAF LDB U22, Campo Mourao LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:04] Roswell vs JMC Limon Sharks (Costa Rica LDB Superior) — Unresolved team(s): Roswell, JMC Limon Sharks — run 'Check All Teams' first
-[27 Jun 2026 20:04] PHX Mercury vs TOR Tempo (WNBA) — Unresolved team(s): TOR Tempo — run 'Check All Teams' first
-[27 Jun 2026 20:05] Quebradillas vs Aguada Santeros (Puerto Rico Superior Nacional) — Unresolved team(s): Quebradillas — run 'Check All Teams' first
-[27 Jun 2026 20:05] Pelita Jaya Jakarta vs Borneo Hornbills (Indonesia IBL) — Unresolved team(s): Pelita Jaya Jakarta — run 'Check All Teams' first
-[27 Jun 2026 20:05] LA Sparks vs IND Fever (WNBA) — Unresolved team(s): LA Sparks — run 'Check All Teams' first
-[27 Jun 2026 20:05] Guaynabo vs Criollos de Caguas (Puerto Rico Superior Nacional) — Unresolved team(s): Guaynabo — run 'Check All Teams' first
-[27 Jun 2026 20:05] ATL Dream vs SEA Storm (WNBA) — Unresolved team(s): SEA Storm — run 'Check All Teams' first
-[27 Jun 2026 20:05] Macau Black Knights TAT vs Shenzhen Leopards II (The Asian Tournament) — Unresolved team(s): Macau Black Knights TAT, Shenzhen Leopards II — run 'Check All Teams' first
-[27 Jun 2026 20:05] Fluminense LDB U22 vs Uniao Corinthians LDB U22 (Brazil LDB U22) — Unresolved team(s): Fluminense LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Defensor Sporting (W) vs Club Yale Women (Uruguay Liga Women) — Unresolved team(s): Defensor Sporting (W), Club Yale Women — run 'Check All Teams' first
-[27 Jun 2026 20:05] Caxias do Sul LDB U22 vs Corinthians U22 (Brazil LDB U22) — Unresolved team(s): Caxias do Sul LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Valdivia SAESA vs Castro SAESA (Chile Liga SAESA) — Unresolved team(s): Valdivia SAESA, Castro SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:05] Danang Dragons vs Hanoi Buffaloes (Vietnam VBA) — Unresolved team(s): Danang Dragons — run 'Check All Teams' first
-[27 Jun 2026 20:05] Cruzeiro LDB U22 vs Pinheiros U22 (Brazil LDB U22) — Unresolved team(s): Cruzeiro LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Canterbury Rams vs Hawke’s Bay Hawks (New Zealand NBL) — Unresolved team(s): Hawke’s Bay Hawks — run 'Check All Teams' first
-[27 Jun 2026 20:05] CD La Union SAESA vs Municipal Loncoche SAESA (Chile Liga SAESA) — Unresolved team(s): CD La Union SAESA, Municipal Loncoche SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:05] La Trinidad vs Brumas de Jinotega (Nicaragua Torneo Carlos Ulloa) — Unresolved team(s): La Trinidad, Brumas de Jinotega — run 'Check All Teams' first
-[27 Jun 2026 20:05] Basquete Cearense LDB U22 vs Bauru LDB U22 (Brazil LDB U22) — Unresolved team(s): Basquete Cearense LDB U22, Bauru LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Unimed Campinas (W) vs Sodie Mesquita (W) (Brazil LBF Women) — Unresolved team(s): Unimed Campinas (W), Sodie Mesquita (W) — run 'Check All Teams' first
-[27 Jun 2026 20:05] Kosovo (W) vs Albania (W) (Euro Champs SCD Women) — Unresolved team(s): Kosovo (W), Albania (W) — run 'Check All Teams' first
-[27 Jun 2026 20:05] Malta (W) vs Armenia (W) (Euro Champs SCD Women) — Unresolved team(s): Malta (W), Armenia (W) — run 'Check All Teams' first
-[27 Jun 2026 20:05] Temuco SAESA vs Espanol Osorno SAESA (Chile Liga SAESA) — Unresolved team(s): Temuco SAESA — run 'Check All Teams' first
-[27 Jun 2026 20:05] Sorocaba U20 vs Santo Andre U20 (Brazil Paulista FPB U20) — Unresolved team(s): Sorocaba U20 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Costa Rica El Salvador vs Dark Fire (El Salvador LNB Segunda) — Unresolved team(s): Costa Rica El Salvador, Dark Fire — run 'Check All Teams' first
-[27 Jun 2026 20:05] Unifacisa LDB U22 vs Paulistano U22 (Brazil LDB U22) — Unresolved team(s): Unifacisa LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Soc. Thalia/SMEIJ LDB U22 vs Sao Jose U22 (Brazil LDB U22) — Unresolved team(s): Soc. Thalia/SMEIJ LDB U22 — run 'Check All Teams' first
-[27 Jun 2026 20:05] Guangdong U21 (W) vs Shanghai U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Shanghai U21 (W) — run 'Check All Teams' first
+[25 Jun 2026 21:02] Andorra (W) vs Armenia (W) (Euro Champs SCD Women) — Unresolved team(s): Andorra (W), Armenia (W) — run 'Check All Teams' first
+[25 Jun 2026 21:02] Aguada Santeros vs Ponce (Puerto Rico Superior Nacional) — Unresolved team(s): Ponce — run 'Check All Teams' first
+[25 Jun 2026 21:02] USFAS (W) vs Real (W) (Mali Ligue 1 Women) — Unresolved team(s): USFAS (W), Real (W) — run 'Check All Teams' first
+[25 Jun 2026 21:02] Djoliba AC (W) vs Stade Malien (W) (Mali Ligue 1 Women) — Unresolved team(s): Djoliba AC (W) — run 'Check All Teams' first
+[25 Jun 2026 21:03] USFAS vs Centre Mamoutou Kane (Mali Premiere Division) — Unresolved team(s): USFAS, Centre Mamoutou Kane — run 'Check All Teams' first
+[25 Jun 2026 21:03] APR (W) vs REG (W) (Rwanda National League Women) — Unresolved team(s): APR (W), REG (W) — run 'Check All Teams' first
+[25 Jun 2026 21:03] Ireland U20 (W) vs Czechia U20 (W) (International U20 Women) — Unresolved team(s): Czechia U20 (W) — run 'Check All Teams' first
+[25 Jun 2026 21:03] Sangmyung University vs Myongii University (Korea College) — Unresolved team(s): Sangmyung University, Myongii University — run 'Check All Teams' first
+[25 Jun 2026 21:03] LA Sparks vs TOR Tempo (WNBA) — Unresolved team(s): LA Sparks, TOR Tempo — run 'Check All Teams' first
+[25 Jun 2026 21:03] Heroes de Moca vs Gigantes de San Francisco (Dominican Republic LNB) — Unresolved team(s): Heroes de Moca, Gigantes de San Francisco — run 'Check All Teams' first
+[25 Jun 2026 21:03] Quebradillas vs Arecibo (Puerto Rico Superior Nacional) — Unresolved team(s): Quebradillas, Arecibo — run 'Check All Teams' first
+[25 Jun 2026 21:03] Houston Rig Hands vs Boston Ball Hogs (BIG3) — Unresolved team(s): Boston Ball Hogs — run 'Check All Teams' first
+[25 Jun 2026 21:03] DMV Trilogy vs Chicago Triplets (BIG3) — Unresolved team(s): DMV Trilogy, Chicago Triplets — run 'Check All Teams' first
+[25 Jun 2026 21:03] Djoliba AC vs Stade (Mali Premiere Division) — Unresolved team(s): Djoliba AC, Stade — run 'Check All Teams' first
+[25 Jun 2026 21:03] Croatia U20 vs Türkiye U20 (International U20) — Unresolved team(s): Türkiye U20 — run 'Check All Teams' first
+[25 Jun 2026 21:03] LA Riot vs Dallas Power (BIG3) — Unresolved team(s): Dallas Power — run 'Check All Teams' first
+[25 Jun 2026 21:03] Cruzeiro LDB U22 vs Rio Claro/ABDC LDB U22 (Brazil LDB U22) — Unresolved team(s): Cruzeiro LDB U22, Rio Claro/ABDC LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:03] WAS Mystics vs CON Sun (WNBA) — Unresolved team(s): WAS Mystics — run 'Check All Teams' first
+[25 Jun 2026 21:03] POR Fire vs CHI Sky (WNBA) — Unresolved team(s): POR Fire — run 'Check All Teams' first
+[25 Jun 2026 21:03] MIL Bucks (MIST) vs MEM Grizzlies (BLAZER) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): MIL Bucks (MIST), MEM Grizzlies (BLAZER) — run 'Check All Teams' first
+[25 Jun 2026 21:03] Brusque Basquete U20 vs Basquete Joinville U20 (Brazil Catarinense U20) — Unresolved team(s): Brusque Basquete U20, Basquete Joinville U20 — run 'Check All Teams' first
+[25 Jun 2026 21:03] Al RIyadi (W) vs Homenetmen (W) (Lebanon League Women) — Unresolved team(s): Al RIyadi (W), Homenetmen (W) — run 'Check All Teams' first
+[25 Jun 2026 21:03] IVV/CETAF LDB U22 vs Bauru LDB U22 (Brazil LDB U22) — Unresolved team(s): IVV/CETAF LDB U22, Bauru LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:03] DAL Wings vs LV Aces (WNBA) — Unresolved team(s): DAL Wings — run 'Check All Teams' first
+[25 Jun 2026 21:03] Criollos de Caguas vs Manati (Puerto Rico Superior Nacional) — Unresolved team(s): Manati — run 'Check All Teams' first
+[25 Jun 2026 21:04] Vaqueros de Bayamon vs Guaynabo (Puerto Rico Superior Nacional) — Unresolved team(s): Guaynabo — run 'Check All Teams' first
+[25 Jun 2026 21:04] Unifacisa LDB U22 vs Pato Basquete LDB U22 (Brazil LDB U22) — Unresolved team(s): Unifacisa LDB U22, Pato Basquete LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Macau Black Knights TAT vs Hong Kong Eastern (The Asian Tournament) — Unresolved team(s): Macau Black Knights TAT — run 'Check All Teams' first
+[25 Jun 2026 21:04] FUS Rabat vs IRT Tanger (Morocco League) — Unresolved team(s): IRT Tanger — run 'Check All Teams' first
+[25 Jun 2026 21:04] Caxias do Sul LDB U22 vs Campo Mourao LDB U22 (Brazil LDB U22) — Unresolved team(s): Caxias do Sul LDB U22, Campo Mourao LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] North Macedonia U20 vs Bosnia-Herzegovina U20 (International U20) — Report could not be generated — team may not be found in Highlightly database.
+[25 Jun 2026 21:04] NY Liberty vs SEA Storm (WNBA) — Unresolved team(s): SEA Storm — run 'Check All Teams' first
+[25 Jun 2026 21:04] Georgia (W) vs Albania (W) (Euro Champs SCD Women) — Unresolved team(s): Georgia (W), Albania (W) — run 'Check All Teams' first
+[25 Jun 2026 21:04] Hubei U21 (W) vs Fujian U21 (W) (China NBL U21 Women) — Unresolved team(s): Hubei U21 (W), Fujian U21 (W) — run 'Check All Teams' first
+[25 Jun 2026 21:04] Vasco da Gama/Tijuca LDB U22 vs Franca U22 (Brazil LDB U22) — Unresolved team(s): Vasco da Gama/Tijuca LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Soc. Thalia/SMEIJ LDB U22 vs Mogi Basquete LDB U22 (Brazil LDB U22) — Unresolved team(s): Soc. Thalia/SMEIJ LDB U22, Mogi Basquete LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Kepler (W) vs Azomco Bbc (W) (Rwanda National League Women) — Unresolved team(s): Kepler (W), Azomco Bbc (W) — run 'Check All Teams' first
+[25 Jun 2026 21:04] Botafogo RJ U22 vs Paulistano U22 (Brazil LDB U22) — Unresolved team(s): Botafogo RJ U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Danang Dragons vs Hanoi Buffaloes (Vietnam VBA) — Unresolved team(s): Danang Dragons — run 'Check All Teams' first
+[25 Jun 2026 21:04] Unimed Campinas (W) vs Sodie Mesquita (W) (Brazil LBF Women) — Unresolved team(s): Unimed Campinas (W), Sodie Mesquita (W) — run 'Check All Teams' first
+[25 Jun 2026 21:04] ADIEE/Avai/FME U20 vs Dinamica Sao Jose U20 (Brazil Catarinense U20) — Unresolved team(s): ADIEE/Avai/FME U20, Dinamica Sao Jose U20 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Dankook University vs Chung-Ang University (Korea College) — Unresolved team(s): Dankook University, Chung-Ang University — run 'Check All Teams' first
+[25 Jun 2026 21:04] Cachorros vs Bulldogs Bkb (El Salvador LNB Segunda) — Unresolved team(s): Cachorros, Bulldogs Bkb — run 'Check All Teams' first
+[25 Jun 2026 21:04] Fluminense LDB U22 vs Sao Jose U22 (Brazil LDB U22) — Unresolved team(s): Fluminense LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Caixa Brasilia Basquete LDB U22 vs Pinheiros U22 (Brazil LDB U22) — Unresolved team(s): Caixa Brasilia Basquete LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Basquete Cearense LDB U22 vs Corinthians U22 (Brazil LDB U22) — Unresolved team(s): Basquete Cearense LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Minas LDB U22 vs Osasco Basket LDB U22 (Brazil LDB U22) — Unresolved team(s): Minas LDB U22, Osasco Basket LDB U22 — run 'Check All Teams' first
+[25 Jun 2026 21:04] Fuerza Paraiso vs Thunder El Salvador (El Salvador LNB Segunda) — Unresolved team(s): Fuerza Paraiso, Thunder El Salvador — run 'Check All Teams' first
+[26 Jun 2026 07:51] Aguada Santeros vs Ponce (Puerto Rico Superior Nacional) — Unresolved team(s): Ponce — run 'Check All Teams' first
+[26 Jun 2026 07:51] Neftchi 3x3 (W) vs Ottawa 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Neftchi 3x3 (W), Ottawa 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:51] APR (W) vs REG (W) (Rwanda National League Women) — Unresolved team(s): APR (W), REG (W) — run 'Check All Teams' first
+[26 Jun 2026 07:52] LA Sparks vs TOR Tempo (WNBA) — Unresolved team(s): LA Sparks, TOR Tempo — run 'Check All Teams' first
+[26 Jun 2026 07:52] Heroes de Moca vs Gigantes de San Francisco (Dominican Republic LNB) — Unresolved team(s): Heroes de Moca, Gigantes de San Francisco — run 'Check All Teams' first
+[26 Jun 2026 07:52] Lakeside Lightning vs Willetton Tigers (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:52] Northside Wizards vs South West Metro Pirates (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:52] Rome 3x3 (W) vs Uganda 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Rome 3x3 (W), Uganda 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:52] Houston Rig Hands vs Boston Ball Hogs (BIG3) — Unresolved team(s): Boston Ball Hogs — run 'Check All Teams' first
+[26 Jun 2026 07:52] DMV Trilogy vs Chicago Triplets (BIG3) — Unresolved team(s): DMV Trilogy, Chicago Triplets — run 'Check All Teams' first
+[26 Jun 2026 07:52] Jeanne D'Arc (W) vs Guediawaye Basket Academy (W) (Senegal Division 1 Women) — Unresolved team(s): Jeanne D'Arc (W), Guediawaye Basket Academy (W) — run 'Check All Teams' first
+[26 Jun 2026 07:52] Borneo Hornbills vs Pelita Jaya Jakarta (Indonesia IBL) — Unresolved team(s): Pelita Jaya Jakarta — run 'Check All Teams' first
+[26 Jun 2026 07:52] Ulaanbaatar Amazons 3x3 (W) vs France 3x3 U25 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Ulaanbaatar Amazons 3x3 (W), France 3x3 U25 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:52] Japan 3x3 (W) vs Thailand 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Japan 3x3 (W), Thailand 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:52] CSB Blazers vs AU Chiefs (Philippines Preseason Cup) — Unresolved team(s): AU Chiefs — run 'Check All Teams' first
+[26 Jun 2026 07:52] Quebradillas vs Arecibo (Puerto Rico Superior Nacional) — Unresolved team(s): Quebradillas, Arecibo — run 'Check All Teams' first
+[26 Jun 2026 07:52] Rockhampton Rockets vs Mackay Meteors (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:52] China 3x3 (W) vs Yanjing 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): China 3x3 (W), Yanjing 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:52] LA Riot vs Dallas Power (BIG3) — Unresolved team(s): Dallas Power — run 'Check All Teams' first
+[26 Jun 2026 07:52] Sportivo Pilar vs Los Indios de Moreno (Argentina La Liga Federal) — Unresolved team(s): Sportivo Pilar, Los Indios de Moreno — run 'Check All Teams' first
+[26 Jun 2026 07:53] WAS Mystics vs CON Sun (WNBA) — Unresolved team(s): WAS Mystics — run 'Check All Teams' first
+[26 Jun 2026 07:53] POR Fire vs CHI Sky (WNBA) — Unresolved team(s): POR Fire — run 'Check All Teams' first
+[26 Jun 2026 07:53] Egypt 3x3 (W) vs Azerbaijan 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Egypt 3x3 (W), Azerbaijan 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Germany 3x3 (W) vs Manila 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Germany 3x3 (W), Manila 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Canada 3x3 (W) vs Hungary 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Canada 3x3 (W), Hungary 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Brusque Basquete U20 vs Basquete Joinville U20 (Brazil Catarinense U20) — Unresolved team(s): Brusque Basquete U20, Basquete Joinville U20 — run 'Check All Teams' first
+[26 Jun 2026 07:53] ARBA vs Semedes LH (Costa Rica LDB Superior) — Unresolved team(s): ARBA, Semedes LH — run 'Check All Teams' first
+[26 Jun 2026 07:53] Brisbane Capitals (W) vs Gold Coast Rollers (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:53] DAL Wings vs LV Aces (WNBA) — Unresolved team(s): DAL Wings — run 'Check All Teams' first
+[26 Jun 2026 07:53] Criollos de Caguas vs Manati (Puerto Rico Superior Nacional) — Unresolved team(s): Manati — run 'Check All Teams' first
+[26 Jun 2026 07:53] Urunday Universitario (W) vs Tabare (W) (Uruguay Liga Women) — Unresolved team(s): Urunday Universitario (W), Tabare (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Sangmyung University vs Myongii University (Korea College) — Unresolved team(s): Sangmyung University, Myongii University — run 'Check All Teams' first
+[26 Jun 2026 07:53] IVV/CETAF LDB U22 vs Bauru LDB U22 (Brazil LDB U22) — Unresolved team(s): IVV/CETAF LDB U22, Bauru LDB U22 — run 'Check All Teams' first
+[26 Jun 2026 07:53] Cairns Marlins vs Ipswich Force (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:53] Olimpia Queens (W) vs Felix Perez Cardozo (W) (Paraguay LNCF Women) — Unresolved team(s): Olimpia Queens (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Guediawaye BA vs AS Douanes (Senegal Division 1) — Unresolved team(s): Guediawaye BA — run 'Check All Teams' first
+[26 Jun 2026 07:53] Lakeside Lightning (W) vs Willetton Tigers (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:53] Hobart Chargers vs Eltham Wildcats (Australia NBL1 South) — Unresolved team(s): Eltham Wildcats — run 'Check All Teams' first
+[26 Jun 2026 07:53] Jeanne d'Arc vs Ville De Dakar (Senegal Division 1) — Unresolved team(s): Jeanne d'Arc, Ville De Dakar — run 'Check All Teams' first
+[26 Jun 2026 07:53] NY Liberty vs SEA Storm (WNBA) — Unresolved team(s): SEA Storm — run 'Check All Teams' first
+[26 Jun 2026 07:53] Cantho Catfish vs Nha Trang Dolphins (Vietnam VBA) — Unresolved team(s): Cantho Catfish — run 'Check All Teams' first
+[26 Jun 2026 07:53] Sunshine Coast Phoenix vs Southern Districts Spartans (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:53] Brisbane Capitals vs Gold Coast Rollers (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:53] Hobart Chargers (W) vs Eltham Wildcats (W) (Australia NBL1 South Women) — Unresolved team(s): Eltham Wildcats (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Vaqueros de Bayamon vs Guaynabo (Puerto Rico Superior Nacional) — Unresolved team(s): Guaynabo — run 'Check All Teams' first
+[26 Jun 2026 07:53] Kepler (W) vs Azomco Bbc (W) (Rwanda National League Women) — Unresolved team(s): Kepler (W), Azomco Bbc (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] MU Cardinals vs SSC-R Stags (Philippines Preseason Cup) — Unresolved team(s): MU Cardinals, SSC-R Stags — run 'Check All Teams' first
+[26 Jun 2026 07:53] BOPP Basket Club (W) vs Ville de Dakar (W) (Senegal Division 1 Women) — Unresolved team(s): BOPP Basket Club (W), Ville de Dakar (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Soc. Thalia/SMEIJ LDB U22 vs Mogi Basquete LDB U22 (Brazil LDB U22) — Unresolved team(s): Soc. Thalia/SMEIJ LDB U22, Mogi Basquete LDB U22 — run 'Check All Teams' first
+[26 Jun 2026 07:53] Northside Wizards (W) vs South West Metro Pirates (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:53] Jiangxi U21 (W) vs Shanghai U21 (W) (China NBL U21 Women) — Unresolved team(s): Jiangxi U21 (W), Shanghai U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Unimed Campinas (W) vs Sodie Mesquita (W) (Brazil LBF Women) — Unresolved team(s): Unimed Campinas (W), Sodie Mesquita (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Shandong U21 (W) vs Wuhan U21 (W) (China NBL U21 Women) — Unresolved team(s): Shandong U21 (W), Wuhan U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:53] Cachorros vs Bulldogs Bkb (El Salvador LNB Segunda) — Unresolved team(s): Cachorros, Bulldogs Bkb — run 'Check All Teams' first
+[26 Jun 2026 07:53] Cairns Dolphins (W) vs Ipswich Force (W) (Australia NBL1 North Women) — Unresolved team(s): Cairns Dolphins (W) — run 'Check All Teams' first
+[26 Jun 2026 07:54] Rockhampton Cyclones (W) vs Mackay Meteorettes (W) (Australia NBL1 North Women) — Unresolved team(s): Rockhampton Cyclones (W), Mackay Meteorettes (W) — run 'Check All Teams' first
+[26 Jun 2026 07:54] Dankook University vs Chung-Ang University (Korea College) — Unresolved team(s): Dankook University, Chung-Ang University — run 'Check All Teams' first
+[26 Jun 2026 07:54] Shanxi U21 (W) vs Beijing Jinyu U21 (W) (China NBL U21 Women) — Unresolved team(s): Shanxi U21 (W), Beijing Jinyu U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 07:54] Brumas de Jinotega vs La Trinidad (Nicaragua Torneo Carlos Ulloa) — Unresolved team(s): Brumas de Jinotega, La Trinidad — run 'Check All Teams' first
+[26 Jun 2026 07:54] ADIEE/Avai/FME U20 vs Dinamica Sao Jose U20 (Brazil Catarinense U20) — Unresolved team(s): ADIEE/Avai/FME U20, Dinamica Sao Jose U20 — run 'Check All Teams' first
+[26 Jun 2026 07:54] Rockingham Flames vs South West Slammers (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:54] Fuerza Paraiso vs Thunder El Salvador (El Salvador LNB Segunda) — Unresolved team(s): Fuerza Paraiso, Thunder El Salvador — run 'Check All Teams' first
+[26 Jun 2026 07:54] Rockingham Flames (W) vs South West Slammers (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 07:54] Guangdong U21 (W) vs Fujian U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Fujian U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:05] Aguada Santeros vs Ponce (Puerto Rico Superior Nacional) — Unresolved team(s): Ponce — run 'Check All Teams' first
+[26 Jun 2026 10:05] Neftchi 3x3 (W) vs Ottawa 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Neftchi 3x3 (W), Ottawa 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:05] APR (W) vs REG (W) (Rwanda National League Women) — Unresolved team(s): APR (W), REG (W) — run 'Check All Teams' first
+[26 Jun 2026 10:06] LA Sparks vs TOR Tempo (WNBA) — Unresolved team(s): LA Sparks, TOR Tempo — run 'Check All Teams' first
+[26 Jun 2026 10:06] Heroes de Moca vs Gigantes de San Francisco (Dominican Republic LNB) — Unresolved team(s): Heroes de Moca, Gigantes de San Francisco — run 'Check All Teams' first
+[26 Jun 2026 10:06] Lakeside Lightning vs Willetton Tigers (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:06] Northside Wizards vs South West Metro Pirates (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:06] Rome 3x3 (W) vs Uganda 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Rome 3x3 (W), Uganda 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:06] Houston Rig Hands vs Boston Ball Hogs (BIG3) — Unresolved team(s): Boston Ball Hogs — run 'Check All Teams' first
+[26 Jun 2026 10:06] DMV Trilogy vs Chicago Triplets (BIG3) — Unresolved team(s): DMV Trilogy, Chicago Triplets — run 'Check All Teams' first
+[26 Jun 2026 10:06] Jeanne D'Arc (W) vs Guediawaye Basket Academy (W) (Senegal Division 1 Women) — Unresolved team(s): Jeanne D'Arc (W), Guediawaye Basket Academy (W) — run 'Check All Teams' first
+[26 Jun 2026 10:06] Ulaanbaatar Amazons 3x3 (W) vs France 3x3 U25 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Ulaanbaatar Amazons 3x3 (W), France 3x3 U25 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:06] Japan 3x3 (W) vs Thailand 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Japan 3x3 (W), Thailand 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:06] CSB Blazers vs AU Chiefs (Philippines Preseason Cup) — Unresolved team(s): AU Chiefs — run 'Check All Teams' first
+[26 Jun 2026 10:06] Quebradillas vs Arecibo (Puerto Rico Superior Nacional) — Unresolved team(s): Quebradillas, Arecibo — run 'Check All Teams' first
+[26 Jun 2026 10:06] Rockhampton Rockets vs Mackay Meteors (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:06] China 3x3 (W) vs Yanjing 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): China 3x3 (W), Yanjing 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:06] LA Riot vs Dallas Power (BIG3) — Unresolved team(s): Dallas Power — run 'Check All Teams' first
+[26 Jun 2026 10:06] Sportivo Pilar vs Los Indios de Moreno (Argentina La Liga Federal) — Unresolved team(s): Sportivo Pilar, Los Indios de Moreno — run 'Check All Teams' first
+[26 Jun 2026 10:06] POR Fire vs CHI Sky (WNBA) — Unresolved team(s): POR Fire — run 'Check All Teams' first
+[26 Jun 2026 10:07] Egypt 3x3 (W) vs Azerbaijan 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Egypt 3x3 (W), Azerbaijan 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Germany 3x3 (W) vs Manila 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Germany 3x3 (W), Manila 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Canada 3x3 (W) vs Hungary 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Canada 3x3 (W), Hungary 3x3 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Brusque Basquete U20 vs Basquete Joinville U20 (Brazil Catarinense U20) — Unresolved team(s): Brusque Basquete U20, Basquete Joinville U20 — run 'Check All Teams' first
+[26 Jun 2026 10:07] ARBA vs Semedes LH (Costa Rica LDB Superior) — Unresolved team(s): ARBA, Semedes LH — run 'Check All Teams' first
+[26 Jun 2026 10:07] Brisbane Capitals (W) vs Gold Coast Rollers (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] DAL Wings vs LV Aces (WNBA) — Unresolved team(s): DAL Wings — run 'Check All Teams' first
+[26 Jun 2026 10:07] Criollos de Caguas vs Manati (Puerto Rico Superior Nacional) — Unresolved team(s): Manati — run 'Check All Teams' first
+[26 Jun 2026 10:07] Urunday Universitario (W) vs Tabare (W) (Uruguay Liga Women) — Unresolved team(s): Urunday Universitario (W), Tabare (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Sangmyung University vs Myongii University (Korea College) — Unresolved team(s): Sangmyung University, Myongii University — run 'Check All Teams' first
+[26 Jun 2026 10:07] IVV/CETAF LDB U22 vs Bauru LDB U22 (Brazil LDB U22) — Unresolved team(s): IVV/CETAF LDB U22, Bauru LDB U22 — run 'Check All Teams' first
+[26 Jun 2026 10:07] Cairns Marlins vs Ipswich Force (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Olimpia Queens (W) vs Felix Perez Cardozo (W) (Paraguay LNCF Women) — Unresolved team(s): Olimpia Queens (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Guediawaye BA vs AS Douanes (Senegal Division 1) — Unresolved team(s): Guediawaye BA — run 'Check All Teams' first
+[26 Jun 2026 10:07] Lakeside Lightning (W) vs Willetton Tigers (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Hobart Chargers vs Eltham Wildcats (Australia NBL1 South) — Unresolved team(s): Eltham Wildcats — run 'Check All Teams' first
+[26 Jun 2026 10:07] Jeanne d'Arc vs Ville De Dakar (Senegal Division 1) — Unresolved team(s): Jeanne d'Arc, Ville De Dakar — run 'Check All Teams' first
+[26 Jun 2026 10:07] NY Liberty vs SEA Storm (WNBA) — Unresolved team(s): SEA Storm — run 'Check All Teams' first
+[26 Jun 2026 10:07] Cantho Catfish vs Nha Trang Dolphins (Vietnam VBA) — Unresolved team(s): Cantho Catfish — run 'Check All Teams' first
+[26 Jun 2026 10:07] Sunshine Coast Phoenix vs Southern Districts Spartans (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Brisbane Capitals vs Gold Coast Rollers (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Hobart Chargers (W) vs Eltham Wildcats (W) (Australia NBL1 South Women) — Unresolved team(s): Eltham Wildcats (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Vaqueros de Bayamon vs Guaynabo (Puerto Rico Superior Nacional) — Unresolved team(s): Guaynabo — run 'Check All Teams' first
+[26 Jun 2026 10:07] Kepler (W) vs Azomco Bbc (W) (Rwanda National League Women) — Unresolved team(s): Kepler (W), Azomco Bbc (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] MU Cardinals vs SSC-R Stags (Philippines Preseason Cup) — Unresolved team(s): MU Cardinals, SSC-R Stags — run 'Check All Teams' first
+[26 Jun 2026 10:07] BOPP Basket Club (W) vs Ville de Dakar (W) (Senegal Division 1 Women) — Unresolved team(s): BOPP Basket Club (W), Ville de Dakar (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Soc. Thalia/SMEIJ LDB U22 vs Mogi Basquete LDB U22 (Brazil LDB U22) — Unresolved team(s): Soc. Thalia/SMEIJ LDB U22, Mogi Basquete LDB U22 — run 'Check All Teams' first
+[26 Jun 2026 10:07] Northside Wizards (W) vs South West Metro Pirates (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Jiangxi U21 (W) vs Shanghai U21 (W) (China NBL U21 Women) — Unresolved team(s): Jiangxi U21 (W), Shanghai U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Unimed Campinas (W) vs Sodie Mesquita (W) (Brazil LBF Women) — Unresolved team(s): Unimed Campinas (W), Sodie Mesquita (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Shandong U21 (W) vs Wuhan U21 (W) (China NBL U21 Women) — Unresolved team(s): Shandong U21 (W), Wuhan U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Cachorros vs Bulldogs Bkb (El Salvador LNB Segunda) — Unresolved team(s): Cachorros, Bulldogs Bkb — run 'Check All Teams' first
+[26 Jun 2026 10:07] Cairns Dolphins (W) vs Ipswich Force (W) (Australia NBL1 North Women) — Unresolved team(s): Cairns Dolphins (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Rockhampton Cyclones (W) vs Mackay Meteorettes (W) (Australia NBL1 North Women) — Unresolved team(s): Rockhampton Cyclones (W), Mackay Meteorettes (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Dankook University vs Chung-Ang University (Korea College) — Unresolved team(s): Dankook University, Chung-Ang University — run 'Check All Teams' first
+[26 Jun 2026 10:07] Shanxi U21 (W) vs Beijing Jinyu U21 (W) (China NBL U21 Women) — Unresolved team(s): Shanxi U21 (W), Beijing Jinyu U21 (W) — run 'Check All Teams' first
+[26 Jun 2026 10:07] Brumas de Jinotega vs La Trinidad (Nicaragua Torneo Carlos Ulloa) — Unresolved team(s): Brumas de Jinotega, La Trinidad — run 'Check All Teams' first
+[26 Jun 2026 10:07] ADIEE/Avai/FME U20 vs Dinamica Sao Jose U20 (Brazil Catarinense U20) — Unresolved team(s): ADIEE/Avai/FME U20, Dinamica Sao Jose U20 — run 'Check All Teams' first
+[26 Jun 2026 10:07] Rockingham Flames vs South West Slammers (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Fuerza Paraiso vs Thunder El Salvador (El Salvador LNB Segunda) — Unresolved team(s): Fuerza Paraiso, Thunder El Salvador — run 'Check All Teams' first
+[26 Jun 2026 10:07] Rockingham Flames (W) vs South West Slammers (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[26 Jun 2026 10:07] Guangdong U21 (W) vs Fujian U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Fujian U21 (W) — run 'Check All Teams' first
+[27 Jun 2026 12:09] Osorno SAESA vs Lautaro SAESA (Chile Liga SAESA) — Unresolved team(s): Osorno SAESA, Lautaro SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:09] Zetech University (W) vs Stanbic Aces (W) (Kenya Premier League Women) — Unresolved team(s): Zetech University (W), Stanbic Aces (W) — run 'Check All Teams' first
+[27 Jun 2026 12:09] Entebbe Knight Riders vs Livingstone (Uganda) (Uganda Div 1) — Unresolved team(s): Entebbe Knight Riders, Livingstone (Uganda) — run 'Check All Teams' first
+[27 Jun 2026 12:09] Shanxi U21 (W) vs Xinjiang U21 (W) (China NBL U21 Women) — Unresolved team(s): Shanxi U21 (W), Xinjiang U21 (W) — run 'Check All Teams' first
+[27 Jun 2026 12:09] Puerto Varas SAESA vs Puerto Montt SAESA (Chile Liga SAESA) — Unresolved team(s): Puerto Varas SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:09] Ballarat Miners (W) vs Waverley Falcons (W) (Australia NBL1 South Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:09] Dandenong Rangers (W) vs Mount Gambier Pioneers (W) (Australia NBL1 South Women) — Unresolved team(s): Mount Gambier Pioneers (W) — run 'Check All Teams' first
+[27 Jun 2026 12:09] Joondalup Wolves (W) vs Perry Lakes Hawks (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:09] Mandurah Magic (W) vs Warwick Senators (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Albury Wodonga Bandits vs Hornsby Spiders (Australia NBL1 East) — Unresolved team(s): Albury Wodonga Bandits, Hornsby Spiders — run 'Check All Teams' first
+[27 Jun 2026 12:10] Franklin Bulls vs Tauranga Whai (New Zealand NBL) — Unresolved team(s): Tauranga Whai — run 'Check All Teams' first
+[27 Jun 2026 12:10] Geelong United (W) vs Nunawading Spectres (W) (Australia NBL1 South Women) — Unresolved team(s): Nunawading Spectres (W) — run 'Check All Teams' first
+[27 Jun 2026 12:10] Antwerp 3x3 vs Elancourt 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Antwerp 3x3, Elancourt 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:10] Houston Rig Hands vs Boston Ball Hogs (BIG3) — Unresolved team(s): Boston Ball Hogs — run 'Check All Teams' first
+[27 Jun 2026 12:10] DMV Trilogy vs Chicago Triplets (BIG3) — Unresolved team(s): DMV Trilogy, Chicago Triplets — run 'Check All Teams' first
+[27 Jun 2026 12:10] Shandong U21 (W) vs Beijing Jinyu U21 (W) (China NBL U21 Women) — Unresolved team(s): Shandong U21 (W), Beijing Jinyu U21 (W) — run 'Check All Teams' first
+[27 Jun 2026 12:10] RMIT University vs McKinnon Cougars (Australia Big V) — Unresolved team(s): RMIT University, McKinnon Cougars — run 'Check All Teams' first
+[27 Jun 2026 12:10] Warrandyte Venom vs Camberwell Dragons (Australia Big V) — Unresolved team(s): Warrandyte Venom, Camberwell Dragons — run 'Check All Teams' first
+[27 Jun 2026 12:10] Northside Wizards vs South West Metro Pirates (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Frankston Blues vs Knox Raiders (Australia NBL1 South) — Unresolved team(s): Knox Raiders — run 'Check All Teams' first
+[27 Jun 2026 12:10] North Adelaide Rockets (W) vs South Adelaide Panthers (W) (Australia NBL1 Central Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Amsterdam 3x3 vs Gargzdai 3x3 (FIBA 3x3 World Tour) — Unresolved team(s): Gargzdai 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:10] Miami 3x3 vs Bochum 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Miami 3x3, Bochum 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:10] Skyliners 3x3 vs Aachen 3x3 (FIBA 3x3 World Tour) — Unresolved team(s): Skyliners 3x3, Aachen 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:10] Canberra Nationals (W) vs Sutherland Sharks (W) (Australia NBL1 East Women) — Unresolved team(s): Canberra Nationals (W) — run 'Check All Teams' first
+[27 Jun 2026 12:10] Bankstown Bruins (W) vs Norths Bears (W) (Australia NBL1 East Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Goldfields Giants (W) vs East Perth Eagles (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Canberra Gunners vs Sutherland Sharks (Australia NBL1 East) — Unresolved team(s): Canberra Gunners — run 'Check All Teams' first
+[27 Jun 2026 12:10] Norwood Flames vs West Adelaide Bearcats (Australia NBL1 Central) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Bankstown Bruins vs Norths Bears (Australia NBL1 East) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Bendigo Braves vs Casey Cavaliers (Australia NBL1 South) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Gippsland United vs Melbourne University (Australia Big V) — Unresolved team(s): Gippsland United, Melbourne University — run 'Check All Teams' first
+[27 Jun 2026 12:10] Townsville Heat vs Ipswich Force (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:10] Antananarivo 3x3 vs Tan-Tan 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Antananarivo 3x3, Tan-Tan 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:10] Rome 3x3 vs Reunion 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Rome 3x3, Reunion 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:10] LA Riot vs Dallas Power (BIG3) — Unresolved team(s): Dallas Power — run 'Check All Teams' first
+[27 Jun 2026 12:10] Dream Girls (W) vs Lady Titans (W) (Kenya Premier League Women) — Unresolved team(s): Dream Girls (W), Lady Titans (W) — run 'Check All Teams' first
+[27 Jun 2026 12:10] Carahue SAESA vs Alemana Paillaco SAESA (Chile Liga SAESA) — Unresolved team(s): Carahue SAESA, Alemana Paillaco SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:10] Municipal Gorbea SAESA vs Ancud SAESA (Chile Liga SAESA) — Unresolved team(s): Municipal Gorbea SAESA, Ancud SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:10] Sunshine Coast Phoenix (W) vs Southern District Spartans (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Sydney Comets vs Inner West Bulls (Australia NBL1 East) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] PHX Mercury vs TOR Tempo (WNBA) — Unresolved team(s): TOR Tempo — run 'Check All Teams' first
+[27 Jun 2026 12:11] Kilsyth Cobras vs Diamond Valley Eagles (Australia NBL1 South) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Mandurah Magic vs Warwick Senators (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Liman 3x3 vs Sansar 3x3 (FIBA 3x3 World Tour) — Unresolved team(s): Liman 3x3, Sansar 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:11] Brisbane Capitals (W) vs Gold Coast Rollers (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Newcastle Falcons vs Manly Warringah Sea Eagles (Australia NBL1 East) — Unresolved team(s): Manly Warringah Sea Eagles — run 'Check All Teams' first
+[27 Jun 2026 12:11] Roswell vs JMC Limon Sharks (Costa Rica LDB Superior) — Unresolved team(s): Roswell, JMC Limon Sharks — run 'Check All Teams' first
+[27 Jun 2026 12:11] Goldfields Giants vs East Perth Eagles (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Rockhampton Rockets vs Mackay Meteors (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Ub 3x3 vs Shinjuku 3x3 (FIBA 3x3 World Tour) — Unresolved team(s): Ub 3x3, Shinjuku 3x3 — run 'Check All Teams' first
+[27 Jun 2026 12:11] USIU (W) vs TH3 Swish (W) (Kenya Premier League Women) — Unresolved team(s): USIU (W), TH3 Swish (W) — run 'Check All Teams' first
+[27 Jun 2026 12:11] Tropical Royals vs KIU Titans (Uganda Div 1) — Unresolved team(s): Tropical Royals — run 'Check All Teams' first
+[27 Jun 2026 12:11] Northern Force (W) vs Eltham Wildcats (W) (Australia NBL1 South Women) — Unresolved team(s): Northern Force (W), Eltham Wildcats (W) — run 'Check All Teams' first
+[27 Jun 2026 12:11] Eastern Mavericks vs Woodville Warriors (Australia NBL1 Central) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] LA Sparks vs IND Fever (WNBA) — Unresolved team(s): LA Sparks — run 'Check All Teams' first
+[27 Jun 2026 12:11] Keilor Thunder vs Ringwood Hawks (Australia NBL1 South) — Unresolved team(s): Ringwood Hawks — run 'Check All Teams' first
+[27 Jun 2026 12:11] Dandenong Rangers vs Mount Gambier Pioneers (Australia NBL1 South) — Unresolved team(s): Mount Gambier Pioneers — run 'Check All Teams' first
+[27 Jun 2026 12:11] Newcastle Falcons (W) vs Manly Warringah Sea Eagles (W) (Australia NBL1 East Women) — Unresolved team(s): Manly Warringah Sea Eagles (W) — run 'Check All Teams' first
+[27 Jun 2026 12:11] Maitland Mustangs vs Central Coast Crusaders (Australia NBL1 East) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Ballarat Miners vs Waverley Falcons (Australia NBL1 South) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Cockburn Cougars vs Kalamunda Eastern Suns (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Centre Mamoutou Kane vs Stade (Mali Premiere Division) — Unresolved team(s): Centre Mamoutou Kane, Stade — run 'Check All Teams' first
+[27 Jun 2026 12:11] Pakenham Warriors vs Hume City Broncos (Australia Big V) — Unresolved team(s): Pakenham Warriors, Hume City Broncos — run 'Check All Teams' first
+[27 Jun 2026 12:11] Northern Force vs Eltham Wildcats (Australia NBL1 South) — Unresolved team(s): Northern Force, Eltham Wildcats — run 'Check All Teams' first
+[27 Jun 2026 12:11] Sunshine Coast Phoenix vs Southern Districts Spartans (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Joondalup Wolves vs Perry Lakes Hawks (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] North Adelaide Rockets vs South Adelaide Panthers (Australia NBL1 Central) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] USFAS vs Djoliba AC (Mali Premiere Division) — Unresolved team(s): USFAS, Djoliba AC — run 'Check All Teams' first
+[27 Jun 2026 12:11] Albury Wodonga Bandits (W) vs Hornsby Spiders (W) (Australia NBL1 East Women) — Unresolved team(s): Albury Wodonga Bandits (W), Hornsby Spiders (W) — run 'Check All Teams' first
+[27 Jun 2026 12:11] Bendigo Braves (W) vs Casey Cavaliers (W) (Australia NBL1 South Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] Southern Tigers vs Sturt Sabres (Australia NBL1 Central) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:11] NS Matrix Deers U20 (W) vs Johor Southern Tigers U20 (W) (Malaysia MPL D-League U20 Women) — Unresolved team(s): NS Matrix Deers U20 (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Bellarine Storm (W) vs Bulleen Boomers (W) (Australia Big V Women) — Unresolved team(s): Bellarine Storm (W), Bulleen Boomers (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Wyndham Basketball vs Sunbury Jets (Australia Big V) — Unresolved team(s): Wyndham Basketball, Sunbury Jets — run 'Check All Teams' first
+[27 Jun 2026 12:12] Central District Lions vs Forestville Eagles (Australia NBL1 Central) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Geelong United vs Nunawading Spectres (Australia NBL1 South) — Unresolved team(s): Nunawading Spectres — run 'Check All Teams' first
+[27 Jun 2026 12:12] Brisbane Capitals vs Gold Coast Rollers (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Defensor Sporting (W) vs Club Yale Women (Uruguay Liga Women) — Unresolved team(s): Defensor Sporting (W), Club Yale Women — run 'Check All Teams' first
+[27 Jun 2026 12:12] Southern Tigers (W) vs Sturt Sabres (W) (Australia NBL1 Central Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Central District Lions (W) vs Forestville Eagles (W) (Australia NBL1 Central Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] North Gold Coast Seahawks (W) vs Logan Thunder (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Valdivia SAESA vs Castro SAESA (Chile Liga SAESA) — Unresolved team(s): Valdivia SAESA, Castro SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:12] Hills Hornets (W) vs Illawarra Hawks (W) (Australia NBL1 East Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] North Gold Coast Seahawks vs Logan Thunder (Australia NBL1 North) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Danang Dragons vs Hanoi Buffaloes (Vietnam VBA) — Unresolved team(s): Danang Dragons — run 'Check All Teams' first
+[27 Jun 2026 12:12] Malta (W) vs Armenia (W) (Euro Champs SCD Women) — Unresolved team(s): Malta (W), Armenia (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Frankston Blues (W) vs Knox Raiders (W) (Australia NBL1 South Women) — Unresolved team(s): Knox Raiders (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Kilsyth Cobras (W) vs Diamond Valley Eagles (W) (Australia NBL1 South Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Canterbury Rams vs Hawke’s Bay Hawks (New Zealand NBL) — Unresolved team(s): Hawke’s Bay Hawks — run 'Check All Teams' first
+[27 Jun 2026 12:12] CD La Union SAESA vs Municipal Loncoche SAESA (Chile Liga SAESA) — Unresolved team(s): CD La Union SAESA, Municipal Loncoche SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:12] Northside Wizards (W) vs South West Metro Pirates (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] La Trinidad vs Brumas de Jinotega (Nicaragua Torneo Carlos Ulloa) — Unresolved team(s): La Trinidad, Brumas de Jinotega — run 'Check All Teams' first
+[27 Jun 2026 12:12] Hills Hornets vs Illawarra Hawks NBL1 (Australia NBL1 East) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Geraldton Buccaneers vs Perth Redbacks (Australia NBL1 West) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] USFAS (W) vs Djoliba AC (W) (Mali Ligue 1 Women) — Unresolved team(s): USFAS (W), Djoliba AC (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Western Port Steelers (W) vs McKinnon Cougars (W) (Australia Big V Women) — Unresolved team(s): Western Port Steelers (W), McKinnon Cougars (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Sydney Comets (W) vs Inner West Bulls (W) (Australia NBL1 East Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Townsville Heat (W) vs Ipswich Force (W) (Australia NBL1 North Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:12] Kosovo (W) vs Albania (W) (Euro Champs SCD Women) — Unresolved team(s): Kosovo (W), Albania (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Pakenham Warriors (W) vs Hume City Broncos (W) (Australia Big V Women) — Unresolved team(s): Pakenham Warriors (W), Hume City Broncos (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Rockhampton Cyclones (W) vs Mackay Meteorettes (W) (Australia NBL1 North Women) — Unresolved team(s): Rockhampton Cyclones (W), Mackay Meteorettes (W) — run 'Check All Teams' first
+[27 Jun 2026 12:12] Norwood Flames (W) vs West Adelaide Bearcats (W) (Australia NBL1 Central Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:13] Temuco SAESA vs Espanol Osorno SAESA (Chile Liga SAESA) — Unresolved team(s): Temuco SAESA — run 'Check All Teams' first
+[27 Jun 2026 12:13] Sorocaba U20 vs Santo Andre U20 (Brazil Paulista FPB U20) — Unresolved team(s): Sorocaba U20 — run 'Check All Teams' first
+[27 Jun 2026 12:13] Eastern Mavericks (W) vs Woodville Warriors (W) (Australia NBL1 Central Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:13] Keilor Thunder (W) vs Ringwood Hawks (W) (Australia NBL1 South Women) — Unresolved team(s): Ringwood Hawks (W) — run 'Check All Teams' first
+[27 Jun 2026 12:13] Cockburn Cougars (W) vs Kalamunda Eastern Suns (W) (Australia NBL1 West Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:13] Penang Youngster Basketball Club U20 vs Knight U20 (Malaysia MPL D-League U20) — Unresolved team(s): Penang Youngster Basketball Club U20, Knight U20 — run 'Check All Teams' first
+[27 Jun 2026 12:13] Real (W) vs Stade Malien (W) (Mali Ligue 1 Women) — Unresolved team(s): Real (W) — run 'Check All Teams' first
+[27 Jun 2026 12:13] Northern Cape Zebras (W) vs Mpumalanga Rhinos (W) (South Africa BNL Women) — Unresolved team(s): Northern Cape Zebras (W), Mpumalanga Rhinos (W) — run 'Check All Teams' first
+[27 Jun 2026 12:13] Jiangxi U21 (W) vs Hebei U21 (W) (China NBL U21 Women) — Unresolved team(s): Jiangxi U21 (W), Hebei U21 (W) — run 'Check All Teams' first
+[27 Jun 2026 12:13] Sunbury Jets (W) vs Warrnambool Mermaids (W) (Australia Big V Women) — Unresolved team(s): Sunbury Jets (W), Warrnambool Mermaids (W) — run 'Check All Teams' first
+[27 Jun 2026 12:13] Maitland Mustangs (W) vs Central Coast Crusaders (W) (Australia NBL1 East Women) — Report could not be generated — team may not be found in Highlightly database.
+[27 Jun 2026 12:13] Santa Tecla Imdels M1 U21 vs Leones Nemeo U21 (El Salvador Fesabal U21) — Unresolved team(s): Santa Tecla Imdels M1 U21, Leones Nemeo U21 — run 'Check All Teams' first
+[27 Jun 2026 12:13] Guangdong U21 (W) vs Shanghai U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Shanghai U21 (W) — run 'Check All Teams' first

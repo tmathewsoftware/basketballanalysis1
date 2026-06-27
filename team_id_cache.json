@@ -599,19 +599,14 @@
     "matched_name": "San German",
     "score": 100
   },
-  "Puerto Montt SAESA": {
-    "team_id": 1178568,
-    "matched_name": "Puerto Montt",
-    "score": 80.0
+  "North Macedonia": {
+    "team_id": 2680583,
+    "matched_name": "North Macedonia",
+    "score": 100.0
   },
   "Houston Rig Hands": {
     "team_id": 6326267,
     "matched_name": "Houston Rig Hands",
-    "score": 100.0
-  },
-  "Slovenia": {
-    "team_id": 2578463,
-    "matched_name": "Slovenia",
     "score": 100.0
   },
   "Detroit Amps": {
@@ -619,15 +614,20 @@
     "matched_name": "Detroit Amps",
     "score": 100.0
   },
-  "Bulgaria U20": {
-    "team_id": 2686540,
-    "matched_name": "Bulgaria U20",
+  "Wellington Saints": {
+    "team_id": 733495,
+    "matched_name": "Wellington Saints",
     "score": 100.0
   },
   "North Macedonia U20": {
     "team_id": 3929000,
     "matched_name": "North Macedonia U20",
     "score": 100.0
+  },
+  "Bosnia-Herzegovina U20": {
+    "team_id": 3547752,
+    "matched_name": "Bosnia & Herzegovina U18",
+    "score": 82.6086956521739
   },
   "Portugal": {
     "team_id": 3929851,
@@ -639,39 +639,544 @@
     "matched_name": "Switzerland",
     "score": 100.0
   },
-  "Slovenia U20": {
-    "team_id": 3882195,
-    "matched_name": "Slovenia U20",
+  "Lakeside Lightning": {
+    "team_id": 3000559,
+    "matched_name": "Lakeside Lightning",
     "score": 100.0
   },
-  "Auckland Tuatara": {
-    "team_id": 4162174,
-    "matched_name": "Auckland Tuatara",
+  "Willetton Tigers": {
+    "team_id": 3006516,
+    "matched_name": "Willetton Tigers",
     "score": 100.0
   },
-  "Belgium U20": {
-    "team_id": 3889003,
-    "matched_name": "Belgium U20",
+  "Northside Wizards": {
+    "team_id": 2937585,
+    "matched_name": "Northside Wizards",
     "score": 100.0
   },
-  "Netherlands U20": {
-    "team_id": 3928149,
-    "matched_name": "Netherlands U20",
+  "South West Metro Pirates": {
+    "team_id": 2940138,
+    "matched_name": "South West Metro Pirates",
     "score": 100.0
+  },
+  "Rockhampton Rockets": {
+    "team_id": 2939287,
+    "matched_name": "Rockhampton Rockets",
+    "score": 100.0
+  },
+  "Estonia": {
+    "team_id": 2671222,
+    "matched_name": "Estonia",
+    "score": 100.0
+  },
+  "Latvia": {
+    "team_id": 2677179,
+    "matched_name": "Latvia",
+    "score": 100.0
+  },
+  "Gold Coast Rollers (W)": {
+    "team_id": 2933330,
+    "matched_name": "Gold Coast Rollers",
+    "score": 90.0
+  },
+  "Ipswich Force": {
+    "team_id": 2934181,
+    "matched_name": "Ipswich Force",
+    "score": 100.0
+  },
+  "Felix Perez Cardozo (W)": {
+    "team_id": 4201320,
+    "matched_name": "Felix Perez Cardozo",
+    "score": 90.47619047619048
+  },
+  "Lakeside Lightning (W)": {
+    "team_id": 3000559,
+    "matched_name": "Lakeside Lightning",
+    "score": 90.0
+  },
+  "Willetton Tigers (W)": {
+    "team_id": 3006516,
+    "matched_name": "Willetton Tigers",
+    "score": 88.88888888888889
+  },
+  "Hobart Chargers": {
+    "team_id": 2516340,
+    "matched_name": "Hobart Chargers",
+    "score": 100.0
+  },
+  "Sunshine Coast Phoenix": {
+    "team_id": 5048916,
+    "matched_name": "Sunshine Coast Phoenix",
+    "score": 100.0
+  },
+  "Gold Coast Rollers": {
+    "team_id": 2933330,
+    "matched_name": "Gold Coast Rollers",
+    "score": 100.0
+  },
+  "Hobart Chargers (W)": {
+    "team_id": 2516340,
+    "matched_name": "Hobart Chargers",
+    "score": 88.23529411764706
+  },
+  "Northside Wizards (W)": {
+    "team_id": 2937585,
+    "matched_name": "Northside Wizards",
+    "score": 89.47368421052632
+  },
+  "South West Metro Pirates (W)": {
+    "team_id": 2940138,
+    "matched_name": "South West Metro Pirates",
+    "score": 92.3076923076923
+  },
+  "Ipswich Force (W)": {
+    "team_id": 2934181,
+    "matched_name": "Ipswich Force",
+    "score": 86.66666666666667
+  },
+  "South West Slammers": {
+    "team_id": 3004814,
+    "matched_name": "South West Slammers",
+    "score": 100.0
+  },
+  "South West Slammers (W)": {
+    "team_id": 3004814,
+    "matched_name": "South West Slammers",
+    "score": 90.47619047619048
+  },
+  "Pelita Jaya Jakarta": {
+    "team_id": 2307845,
+    "matched_name": "Pelita Jaya",
+    "score": 100
+  },
+  "Mackay Meteors": {
+    "team_id": 2935883,
+    "matched_name": "Mackay Meteors",
+    "score": 100.0
+  },
+  "WAS Mystics": {
+    "team_id": 149709,
+    "matched_name": "Washington Mystics W",
+    "score": 100
+  },
+  "Brisbane Capitals (W)": {
+    "team_id": 2930777,
+    "matched_name": "Brisbane Capitals",
+    "score": 89.47368421052632
+  },
+  "Cairns Marlins": {
+    "team_id": 2931628,
+    "matched_name": "Cairns Marlins",
+    "score": 100.0
+  },
+  "AS Douanes": {
+    "team_id": 3868579,
+    "matched_name": "Douanes",
+    "score": 82.35294117647058
+  },
+  "Southern Districts Spartans": {
+    "team_id": 2954605,
+    "matched_name": "Southern District Spartans Women",
+    "score": 88.13559322033898
+  },
+  "Brisbane Capitals": {
+    "team_id": 2930777,
+    "matched_name": "Brisbane Capitals",
+    "score": 100.0
+  },
+  "Rockingham Flames": {
+    "team_id": 3003963,
+    "matched_name": "Rockingham Flames",
+    "score": 100.0
+  },
+  "Rockingham Flames (W)": {
+    "team_id": 3003963,
+    "matched_name": "Rockingham Flames",
+    "score": 89.47368421052632
+  },
+  "Puerto Montt SAESA": {
+    "team_id": 1178568,
+    "matched_name": "Puerto Montt",
+    "score": 80.0
+  },
+  "Ballarat Miners (W)": {
+    "team_id": 37377,
+    "matched_name": "Ballarat Miners",
+    "score": 88.23529411764706
+  },
+  "Waverley Falcons (W)": {
+    "team_id": 39079,
+    "matched_name": "Waverley Falcons",
+    "score": 88.88888888888889
+  },
+  "Dandenong Rangers (W)": {
+    "team_id": 34824,
+    "matched_name": "Dandenong Rangers",
+    "score": 89.47368421052632
+  },
+  "Joondalup Wolves (W)": {
+    "team_id": 2998857,
+    "matched_name": "Joondalup Wolves",
+    "score": 88.88888888888889
+  },
+  "Perry Lakes Hawks (W)": {
+    "team_id": 3002261,
+    "matched_name": "Perry Lakes Hawks",
+    "score": 89.47368421052632
+  },
+  "Mandurah Magic (W)": {
+    "team_id": 3001410,
+    "matched_name": "Mandurah Magic",
+    "score": 87.5
+  },
+  "Slovenia": {
+    "team_id": 2578463,
+    "matched_name": "Slovenia",
+    "score": 100.0
+  },
+  "Franklin Bulls": {
+    "team_id": 1920640,
+    "matched_name": "Franklin Bulls",
+    "score": 100.0
+  },
+  "Geelong United (W)": {
+    "team_id": 33122,
+    "matched_name": "Geelong United",
+    "score": 87.5
+  },
+  "Bulgaria U20": {
+    "team_id": 2686540,
+    "matched_name": "Bulgaria U20",
+    "score": 100.0
+  },
+  "Frankston Blues": {
+    "team_id": 38228,
+    "matched_name": "Frankston Blues",
+    "score": 100.0
+  },
+  "South Adelaide Panthers (W)": {
+    "team_id": 2979284,
+    "matched_name": "South Adelaide Panthers",
+    "score": 92.0
+  },
+  "Amsterdam 3x3": {
+    "team_id": 719028,
+    "matched_name": "Amsterdam",
+    "score": 81.81818181818181
+  },
+  "Sutherland Sharks (W)": {
+    "team_id": 3014175,
+    "matched_name": "Sutherland Sharks",
+    "score": 89.47368421052632
+  },
+  "Bankstown Bruins (W)": {
+    "team_id": 3007367,
+    "matched_name": "Bankstown Bruins",
+    "score": 88.88888888888889
+  },
+  "Goldfields Giants (W)": {
+    "team_id": 2998006,
+    "matched_name": "Goldfields Giants",
+    "score": 89.47368421052632
+  },
+  "East Perth Eagles (W)": {
+    "team_id": 2996304,
+    "matched_name": "East Perth Eagles",
+    "score": 89.47368421052632
+  },
+  "West Adelaide Bearcats": {
+    "team_id": 2981837,
+    "matched_name": "West Adelaide Bearcats",
+    "score": 100.0
+  },
+  "Bankstown Bruins": {
+    "team_id": 3007367,
+    "matched_name": "Bankstown Bruins",
+    "score": 100.0
+  },
+  "Norths Bears": {
+    "team_id": 3013324,
+    "matched_name": "Norths Bears",
+    "score": 100.0
+  },
+  "Bendigo Braves": {
+    "team_id": 2958009,
+    "matched_name": "Bendigo Braves",
+    "score": 100.0
+  },
+  "Townsville Heat": {
+    "team_id": 2942691,
+    "matched_name": "Townsville Heat",
+    "score": 100.0
+  },
+  "Sunshine Coast Phoenix (W)": {
+    "team_id": 5048916,
+    "matched_name": "Sunshine Coast Phoenix",
+    "score": 91.66666666666666
+  },
+  "Sydney Comets": {
+    "team_id": 5089764,
+    "matched_name": "Sydney Comets",
+    "score": 100.0
+  },
+  "Inner West Bulls": {
+    "team_id": 3009920,
+    "matched_name": "Inner West Bulls",
+    "score": 100.0
+  },
+  "Kilsyth Cobras": {
+    "team_id": 43334,
+    "matched_name": "Kilsyth Cobras",
+    "score": 100.0
+  },
+  "Mandurah Magic": {
+    "team_id": 3001410,
+    "matched_name": "Mandurah Magic",
+    "score": 100.0
+  },
+  "Warwick Senators": {
+    "team_id": 3005665,
+    "matched_name": "Warwick Senators",
+    "score": 100.0
+  },
+  "Newcastle Falcons": {
+    "team_id": 3012473,
+    "matched_name": "Newcastle Falcons",
+    "score": 100.0
+  },
+  "Goldfields Giants": {
+    "team_id": 2998006,
+    "matched_name": "Goldfields Giants",
+    "score": 100.0
+  },
+  "KIU Titans": {
+    "team_id": 303740,
+    "matched_name": "KW Titans",
+    "score": 84.21052631578947
+  },
+  "Eastern Mavericks": {
+    "team_id": 2975880,
+    "matched_name": "Eastern Mavericks",
+    "score": 100.0
+  },
+  "Keilor Thunder": {
+    "team_id": 2959711,
+    "matched_name": "Keilor Thunder",
+    "score": 100.0
+  },
+  "Dandenong Rangers": {
+    "team_id": 34824,
+    "matched_name": "Dandenong Rangers",
+    "score": 100.0
+  },
+  "Newcastle Falcons (W)": {
+    "team_id": 3012473,
+    "matched_name": "Newcastle Falcons",
+    "score": 89.47368421052632
+  },
+  "Maitland Mustangs": {
+    "team_id": 3010771,
+    "matched_name": "Maitland Mustangs",
+    "score": 100.0
+  },
+  "Ballarat Miners": {
+    "team_id": 37377,
+    "matched_name": "Ballarat Miners",
+    "score": 100.0
+  },
+  "Waverley Falcons": {
+    "team_id": 39079,
+    "matched_name": "Waverley Falcons",
+    "score": 100.0
+  },
+  "Cockburn Cougars": {
+    "team_id": 2995453,
+    "matched_name": "Cockburn Cougars",
+    "score": 100.0
+  },
+  "Perry Lakes Hawks": {
+    "team_id": 3002261,
+    "matched_name": "Perry Lakes Hawks",
+    "score": 100.0
+  },
+  "North Adelaide Rockets": {
+    "team_id": 2977582,
+    "matched_name": "North Adelaide Rockets",
+    "score": 100.0
+  },
+  "South Adelaide Panthers": {
+    "team_id": 2979284,
+    "matched_name": "South Adelaide Panthers",
+    "score": 100.0
+  },
+  "Bendigo Braves (W)": {
+    "team_id": 2958009,
+    "matched_name": "Bendigo Braves",
+    "score": 87.5
+  },
+  "Southern Tigers": {
+    "team_id": 2980135,
+    "matched_name": "Southern Tigers",
+    "score": 100.0
+  },
+  "Sturt Sabres": {
+    "team_id": 2980986,
+    "matched_name": "Sturt Sabres",
+    "score": 100.0
+  },
+  "Johor Southern Tigers U20 (W)": {
+    "team_id": 6703260,
+    "matched_name": "Johor Southern Tigers",
+    "score": 84.0
+  },
+  "Central District Lions": {
+    "team_id": 2983539,
+    "matched_name": "Central Districts Lions",
+    "score": 97.77777777777777
+  },
+  "Forestville Eagles": {
+    "team_id": 2976731,
+    "matched_name": "Forestville Eagles",
+    "score": 100.0
+  },
+  "Geelong United": {
+    "team_id": 33122,
+    "matched_name": "Geelong United",
+    "score": 100.0
+  },
+  "Sturt Sabres (W)": {
+    "team_id": 2980986,
+    "matched_name": "Sturt Sabres",
+    "score": 85.71428571428572
+  },
+  "Central District Lions (W)": {
+    "team_id": 2983539,
+    "matched_name": "Central Districts Lions",
+    "score": 89.79591836734694
+  },
+  "Forestville Eagles (W)": {
+    "team_id": 2976731,
+    "matched_name": "Forestville Eagles",
+    "score": 90.0
+  },
+  "North Gold Coast Seahawks (W)": {
+    "team_id": 2936734,
+    "matched_name": "North Gold Coast Seahawks",
+    "score": 92.5925925925926
+  },
+  "Logan Thunder (W)": {
+    "team_id": 2935032,
+    "matched_name": "Logan Thunder",
+    "score": 86.66666666666667
+  },
+  "Illawarra Hawks (W)": {
+    "team_id": 5088913,
+    "matched_name": "Illawarra Hawks 2",
+    "score": 88.88888888888889
+  },
+  "North Gold Coast Seahawks": {
+    "team_id": 2936734,
+    "matched_name": "North Gold Coast Seahawks",
+    "score": 100.0
+  },
+  "Logan Thunder": {
+    "team_id": 2935032,
+    "matched_name": "Logan Thunder",
+    "score": 100.0
+  },
+  "Frankston Blues (W)": {
+    "team_id": 38228,
+    "matched_name": "Frankston Blues",
+    "score": 88.23529411764706
+  },
+  "Kilsyth Cobras (W)": {
+    "team_id": 43334,
+    "matched_name": "Kilsyth Cobras",
+    "score": 87.5
+  },
+  "Diamond Valley Eagles (W)": {
+    "team_id": 39930,
+    "matched_name": "Diamond Valley Eagles",
+    "score": 91.30434782608697
   },
   "Canterbury Rams": {
     "team_id": 727538,
     "matched_name": "Canterbury Rams",
     "score": 100.0
   },
+  "Illawarra Hawks NBL1": {
+    "team_id": 5890,
+    "matched_name": "Illawarra Hawks",
+    "score": 85.71428571428572
+  },
+  "Geraldton Buccaneers": {
+    "team_id": 2997155,
+    "matched_name": "Geraldton Buccaneers",
+    "score": 100.0
+  },
+  "Perth Redbacks": {
+    "team_id": 3003112,
+    "matched_name": "Perth Redbacks",
+    "score": 100.0
+  },
+  "Sydney Comets (W)": {
+    "team_id": 5089764,
+    "matched_name": "Sydney Comets",
+    "score": 86.66666666666667
+  },
+  "Townsville Heat (W)": {
+    "team_id": 2942691,
+    "matched_name": "Townsville Heat",
+    "score": 88.23529411764706
+  },
+  "Norwood Flames (W)": {
+    "team_id": 2978433,
+    "matched_name": "Norwood Flames",
+    "score": 87.5
+  },
   "Espanol Osorno SAESA": {
     "team_id": 4188555,
     "matched_name": "Espanol Osorno",
     "score": 82.35294117647058
   },
-  "Santo Andre U20": {
-    "team_id": 4748513,
-    "matched_name": "Santo Andre",
-    "score": 84.61538461538461
+  "Eastern Mavericks (W)": {
+    "team_id": 2975880,
+    "matched_name": "Eastern Mavericks",
+    "score": 89.47368421052632
+  },
+  "Woodville Warriors (W)": {
+    "team_id": 2982688,
+    "matched_name": "Woodville Warriors",
+    "score": 90.0
+  },
+  "Keilor Thunder (W)": {
+    "team_id": 2959711,
+    "matched_name": "Keilor Thunder",
+    "score": 87.5
+  },
+  "Kalamunda Eastern Suns (W)": {
+    "team_id": 2999708,
+    "matched_name": "Kalamunda Eastern Suns",
+    "score": 91.66666666666666
+  },
+  "Maitland Mustangs (W)": {
+    "team_id": 3010771,
+    "matched_name": "Maitland Mustangs",
+    "score": 89.47368421052632
+  },
+  "LA Sparks": {
+    "team_id": 143752,
+    "matched_name": "Los Angeles Sparks W",
+    "score": 100
+  },
+  "Danang Dragons": {
+    "team_id": 3398827,
+    "matched_name": "Da Nang Dragons",
+    "score": 100
+  },
+  "Central Coast Crusaders (W)": {
+    "team_id": 3008218,
+    "matched_name": "Central Coast Crusaders",
+    "score": 92.0
   }
 }
