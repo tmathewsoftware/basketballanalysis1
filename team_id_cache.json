@@ -953,5 +953,10 @@
     "team_id": 303740,
     "matched_name": "KW Titans",
     "score": 84.21052631578947
+  },
+  "Eastern Mavericks": {
+    "team_id": 2975880,
+    "matched_name": "Eastern Mavericks",
+    "score": 100.0
   }
 }
