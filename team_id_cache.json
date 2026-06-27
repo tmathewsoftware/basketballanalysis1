@@ -1113,5 +1113,10 @@
     "team_id": 2997155,
     "matched_name": "Geraldton Buccaneers",
     "score": 100.0
+  },
+  "Perth Redbacks": {
+    "team_id": 3003112,
+    "matched_name": "Perth Redbacks",
+    "score": 100.0
   }
 }
