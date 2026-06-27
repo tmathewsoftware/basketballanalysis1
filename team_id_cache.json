@@ -978,5 +978,10 @@
     "team_id": 3010771,
     "matched_name": "Maitland Mustangs",
     "score": 100.0
+  },
+  "Ballarat Miners": {
+    "team_id": 37377,
+    "matched_name": "Ballarat Miners",
+    "score": 100.0
   }
 }
