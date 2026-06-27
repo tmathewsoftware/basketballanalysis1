@@ -1108,5 +1108,10 @@
     "team_id": 5890,
     "matched_name": "Illawarra Hawks",
     "score": 85.71428571428572
+  },
+  "Geraldton Buccaneers": {
+    "team_id": 2997155,
+    "matched_name": "Geraldton Buccaneers",
+    "score": 100.0
   }
 }
