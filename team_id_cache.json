@@ -1003,5 +1003,10 @@
     "team_id": 2977582,
     "matched_name": "North Adelaide Rockets",
     "score": 100.0
+  },
+  "South Adelaide Panthers": {
+    "team_id": 2979284,
+    "matched_name": "South Adelaide Panthers",
+    "score": 100.0
   }
 }
