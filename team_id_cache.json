@@ -983,5 +983,10 @@
     "team_id": 37377,
     "matched_name": "Ballarat Miners",
     "score": 100.0
+  },
+  "Waverley Falcons": {
+    "team_id": 39079,
+    "matched_name": "Waverley Falcons",
+    "score": 100.0
   }
 }
