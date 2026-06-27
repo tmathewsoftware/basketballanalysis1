@@ -1038,5 +1038,10 @@
     "team_id": 2976731,
     "matched_name": "Forestville Eagles",
     "score": 100.0
+  },
+  "Geelong United": {
+    "team_id": 33122,
+    "matched_name": "Geelong United",
+    "score": 100.0
   }
 }
