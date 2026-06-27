@@ -838,5 +838,10 @@
     "team_id": 1920640,
     "matched_name": "Franklin Bulls",
     "score": 100.0
+  },
+  "Geelong United (W)": {
+    "team_id": 33122,
+    "matched_name": "Geelong United",
+    "score": 87.5
   }
 }
