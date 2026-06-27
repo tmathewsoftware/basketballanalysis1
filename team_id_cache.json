@@ -793,5 +793,10 @@
     "team_id": 3003963,
     "matched_name": "Rockingham Flames",
     "score": 89.47368421052632
+  },
+  "Puerto Montt SAESA": {
+    "team_id": 1178568,
+    "matched_name": "Puerto Montt",
+    "score": 80.0
   }
 }
