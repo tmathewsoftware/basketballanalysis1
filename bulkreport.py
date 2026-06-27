@@ -7,7 +7,7 @@ from datetime import datetime
 import zoneinfo
 from h2hgames import build_h2h_excel
 from recentgames import build_recent_games_excel
-from teamselector import resolve_team
+from teamselector import resolve_team, load_known_missing_teams, is_known_missing
 
 SKIPPED_LOG_FILE = "skipped_games_log.txt"
 GITHUB_API_BASE = "https://api.github.com"
@@ -136,6 +136,10 @@ def generate_all_reports(ranked_games, progress_callback=None):
     # Track how many times each league appears
     league_counts = {}
 
+    # Load known-missing teams once for this run (avoids wasted API calls)
+    known_missing_set = load_known_missing_teams()
+    skipped_known_count = 0
+
     with zipfile.ZipFile(zip_buffer, "w", zipfile.ZIP_DEFLATED) as zf:
         for idx, game in enumerate(ranked_games):
             home = game['home']
@@ -154,6 +158,12 @@ def generate_all_reports(ranked_games, progress_callback=None):
 
             if progress_callback:
                 progress_callback(idx, total, f"{home} vs {away}")
+
+            # Skip instantly if either team is known to be missing from Highlightly —
+            # avoids wasting API calls on teams we've already confirmed don't exist there.
+            if is_known_missing(home, known_missing_set) or is_known_missing(away, known_missing_set):
+                skipped_known_count += 1
+                continue
 
             # Resolve team names using teamselector's cache (populated by precheck)
             # This ensures WNBA abbreviations and other manually-confirmed mappings are used
@@ -207,4 +217,4 @@ def generate_all_reports(ranked_games, progress_callback=None):
         log_skipped_games_batch(skipped_lines)
 
     zip_buffer.seek(0)
-    return zip_buffer, date_str, errors
+    return zip_buffer, date_str, errors, skipped_known_count

@@ -207,8 +207,11 @@ else:
         def update_progress(idx, total, name):
             progress.progress(idx / total, text=f"Generating {name}...")
 
-        zip_buffer, date_str_zip, errors = generate_all_reports(ranked_games, update_progress)
+        zip_buffer, date_str_zip, errors, skipped_known_count = generate_all_reports(ranked_games, update_progress)
         progress.progress(1.0, text="Done!")
+
+        if skipped_known_count:
+            st.info(f"⏭️ Skipped {skipped_known_count} game(s) instantly — known missing teams (see known_missing_teams.txt)")
 
         for err in errors:
             st.warning(err)
@@ -231,11 +234,18 @@ else:
         "later": "#888888"       # standard grey
     }
 
+    from teamselector import load_known_missing_teams, is_known_missing
+    known_missing_set = load_known_missing_teams()
+
     for game in ranked_games:
         date_category = game.get("date_category", "later")
         date_str = game.get("date_str", "")
         time_str = game.get("time_str", "")
         color = date_colors.get(date_category, "#888888")
+
+        home_missing = is_known_missing(game["home"], known_missing_set)
+        away_missing = is_known_missing(game["away"], known_missing_set)
+        game["has_known_missing"] = home_missing or away_missing
 
         col_badge, col_btn = st.columns([1, 9])
         with col_badge:
@@ -247,8 +257,9 @@ else:
                 unsafe_allow_html=True
             )
         with col_btn:
+            missing_flag = "❌ " if game["has_known_missing"] else ""
             label = (
-                f"#{game['rank']}  ·  {game['home']} vs {game['away']}  "
+                f"{missing_flag}#{game['rank']}  ·  {game['home']} vs {game['away']}  "
                 f"·  Spread: {game['spread']}  ·  Total: {game['total']}  "
                 f"·  {game['league']}"
             )

@@ -598,5 +598,80 @@
     "team_id": 815191,
     "matched_name": "San German",
     "score": 100
+  },
+  "Puerto Montt SAESA": {
+    "team_id": 1178568,
+    "matched_name": "Puerto Montt",
+    "score": 80.0
+  },
+  "Houston Rig Hands": {
+    "team_id": 6326267,
+    "matched_name": "Houston Rig Hands",
+    "score": 100.0
+  },
+  "Slovenia": {
+    "team_id": 2578463,
+    "matched_name": "Slovenia",
+    "score": 100.0
+  },
+  "Detroit Amps": {
+    "team_id": 6325416,
+    "matched_name": "Detroit Amps",
+    "score": 100.0
+  },
+  "Bulgaria U20": {
+    "team_id": 2686540,
+    "matched_name": "Bulgaria U20",
+    "score": 100.0
+  },
+  "North Macedonia U20": {
+    "team_id": 3929000,
+    "matched_name": "North Macedonia U20",
+    "score": 100.0
+  },
+  "Portugal": {
+    "team_id": 3929851,
+    "matched_name": "Portugal U20",
+    "score": 80.0
+  },
+  "Switzerland": {
+    "team_id": 2684838,
+    "matched_name": "Switzerland",
+    "score": 100.0
+  },
+  "Slovenia U20": {
+    "team_id": 3882195,
+    "matched_name": "Slovenia U20",
+    "score": 100.0
+  },
+  "Auckland Tuatara": {
+    "team_id": 4162174,
+    "matched_name": "Auckland Tuatara",
+    "score": 100.0
+  },
+  "Belgium U20": {
+    "team_id": 3889003,
+    "matched_name": "Belgium U20",
+    "score": 100.0
+  },
+  "Netherlands U20": {
+    "team_id": 3928149,
+    "matched_name": "Netherlands U20",
+    "score": 100.0
+  },
+  "Canterbury Rams": {
+    "team_id": 727538,
+    "matched_name": "Canterbury Rams",
+    "score": 100.0
+  },
+  "Espanol Osorno SAESA": {
+    "team_id": 4188555,
+    "matched_name": "Espanol Osorno",
+    "score": 82.35294117647058
+  },
+  "Santo Andre U20": {
+    "team_id": 4748513,
+    "matched_name": "Santo Andre",
+    "score": 84.61538461538461
   }
 }

@@ -1,0 +1,210 @@
+KNOWN MISSING TEAMS - Organized by Country > League > Team
+=============================================================
+# Teams confirmed NOT in Highlightly database.
+# Used by bulkreport.py to skip games instantly without wasting API calls.
+# Review skipped_games_log.txt weekly and move confirmed permanent misses here.
+# Format: one team name per line under its League under its Country.
+
+SENEGAL
+-------
+Division 1
+  Rs Yoff
+  Abaz
+  Guediawaye BA
+  AS Douanes
+  Jeanne d'Arc
+  Ville De Dakar
+
+Division 1 Women
+  Mbour BC (W)
+  Inseps Ucad (W)
+  Jaraaf (W)
+  IAM Academy (W)
+  Jeanne D'Arc (W)
+  Guediawaye Basket Academy (W)
+  BOPP Basket Club (W)
+  Ville de Dakar (W)
+
+MALI
+----
+Premiere Division
+  Djoliba AC
+  Centre Mamoutou Kane
+  Stade
+  USFAS
+
+Ligue 1 Women
+  USFAS (W)
+  Real (W)
+  Djoliba (W)
+  Djoliba AC (W)
+  Stade Malien (W)
+
+RWANDA
+------
+National League Women
+  APR (W)
+  REG (W)
+  Kepler (W)
+  Azomco Bbc (W)
+
+UGANDA
+------
+Div 1
+  Livingstone (Uganda)
+  Tropical Royals
+  Entebbe Knight Riders
+  KIU Titans
+
+KENYA
+-----
+Premier League
+  Equity Bank
+  Eldonets
+  ANU Wolfpacks
+  Nairobi City Thunder
+
+Premier League Women
+  Zetech University (W)
+  Stanbic Aces (W)
+  Dream Girls (W)
+  Lady Titans (W)
+  USIU (W)
+  TH3 Swish (W)
+
+MOROCCO
+-------
+League
+  AS Sale
+  FAR Rabat
+  IRT Tanger
+  WAC Casablanca
+  FUS Rabat
+
+League Women
+  FUS Rabat Women
+  KAC Marrakech (W)
+
+SOUTH AFRICA
+------------
+BNL Women
+  Northern Cape Zebras (W)
+  Mpumalanga Rhinos (W)
+
+AUSTRALIA
+---------
+NBL1 North
+  Northside Wizards
+  South West Metro Pirates
+  Rockhampton Rockets
+  Mackay Meteors
+  Cairns Marlins
+  Ipswich Force
+  Sunshine Coast Phoenix
+  Southern Districts Spartans
+  Brisbane Capitals
+  Gold Coast Rollers
+  Townsville Heat
+  North Gold Coast Seahawks
+  Logan Thunder
+
+NBL1 North Women
+  Northside Wizards (W)
+  South West Metro Pirates (W)
+  Sunshine Coast Phoenix (W)
+  Southern District Spartans (W)
+  Brisbane Capitals (W)
+  Gold Coast Rollers (W)
+  Townsville Heat (W)
+  North Gold Coast Seahawks (W)
+  Logan Thunder (W)
+  Cairns Dolphins (W)
+
+NBL1 South
+  Ballarat Miners
+  Waverley Falcons
+  Bendigo Braves
+  Casey Cavaliers
+  Kilsyth Cobras
+  Diamond Valley Eagles
+
+NBL1 South Women
+  Ballarat Miners (W)
+  Bendigo Braves (W)
+  Kilsyth Cobras (W)
+  Diamond Valley Eagles (W)
+
+NBL1 West
+  Lakeside Lightning
+  Willetton Tigers
+  Rockingham Flames
+  South West Slammers
+  Joondalup Wolves
+  Perry Lakes Hawks
+  Mandurah Magic
+  Warwick Senators
+  Goldfields Giants
+  East Perth Eagles
+  Cockburn Cougars
+  Kalamunda Eastern Suns
+  Geraldton Buccaneers
+  Perth Redbacks
+
+NBL1 West Women
+  Lakeside Lightning (W)
+  Willetton Tigers (W)
+  Joondalup Wolves (W)
+  Perry Lakes Hawks (W)
+  Mandurah Magic (W)
+  Warwick Senators (W)
+  Goldfields Giants (W)
+  East Perth Eagles (W)
+  Cockburn Cougars (W)
+  Kalamunda Eastern Suns (W)
+  Rockingham Flames (W)
+  South West Slammers (W)
+
+NBL1 Central
+  North Adelaide Rockets
+  South Adelaide Panthers
+  Norwood Flames
+  West Adelaide Bearcats
+  Southern Tigers
+  Sturt Sabres
+  Central District Lions
+  Forestville Eagles
+  Eastern Mavericks
+  Woodville Warriors
+
+NBL1 Central Women
+  North Adelaide Rockets (W)
+  South Adelaide Panthers (W)
+  Norwood Flames (W)
+  West Adelaide Bearcats (W)
+  Southern Tigers (W)
+  Sturt Sabres (W)
+  Central District Lions (W)
+  Forestville Eagles (W)
+  Eastern Mavericks (W)
+  Woodville Warriors (W)
+
+NBL1 East
+  Sydney Comets
+  Inner West Bulls
+  Bankstown Bruins
+  Norths Bears
+  Maitland Mustangs
+  Central Coast Crusaders
+  Hills Hornets
+  Illawarra Hawks
+  Illawarra Hawks NBL1
+
+NBL1 East Women
+  Sydney Comets (W)
+  Inner West Bulls (W)
+  Bankstown Bruins (W)
+  Norths Bears (W)
+  Maitland Mustangs (W)
+  Central Coast Crusaders (W)
+  Hills Hornets (W)
+  Illawarra Hawks (W)

@@ -1,6 +1,7 @@
 import json
 import os
 import base64
+import re
 import requests
 from rapidfuzz import fuzz, process
 from league_mapping import get_league_info
@@ -8,6 +9,7 @@ from league_mapping import get_league_info
 DATABASE_FILE = "teams_database.json"
 CACHE_FILE = "team_id_cache.json"
 LEAGUES_FILE = "highlightly_leagues.json"
+KNOWN_MISSING_FILE = "known_missing_teams.txt"
 MATCH_THRESHOLD = 80
 TOP_N = 5
 
@@ -272,6 +274,75 @@ def confirm_team_selection(team_name, selected_name, selected_id):
         "score": 100
     }
     save_cache(cache)
+
+
+# ─────────────────────────────────────────────
+# Known missing teams (permanent skip list)
+# Organized as Country > League > Team in a text file.
+# Used to flag games in the ranked list and skip them
+# instantly during bulk processing without wasting API calls.
+# ─────────────────────────────────────────────
+
+def github_load_known_missing():
+    """Load known_missing_teams.txt content from GitHub. Returns string or None."""
+    token, repo = _get_github_config()
+    if not token or not repo:
+        return None
+
+    url = f"{GITHUB_API_BASE}/repos/{repo}/contents/{KNOWN_MISSING_FILE}"
+    try:
+        response = requests.get(url, headers=_github_headers(token))
+        if response.status_code != 200:
+            return None
+        data = response.json()
+        return base64.b64decode(data["content"]).decode("utf-8")
+    except Exception:
+        return None
+
+
+def _parse_known_missing_text(content):
+    """
+    Parse the Country > League > Team structured text into a flat set of
+    team names (lowercased, stripped) for fast lookup.
+    """
+    names = set()
+    for line in content.splitlines():
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#") or stripped.startswith("="):
+            continue
+        # Skip lines that look like a country header (all caps, no leading spaces in original)
+        # or a dash separator line.
+        if re.fullmatch(r"-+", stripped):
+            continue
+        # A team line is indented in the source file; country/league headers are not.
+        # We just treat any remaining non-empty, non-header-looking line as a team name
+        # if it wasn't ALL CAPS on its own (countries) — but simplest robust rule:
+        # team lines were written with leading whitespace in the original file.
+        if line.startswith("  ") or line.startswith("\t"):
+            names.add(stripped.lower())
+    return names
+
+
+def load_known_missing_teams():
+    """
+    Load the known-missing-teams set, preferring GitHub (persistent) over
+    the local file. Returns a set of lowercased team names.
+    """
+    content = github_load_known_missing()
+    if content is None:
+        if os.path.exists(KNOWN_MISSING_FILE):
+            with open(KNOWN_MISSING_FILE, encoding="utf-8") as f:
+                content = f.read()
+        else:
+            content = ""
+    return _parse_known_missing_text(content)
+
+
+def is_known_missing(team_name, known_missing_set=None):
+    """Check if a team name is in the known-missing set (case-insensitive)."""
+    if known_missing_set is None:
+        known_missing_set = load_known_missing_teams()
+    return team_name.strip().lower() in known_missing_set
 
 
 # ─────────────────────────────────────────────

@@ -158,3 +158,53 @@
 [25 Jun 2026 05:04] Minas LDB U22 vs Osasco Basket LDB U22 (Brazil LDB U22) — Unresolved team(s): Minas LDB U22, Osasco Basket LDB U22 — run 'Check All Teams' first
 [25 Jun 2026 05:04] Fuerza Paraiso vs Thunder El Salvador (El Salvador LNB Segunda) — Unresolved team(s): Fuerza Paraiso, Thunder El Salvador — run 'Check All Teams' first
 [25 Jun 2026 05:04] Guangdong U21 (W) vs Jiangxi U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Jiangxi U21 (W) — run 'Check All Teams' first
+[27 Jun 2026 20:04] Osorno SAESA vs Lautaro SAESA (Chile Liga SAESA) — Unresolved team(s): Osorno SAESA, Lautaro SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:04] TAS Casablanca (W) vs AS Essaouira Women (Morocco 1DND Women) — Unresolved team(s): TAS Casablanca (W), AS Essaouira Women — run 'Check All Teams' first
+[27 Jun 2026 20:04] OKC Thunder (SCORCH) vs LA Lakers (OUTLAW) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): OKC Thunder (SCORCH), LA Lakers (OUTLAW) — run 'Check All Teams' first
+[27 Jun 2026 20:04] CLE Cavaliers (PULSE) vs PHX Suns (BOMBARDIER) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): CLE Cavaliers (PULSE), PHX Suns (BOMBARDIER) — run 'Check All Teams' first
+[27 Jun 2026 20:04] Puerto Varas SAESA vs Puerto Montt SAESA (Chile Liga SAESA) — Unresolved team(s): Puerto Varas SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:04] San German vs Arecibo (Puerto Rico Superior Nacional) — Unresolved team(s): Arecibo — run 'Check All Teams' first
+[27 Jun 2026 20:04] Egypt 3x3 (W) vs Ottawa 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Egypt 3x3 (W), Ottawa 3x3 (W) — run 'Check All Teams' first
+[27 Jun 2026 20:04] Antwerp 3x3 vs Elancourt 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Antwerp 3x3, Elancourt 3x3 — run 'Check All Teams' first
+[27 Jun 2026 20:04] Houston Rig Hands vs Boston Ball Hogs (BIG3) — Unresolved team(s): Boston Ball Hogs — run 'Check All Teams' first
+[27 Jun 2026 20:04] DMV Trilogy vs Chicago Triplets (BIG3) — Unresolved team(s): DMV Trilogy, Chicago Triplets — run 'Check All Teams' first
+[27 Jun 2026 20:04] Mayaguez vs Santurce (Puerto Rico Superior Nacional) — Unresolved team(s): Santurce — run 'Check All Teams' first
+[27 Jun 2026 20:04] France 3x3 (W) vs Amsterdam 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): France 3x3 (W), Amsterdam 3x3 (W) — run 'Check All Teams' first
+[27 Jun 2026 20:04] Miami 3x3 vs Bochum 3x3 (FIBA 3x3 Challenger) — Unresolved team(s): Miami 3x3, Bochum 3x3 — run 'Check All Teams' first
+[27 Jun 2026 20:04] MIN Lynx vs DAL Wings (WNBA) — Unresolved team(s): MIN Lynx, DAL Wings — run 'Check All Teams' first
+[27 Jun 2026 20:04] Ponce vs Vaqueros de Bayamon (Puerto Rico Superior Nacional) — Unresolved team(s): Ponce — run 'Check All Teams' first
+[27 Jun 2026 20:04] LA Riot vs Dallas Power (BIG3) — Unresolved team(s): Dallas Power — run 'Check All Teams' first
+[27 Jun 2026 20:04] Carahue SAESA vs Alemana Paillaco SAESA (Chile Liga SAESA) — Unresolved team(s): Carahue SAESA, Alemana Paillaco SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:04] Municipal Gorbea SAESA vs Ancud SAESA (Chile Liga SAESA) — Unresolved team(s): Municipal Gorbea SAESA, Ancud SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:04] Belize City Defenders vs Orange Walk Running Rebels (Belize Elite League) — Unresolved team(s): Belize City Defenders, Orange Walk Running Rebels — run 'Check All Teams' first
+[27 Jun 2026 20:04] Australia 3x3 (W) vs Beijing 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Australia 3x3 (W), Beijing 3x3 (W) — run 'Check All Teams' first
+[27 Jun 2026 20:04] Canada 3x3 (W) vs Paris Region IDF 3x3 (W) (FIBA 3x3 Series Women) — Unresolved team(s): Canada 3x3 (W), Paris Region IDF 3x3 (W) — run 'Check All Teams' first
+[27 Jun 2026 20:04] Homenetmen (W) vs Al RIyadi (W) (Lebanon League Women) — Unresolved team(s): Homenetmen (W), Al RIyadi (W) — run 'Check All Teams' first
+[27 Jun 2026 20:04] IVV/CETAF LDB U22 vs Campo Mourao LDB U22 (Brazil LDB U22) — Unresolved team(s): IVV/CETAF LDB U22, Campo Mourao LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:04] Roswell vs JMC Limon Sharks (Costa Rica LDB Superior) — Unresolved team(s): Roswell, JMC Limon Sharks — run 'Check All Teams' first
+[27 Jun 2026 20:04] PHX Mercury vs TOR Tempo (WNBA) — Unresolved team(s): TOR Tempo — run 'Check All Teams' first
+[27 Jun 2026 20:05] Quebradillas vs Aguada Santeros (Puerto Rico Superior Nacional) — Unresolved team(s): Quebradillas — run 'Check All Teams' first
+[27 Jun 2026 20:05] Pelita Jaya Jakarta vs Borneo Hornbills (Indonesia IBL) — Unresolved team(s): Pelita Jaya Jakarta — run 'Check All Teams' first
+[27 Jun 2026 20:05] LA Sparks vs IND Fever (WNBA) — Unresolved team(s): LA Sparks — run 'Check All Teams' first
+[27 Jun 2026 20:05] Guaynabo vs Criollos de Caguas (Puerto Rico Superior Nacional) — Unresolved team(s): Guaynabo — run 'Check All Teams' first
+[27 Jun 2026 20:05] ATL Dream vs SEA Storm (WNBA) — Unresolved team(s): SEA Storm — run 'Check All Teams' first
+[27 Jun 2026 20:05] Macau Black Knights TAT vs Shenzhen Leopards II (The Asian Tournament) — Unresolved team(s): Macau Black Knights TAT, Shenzhen Leopards II — run 'Check All Teams' first
+[27 Jun 2026 20:05] Fluminense LDB U22 vs Uniao Corinthians LDB U22 (Brazil LDB U22) — Unresolved team(s): Fluminense LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Defensor Sporting (W) vs Club Yale Women (Uruguay Liga Women) — Unresolved team(s): Defensor Sporting (W), Club Yale Women — run 'Check All Teams' first
+[27 Jun 2026 20:05] Caxias do Sul LDB U22 vs Corinthians U22 (Brazil LDB U22) — Unresolved team(s): Caxias do Sul LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Valdivia SAESA vs Castro SAESA (Chile Liga SAESA) — Unresolved team(s): Valdivia SAESA, Castro SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:05] Danang Dragons vs Hanoi Buffaloes (Vietnam VBA) — Unresolved team(s): Danang Dragons — run 'Check All Teams' first
+[27 Jun 2026 20:05] Cruzeiro LDB U22 vs Pinheiros U22 (Brazil LDB U22) — Unresolved team(s): Cruzeiro LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Canterbury Rams vs Hawke’s Bay Hawks (New Zealand NBL) — Unresolved team(s): Hawke’s Bay Hawks — run 'Check All Teams' first
+[27 Jun 2026 20:05] CD La Union SAESA vs Municipal Loncoche SAESA (Chile Liga SAESA) — Unresolved team(s): CD La Union SAESA, Municipal Loncoche SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:05] La Trinidad vs Brumas de Jinotega (Nicaragua Torneo Carlos Ulloa) — Unresolved team(s): La Trinidad, Brumas de Jinotega — run 'Check All Teams' first
+[27 Jun 2026 20:05] Basquete Cearense LDB U22 vs Bauru LDB U22 (Brazil LDB U22) — Unresolved team(s): Basquete Cearense LDB U22, Bauru LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Unimed Campinas (W) vs Sodie Mesquita (W) (Brazil LBF Women) — Unresolved team(s): Unimed Campinas (W), Sodie Mesquita (W) — run 'Check All Teams' first
+[27 Jun 2026 20:05] Kosovo (W) vs Albania (W) (Euro Champs SCD Women) — Unresolved team(s): Kosovo (W), Albania (W) — run 'Check All Teams' first
+[27 Jun 2026 20:05] Malta (W) vs Armenia (W) (Euro Champs SCD Women) — Unresolved team(s): Malta (W), Armenia (W) — run 'Check All Teams' first
+[27 Jun 2026 20:05] Temuco SAESA vs Espanol Osorno SAESA (Chile Liga SAESA) — Unresolved team(s): Temuco SAESA — run 'Check All Teams' first
+[27 Jun 2026 20:05] Sorocaba U20 vs Santo Andre U20 (Brazil Paulista FPB U20) — Unresolved team(s): Sorocaba U20 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Costa Rica El Salvador vs Dark Fire (El Salvador LNB Segunda) — Unresolved team(s): Costa Rica El Salvador, Dark Fire — run 'Check All Teams' first
+[27 Jun 2026 20:05] Unifacisa LDB U22 vs Paulistano U22 (Brazil LDB U22) — Unresolved team(s): Unifacisa LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Soc. Thalia/SMEIJ LDB U22 vs Sao Jose U22 (Brazil LDB U22) — Unresolved team(s): Soc. Thalia/SMEIJ LDB U22 — run 'Check All Teams' first
+[27 Jun 2026 20:05] Guangdong U21 (W) vs Shanghai U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Shanghai U21 (W) — run 'Check All Teams' first
