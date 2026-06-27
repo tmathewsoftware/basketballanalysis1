@@ -903,5 +903,10 @@
     "team_id": 2958009,
     "matched_name": "Bendigo Braves",
     "score": 100.0
+  },
+  "Townsville Heat": {
+    "team_id": 2942691,
+    "matched_name": "Townsville Heat",
+    "score": 100.0
   }
 }
