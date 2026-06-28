@@ -39,3 +39,27 @@
 [28 Jun 2026 13:11] Sorocaba U20 vs Santo Andre U20 (Brazil Paulista FPB U20) — Unresolved team(s): Sorocaba U20 — run 'Check All Teams' first
 [28 Jun 2026 13:11] Guangdong U21 (W) vs Beijing U21 (W) (China NBL U21 Women) — Unresolved team(s): Guangdong U21 (W), Beijing U21 (W) — run 'Check All Teams' first
 [28 Jun 2026 13:11] Quezaltecos U21 vs Leopardos Usulutan U21 (El Salvador Fesabal U21) — Unresolved team(s): Quezaltecos U21, Leopardos Usulutan U21 — run 'Check All Teams' first
+[29 Jun 2026 04:48] Chile 3x3 U23 vs Puerto Rico 3x3 U23 (FIBA 3x3 U23 Nations League) — Unresolved team(s): Chile 3x3 U23, Puerto Rico 3x3 U23 — run 'Check All Teams' first
+[29 Jun 2026 04:48] USA 3x3 U23 vs Canada 3x3 U23 (FIBA 3x3 U23 Nations League) — Unresolved team(s): USA 3x3 U23, Canada 3x3 U23 — run 'Check All Teams' first
+[29 Jun 2026 04:49] Gigantes de San Francisco vs Heroes de Moca (Dominican Republic LNB) — Unresolved team(s): Gigantes de San Francisco, Heroes de Moca — run 'Check All Teams' first
+[29 Jun 2026 04:49] MIA Heat (LANCE) vs BKN Nets (AIRFORCE) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): MIA Heat (LANCE), BKN Nets (AIRFORCE) — run 'Check All Teams' first
+[29 Jun 2026 04:49] Seven U21 vs Fusalmo U21 (El Salvador Fesabal U21) — Unresolved team(s): Seven U21, Fusalmo U21 — run 'Check All Teams' first
+[29 Jun 2026 04:49] USA 3x3 U23 (W) vs Canada 3x3 U23 (W) (FIBA 3x3 U23 Nations League Women) — Unresolved team(s): USA 3x3 U23 (W), Canada 3x3 U23 (W) — run 'Check All Teams' first
+[29 Jun 2026 04:49] TOR Raptors (Djoks) vs PHI 76ers (Pakapaka) (Ebasketball Battle - 4x5mins) — Unresolved team(s): TOR Raptors (Djoks), PHI 76ers (Pakapaka) — run 'Check All Teams' first
+[29 Jun 2026 04:49] Shanghai U21 (W) vs Xinjiang U21 (W) (China NBL U21 Women) — Unresolved team(s): Shanghai U21 (W), Xinjiang U21 (W) — run 'Check All Teams' first
+[29 Jun 2026 04:49] Ateneo Popular Versalles vs Union Y Juventud Bandera (Argentina La Liga Federal) — Unresolved team(s): Ateneo Popular Versalles, Union Y Juventud Bandera — run 'Check All Teams' first
+[29 Jun 2026 04:49] Nejapa U21 vs Tigres El Salvador U21 (El Salvador Fesabal U21) — Unresolved team(s): Nejapa U21, Tigres El Salvador U21 — run 'Check All Teams' first
+[29 Jun 2026 04:49] Club Sportivo Escobar vs Almagro de Esperanza (Argentina La Liga Federal) — Unresolved team(s): Club Sportivo Escobar, Almagro de Esperanza — run 'Check All Teams' first
+[29 Jun 2026 04:49] Mayaguez vs Santurce (Puerto Rico Superior Nacional) — Unresolved team(s): Santurce — run 'Check All Teams' first
+[29 Jun 2026 04:49] Guaynabo vs Gigantes Carolina (Puerto Rico Superior Nacional) — Unresolved team(s): Guaynabo — run 'Check All Teams' first
+[29 Jun 2026 04:49] Franca U20 (W) vs SESI/Araraquara U20 (W) (Brazil Paulista U20 Women) — Unresolved team(s): Franca U20 (W), SESI/Araraquara U20 (W) — run 'Check All Teams' first
+[29 Jun 2026 04:49] Frutillar SAESA vs Purranque SAESA (Chile Liga SAESA) — Unresolved team(s): Frutillar SAESA, Purranque SAESA — run 'Check All Teams' first
+[29 Jun 2026 04:49] Santa Tecla Imdels Elite U21 vs Quezaltepeque U21 (El Salvador Fesabal U21) — Unresolved team(s): Santa Tecla Imdels Elite U21, Quezaltepeque U21 — run 'Check All Teams' first
+[29 Jun 2026 04:49] Latvia U20 vs Serbia U20 (International U20) — Report could not be generated — team may not be found in Highlightly database.
+[29 Jun 2026 04:49] CEB Puerto Montt SAESA vs Escolar Aleman SAESA (Chile Liga SAESA) — Unresolved team(s): CEB Puerto Montt SAESA — run 'Check All Teams' first
+[29 Jun 2026 04:49] Malvin (W) vs Aguada (W) (Uruguay Liga Women) — Unresolved team(s): Malvin (W), Aguada (W) — run 'Check All Teams' first
+[29 Jun 2026 04:49] Limeira Basquete U20 vs Mogi das Cruzes U20 (Brazil Paulista FPB U20) — Unresolved team(s): Limeira Basquete U20, Mogi das Cruzes U20 — run 'Check All Teams' first
+[29 Jun 2026 04:49] Türkiye U20 vs Romania U20 (International U20) — Unresolved team(s): Türkiye U20 — run 'Check All Teams' first
+[29 Jun 2026 04:50] Sorocaba U20 vs Santo Andre U20 (Brazil Paulista FPB U20) — Unresolved team(s): Sorocaba U20 — run 'Check All Teams' first
+[29 Jun 2026 04:50] Igihozo Ste Peter vs Intare (Rwanda BLD2) — Unresolved team(s): Igihozo Ste Peter, Intare — run 'Check All Teams' first
+[29 Jun 2026 04:50] Quezaltecos U21 vs Leopardos Usulutan U21 (El Salvador Fesabal U21) — Unresolved team(s): Quezaltecos U21, Leopardos Usulutan U21 — run 'Check All Teams' first
