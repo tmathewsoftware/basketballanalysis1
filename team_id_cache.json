@@ -1188,5 +1188,10 @@
     "team_id": 1964041,
     "matched_name": "Toulouse",
     "score": 80.0
+  },
+  "Great Britain": {
+    "team_id": 2672924,
+    "matched_name": "Great Britain",
+    "score": 100.0
   }
 }
