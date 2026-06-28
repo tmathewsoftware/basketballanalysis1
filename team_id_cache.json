@@ -1208,5 +1208,10 @@
     "team_id": 45036,
     "matched_name": "Melbourne Tigers",
     "score": 100.0
+  },
+  "Auckland Tuatara": {
+    "team_id": 4162174,
+    "matched_name": "Auckland Tuatara",
+    "score": 100.0
   }
 }
