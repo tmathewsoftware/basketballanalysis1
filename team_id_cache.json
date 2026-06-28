@@ -1178,5 +1178,10 @@
     "team_id": 3008218,
     "matched_name": "Central Coast Crusaders",
     "score": 92.0
+  },
+  "Shanghai 3x3": {
+    "team_id": 369267,
+    "matched_name": "Shanghai",
+    "score": 80.0
   }
 }
