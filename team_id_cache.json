@@ -1398,5 +1398,10 @@
     "team_id": 3928149,
     "matched_name": "Netherlands U20",
     "score": 100.0
+  },
+  "Hanyang University": {
+    "team_id": 1569177,
+    "matched_name": "Bryant University",
+    "score": 80.0
   }
 }
