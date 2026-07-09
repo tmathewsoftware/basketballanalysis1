@@ -1383,5 +1383,10 @@
     "team_id": 3872834,
     "matched_name": "France U20",
     "score": 83.33333333333334
+  },
+  "Luxembourg U20": {
+    "team_id": 3927298,
+    "matched_name": "Luxembourg U20",
+    "score": 100.0
   }
 }
