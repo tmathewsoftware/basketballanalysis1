@@ -120,3 +120,89 @@
 [30 Jun 2026 21:27] Türkiye U20 vs Latvia U20 (International U20) — Unresolved team(s): Türkiye U20 — run 'Check All Teams' first
 [30 Jun 2026 21:27] ARAE Catanduva U20 (W) vs Santo Andre U20 (W) (Brazil Paulista U20 Women) — Unresolved team(s): ARAE Catanduva U20 (W), Santo Andre U20 (W) — run 'Check All Teams' first
 [30 Jun 2026 21:27] Stockolmo vs Marne (Uruguay Liga de Ascenso) — Unresolved team(s): Stockolmo — run 'Check All Teams' first
+[10 Jul 2026 07:24] CHA Hornets (ULTIMATE) vs ORL Magic (SIGNAL) (Ebasketball H2H GG League - 4x5mins) — Unresolved team(s): CHA Hornets (ULTIMATE), ORL Magic (SIGNAL) — run 'Check All Teams' first
+[10 Jul 2026 07:24] Magic Stormers (W) vs Pearls Queens (W) (Uganda NBL Women) — Unresolved team(s): Magic Stormers (W), Pearls Queens (W) — run 'Check All Teams' first
+[10 Jul 2026 07:24] Cyprus U20 vs Kosovo U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:24] Hungary U20 vs Denmark U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:24] Cachorros vs Destroyer BKB Club (El Salvador LNB Segunda) — Unresolved team(s): Cachorros, Destroyer BKB Club — run 'Check All Teams' first
+[10 Jul 2026 07:24] Las Animas vs Puerto Varas (Chile LNB) — Unresolved team(s): Las Animas — run 'Check All Teams' first
+[10 Jul 2026 07:24] Deportivo San Jose vs Olimpia Kings (Paraguay Primera) — Unresolved team(s): Olimpia Kings — run 'Check All Teams' first
+[10 Jul 2026 07:24] Tabare vs Verdirrojo (Uruguay Liga de Ascenso) — Unresolved team(s): Tabare, Verdirrojo — run 'Check All Teams' first
+[10 Jul 2026 07:25] HOU Rockets vs DEN Nuggets (NBA Summer League) — Unresolved team(s): HOU Rockets, DEN Nuggets — run 'Check All Teams' first
+[10 Jul 2026 07:25] OKC Thunder vs LA Lakers (NBA Summer League) — Unresolved team(s): OKC Thunder, LA Lakers — run 'Check All Teams' first
+[10 Jul 2026 07:25] BOS Celtics vs TOR Raptors (NBA Summer League) — Unresolved team(s): BOS Celtics, TOR Raptors — run 'Check All Teams' first
+[10 Jul 2026 07:25] CHA Hornets vs ORL Magic (NBA Summer League) — Unresolved team(s): CHA Hornets, ORL Magic — run 'Check All Teams' first
+[10 Jul 2026 07:25] MIL Bucks vs MIA Heat (NBA Summer League) — Unresolved team(s): MIL Bucks, MIA Heat — run 'Check All Teams' first
+[10 Jul 2026 07:25] DMV Trilogy vs Dallas Power (BIG3) — Unresolved team(s): DMV Trilogy, Dallas Power — run 'Check All Teams' first
+[10 Jul 2026 07:25] Chicago Triplets vs Boston Ball Hogs (BIG3) — Unresolved team(s): Chicago Triplets, Boston Ball Hogs — run 'Check All Teams' first
+[10 Jul 2026 07:25] SBC Red Lions vs DLSU Green Archers (Philippines Preseason Cup) — Unresolved team(s): SBC Red Lions, DLSU Green Archers — run 'Check All Teams' first
+[10 Jul 2026 07:25] Larre Borges vs Urupan de Pando (Uruguay Liga de Ascenso) — Unresolved team(s): Urupan de Pando — run 'Check All Teams' first
+[10 Jul 2026 07:25] Stockolmo vs Olimpia (Uruguay Liga de Ascenso) — Unresolved team(s): Stockolmo — run 'Check All Teams' first
+[10 Jul 2026 07:25] CLE Cavaliers vs IND Pacers (NBA Summer League) — Unresolved team(s): CLE Cavaliers, IND Pacers — run 'Check All Teams' first
+[10 Jul 2026 07:25] POR Trail Blazers vs PHX Suns (NBA Summer League) — Unresolved team(s): POR Trail Blazers, PHX Suns — run 'Check All Teams' first
+[10 Jul 2026 07:25] SAC Kings vs LA Clippers (NBA Summer League) — Unresolved team(s): SAC Kings, LA Clippers — run 'Check All Teams' first
+[10 Jul 2026 07:25] Camberwell Dragons vs Melbourne University (Australia Big V) — Unresolved team(s): Camberwell Dragons, Melbourne University — run 'Check All Teams' first
+[10 Jul 2026 07:25] Arecibo vs Aguada Santeros (Puerto Rico Superior Nacional) — Unresolved team(s): Arecibo — run 'Check All Teams' first
+[10 Jul 2026 07:25] Mongolia 3x3 U21 (W) vs Kazakhstan 3x3 U21 (W) (FIBA 3x3 U21 Nations League Women) — Unresolved team(s): Mongolia 3x3 U21 (W), Kazakhstan 3x3 U21 (W) — run 'Check All Teams' first
+[10 Jul 2026 07:25] UCU Canons vs Victoria Crocs (Uganda NBL) — Unresolved team(s): UCU Canons, Victoria Crocs — run 'Check All Teams' first
+[10 Jul 2026 07:25] Club Yale Women vs Aguada (W) (Uruguay Liga Women) — Unresolved team(s): Club Yale Women, Aguada (W) — run 'Check All Teams' first
+[10 Jul 2026 07:25] Korea University vs Sung Kyun Kwan University (Korea College MBC Cup) — Unresolved team(s): Sung Kyun Kwan University — run 'Check All Teams' first
+[10 Jul 2026 07:25] Basquete Tatui vs Corinthians (Brazil Copa Sao Paulo) — Unresolved team(s): Basquete Tatui, Corinthians — run 'Check All Teams' first
+[10 Jul 2026 07:25] RMIT University vs Pakenham Warriors (Australia Big V) — Unresolved team(s): RMIT University, Pakenham Warriors — run 'Check All Teams' first
+[10 Jul 2026 07:25] Gigantes de San Francisco vs Metros de Santiago (Dominican Republic LNB) — Unresolved team(s): Gigantes de San Francisco — run 'Check All Teams' first
+[10 Jul 2026 07:25] Mount Gambier Pioneers vs Keilor Thunder (Australia NBL1 South) — Unresolved team(s): Mount Gambier Pioneers — run 'Check All Teams' first
+[10 Jul 2026 07:25] UTA Jazz vs WAS Wizards (NBA Summer League) — Unresolved team(s): UTA Jazz, WAS Wizards — run 'Check All Teams' first
+[10 Jul 2026 07:25] Sweden U20 (W) vs Iceland U20 (W) (U20 European Championship Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:25] Belize City Defenders vs Orange Walk Running Rebels (Belize Elite League) — Unresolved team(s): Belize City Defenders, Orange Walk Running Rebels — run 'Check All Teams' first
+[10 Jul 2026 07:25] Dankook University vs Konkuk University (Korea College MBC Cup) — Unresolved team(s): Dankook University, Konkuk University — run 'Check All Teams' first
+[10 Jul 2026 07:25] Northern Force (W) vs Waverley Falcons (W) (Australia NBL1 South Women) — Unresolved team(s): Northern Force (W) — run 'Check All Teams' first
+[10 Jul 2026 07:25] Vaqueros de Bayamon vs Gigantes Carolina (Puerto Rico Superior Nacional) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:25] CSJL Knights vs UST Growling Tigers (Philippines Preseason Cup) — Unresolved team(s): CSJL Knights, UST Growling Tigers — run 'Check All Teams' first
+[10 Jul 2026 07:25] Miami 305 vs Houston Rig Hands (BIG3) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:25] Hungary U20 (W) vs Slovenia U20 (W) (U20 European Championship Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:25] Lagomar vs Montevideo (Uruguay Liga de Ascenso) — Unresolved team(s): Lagomar, Montevideo — run 'Check All Teams' first
+[10 Jul 2026 07:25] Knox Raiders vs Eltham Wildcats (Australia NBL1 South) — Unresolved team(s): Knox Raiders, Eltham Wildcats — run 'Check All Teams' first
+[10 Jul 2026 07:25] GS Warriors vs DAL Mavericks (NBA Summer League) — Unresolved team(s): DAL Mavericks — run 'Check All Teams' first
+[10 Jul 2026 07:26] CHI Bulls vs MEM Grizzlies (NBA Summer League) — Unresolved team(s): CHI Bulls, MEM Grizzlies — run 'Check All Teams' first
+[10 Jul 2026 07:26] Guyana vs Antigua and Barbuda (FIBA AmeriCup Pre-Qualifiers) — Unresolved team(s): Guyana — run 'Check All Teams' first
+[10 Jul 2026 07:26] NU Bulldogs vs JRU Heavy Bombers (Philippines Preseason Cup) — Unresolved team(s): JRU Heavy Bombers — run 'Check All Teams' first
+[10 Jul 2026 07:26] North Macedonia U20 vs Slovakia U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Ukraine U20 vs Georgia U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] BKN Nets vs NY Knicks (NBA Summer League) — Unresolved team(s): BKN Nets, NY Knicks — run 'Check All Teams' first
+[10 Jul 2026 07:26] DAL Wings vs TOR Tempo (WNBA) — Unresolved team(s): DAL Wings, TOR Tempo — run 'Check All Teams' first
+[10 Jul 2026 07:26] Terrafirma Dyip vs Titan Ultra Giant Risers (Philippines PBA Governors' Cup) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] China 3x3 U21 vs Qatar 3x3 U21 (FIBA 3x3 U21 Nations League) — Unresolved team(s): China 3x3 U21, Qatar 3x3 U21 — run 'Check All Teams' first
+[10 Jul 2026 07:26] GS Valkyries vs CON Sun (WNBA) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Casey Cavaliers (W) vs Dandenong Rangers (W) (Australia NBL1 South Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] McKinnon Cougars vs Bellarine Storm (Australia Big V) — Unresolved team(s): McKinnon Cougars, Bellarine Storm — run 'Check All Teams' first
+[10 Jul 2026 07:26] Latvia U20 (W) vs Italy U20 (W) (U20 European Championship Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] UP Fighting Maroons vs MU Cardinals (Philippines Preseason Cup) — Unresolved team(s): UP Fighting Maroons, MU Cardinals — run 'Check All Teams' first
+[10 Jul 2026 07:26] Mount Gambier Pioneers (W) vs Keilor Thunder (W) (Australia NBL1 South Women) — Unresolved team(s): Mount Gambier Pioneers (W) — run 'Check All Teams' first
+[10 Jul 2026 07:26] Albatros vs Sayago (Uruguay Liga de Ascenso) — Unresolved team(s): Albatros, Sayago — run 'Check All Teams' first
+[10 Jul 2026 07:26] LV Aces vs POR Fire (WNBA) — Unresolved team(s): POR Fire — run 'Check All Teams' first
+[10 Jul 2026 07:26] Tauranga Whai vs Wellington Saints (New Zealand NBL) — Unresolved team(s): Tauranga Whai — run 'Check All Teams' first
+[10 Jul 2026 07:26] Germany U20 (W) vs Serbia U20 (W) (U20 European Championship Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Puente Alto vs CDU Concepcion (Chile LNB) — Unresolved team(s): CDU Concepcion — run 'Check All Teams' first
+[10 Jul 2026 07:26] Macau Giant Pandas vs NLEX Road Warriors (Philippines PBA Governors' Cup) — Unresolved team(s): Macau Giant Pandas — run 'Check All Teams' first
+[10 Jul 2026 07:26] Bosnia-Herzegovina U20 vs Portugal U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Knox Raiders (W) vs Eltham Wildcats (W) (Australia NBL1 South Women) — Unresolved team(s): Knox Raiders (W), Eltham Wildcats (W) — run 'Check All Teams' first
+[10 Jul 2026 07:26] SEA Storm vs ATL Dream (WNBA) — Unresolved team(s): SEA Storm — run 'Check All Teams' first
+[10 Jul 2026 07:26] Al Riyadi Beirut vs Antonine (Lebanon FLB) — Unresolved team(s): Al Riyadi Beirut — run 'Check All Teams' first
+[10 Jul 2026 07:26] Croatia U20 (W) vs Belgium U20 (W) (U20 European Championship Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Kepler BBC vs Tigers (Rwanda National League) — Unresolved team(s): Kepler BBC, Tigers — run 'Check All Teams' first
+[10 Jul 2026 07:26] Lithuania U20 (W) vs France U20 (W) (U20 European Championship Women) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Switzerland U20 vs Luxembourg U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:26] Spain U20 (W) vs Türkiye U20 (W) (U20 European Championship Women) — Unresolved team(s): Türkiye U20 (W) — run 'Check All Teams' first
+[10 Jul 2026 07:26] Seoul National University vs Woosuk University (Korea College MBC Cup) — Unresolved team(s): Seoul National University, Woosuk University — run 'Check All Teams' first
+[10 Jul 2026 07:26] Netherlands U20 vs Albania U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:27] Botafogo RJ U22 vs Tijuca TC U22 (Brazil Camp.Carioca U22) — Unresolved team(s): Botafogo RJ U22, Tijuca TC U22 — run 'Check All Teams' first
+[10 Jul 2026 07:27] Colon vs Trouville (Uruguay Liga de Ascenso) — Unresolved team(s): Colon — run 'Check All Teams' first
+[10 Jul 2026 07:27] Wyndham Basketball vs Hume City Broncos (Australia Big V) — Unresolved team(s): Wyndham Basketball, Hume City Broncos — run 'Check All Teams' first
+[10 Jul 2026 07:27] Kyung Hee University vs Hanyang University (Korea College MBC Cup) — Unresolved team(s): Kyung Hee University — run 'Check All Teams' first
+[10 Jul 2026 07:27] Saigon Heat vs Danang Dragons (Vietnam VBA) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:27] Armenia U20 vs Iceland U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:27] Ulsan University vs Chodang University (Korea College MBC Cup) — Unresolved team(s): Ulsan University — run 'Check All Teams' first
+[10 Jul 2026 07:27] Warrnambool Mermaids (W) vs Hume City Broncos (W) (Australia Big V Women) — Unresolved team(s): Warrnambool Mermaids (W), Hume City Broncos (W) — run 'Check All Teams' first
+[10 Jul 2026 07:27] Sangmyung University vs Chung-Ang University (Korea College MBC Cup) — Unresolved team(s): Sangmyung University, Chung-Ang University — run 'Check All Teams' first
+[10 Jul 2026 07:27] Sweden U20 vs Azerbaijan U20 (U20 European Championship) — Report could not be generated — team may not be found in Highlightly database.
+[10 Jul 2026 07:27] Fuerza Paraiso vs Green (El Salvador LNB Segunda) — Unresolved team(s): Fuerza Paraiso, Green — run 'Check All Teams' first
